@@ -20,7 +20,7 @@
 | pin-014-rainy-window-print | Cozy Autumn Home & Fall Decor | `autumn room decor` | supplement_keywords.csv (prefix_match, seed 'autumn home decor') | GB | 63.0 | 13.9 | 100.0 | 16.0 |
 | pin-015-printable-wall-art-guide | Printable Wall Art & Coloring Pages | `printable wall art` | supplement_keywords.csv (prefix_match, seed 'printable wall art') | US | 56.0 | 74.2 | 100.0 | -44.0 |
 | pin-016-coloring-pages-printables | Printable Wall Art & Coloring Pages | `coloring pages for kids` | suggestions_detailed.csv (prefix_match, seed 'coloring pages') | GB | 100 | 43.1 | 100 | 76 |
-| pin-017-christmas-living-room | Christmas Home Decor & Festive Ideas | `christmas living room ideas` | supplement_keywords.csv (related_terms, seed 'christmas home decor') | US | 17.0 | 9.0 | 60.0 | 15.0 |
+| pin-017-christmas-living-room | Christmas Home Decor & Festive Ideas | `cozy christmas living room` | supplement_keywords.csv (prefix_match, seed 'cozy christmas') | US | 10.0 | 14.0 | 100.0 | -1.0 |
 | pin-018-christmas-table | Christmas Home Decor & Festive Ideas | `christmas table decor` | supplement_keywords.csv (prefix_match, seed 'christmas home decor') | GB | 11.0 | 16.2 | 100.0 | -1.0 |
 | pin-019-christmas-tree-print | Christmas Home Decor & Festive Ideas | `christmas home decor ideas` | supplement_keywords.csv (prefix_match, seed 'christmas home decor') | US | 11.0 | 14.5 | 100.0 | 2.0 |
 | pin-020-gift-quote-small-joys | Gift Ideas & Small Joys | `small gift ideas` | suggestions_detailed.csv (related_terms, seed 'gift ideas') | US | 78 | 18.7 | 78 | 70 |

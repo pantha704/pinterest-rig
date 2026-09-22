@@ -13,15 +13,15 @@
     "composer_open": {
       "url": "https://in.pinterest.com/pin-creation-tool/",
       "draftsSidebar": true,
-      "previewImages": 1
+      "previewImages": 0
     },
     "upload": {
       "uploaded": true,
       "previews": [
         {
-          "src": "https://i.pinimg.com/736x/d6/7c/dd/d67cddbed35e84703f347cdc7dd3fce0.jpg",
-          "w": 736,
-          "h": 1104,
+          "src": "blob:https://in.pinterest.com/ad0f1217-d809-4249-be7f-480b7b992fb9",
+          "w": 1000,
+          "h": 1500,
           "box": [
             72,
             72
@@ -39,7 +39,144 @@
     },
     "board": {
       "current": "Birthday cakes for babies",
-      "inventory": [],
+      "inventory": [
+        {
+          "ref": "@e1",
+          "label": "input[search] \"Search through your boards\": (Search)"
+        },
+        {
+          "ref": "@e2",
+          "label": "button \"Birthday cakes for babies\""
+        },
+        {
+          "ref": "@e3",
+          "label": "button \"First birthday themes\""
+        },
+        {
+          "ref": "@e4",
+          "label": "button \"Programmer humor\""
+        },
+        {
+          "ref": "@e5",
+          "label": "button \"Create board\""
+        },
+        {
+          "ref": "@e6",
+          "label": "link \"Skip to content\""
+        },
+        {
+          "ref": "@e7",
+          "label": "input[text] \"Search\": (Search) [collapsed]"
+        },
+        {
+          "ref": "@e8",
+          "label": "button \"\""
+        },
+        {
+          "ref": "@e9",
+          "label": "link \"Your profileP\""
+        },
+        {
+          "ref": "@e10",
+          "label": "button \"\" [collapsed]"
+        },
+        {
+          "ref": "@e11",
+          "label": "link \"\""
+        },
+        {
+          "ref": "@e12",
+          "label": "link \"\""
+        },
+        {
+          "ref": "@e13",
+          "label": "link \"\""
+        },
+        {
+          "ref": "@e14",
+          "label": "link \"\""
+        },
+        {
+          "ref": "@e15",
+          "label": "button \"\""
+        },
+        {
+          "ref": "@e16",
+          "label": "button \"\" [collapsed]"
+        },
+        {
+          "ref": "@e17",
+          "label": "button \"\" [collapsed]"
+        },
+        {
+          "ref": "@e18",
+          "label": "button \"\" [collapsed]"
+        },
+        {
+          "ref": "@e19",
+          "label": "button \"\""
+        },
+        {
+          "ref": "@e20",
+          "label": "button \"Create new\""
+        },
+        {
+          "ref": "@e21",
+          "label": "button \"30 days until expiration\""
+        },
+        {
+          "ref": "@e22",
+          "label": "button \"\" [collapsed]"
+        },
+        {
+          "ref": "@e23",
+          "label": "button \"Publish\""
+        },
+        {
+          "ref": "@e24",
+          "label": "div[img] \"\""
+        },
+        {
+          "ref": "@e26",
+          "label": "button \"\""
+        },
+        {
+          "ref": "@e27",
+          "label": "input[text] \"Title\": (Tell everyone what your Pin is about)"
+        },
+        {
+          "ref": "@e28",
+          "label": "button \"\""
+        },
+        {
+          "ref": "@e29",
+          "label": "input[url] \"Link\": (Add a link)"
+        },
+        {
+          "ref": "@e30",
+          "label": "button \"BoardBirthday cakes for babies\""
+        },
+        {
+          "ref": "@e31",
+          "label": "span \"\""
+        },
+        {
+          "ref": "@e32",
+          "label": "span \"\""
+        },
+        {
+          "ref": "@e33",
+          "label": "input[text] \"Tagged topics (0)\": (Search for a tag) [collapsed]"
+        },
+        {
+          "ref": "@e34",
+          "label": "button \"Add products\""
+        },
+        {
+          "ref": "@e35",
+          "label": "button \"More options\" [collapsed]"
+        }
+      ],
       "changed": false
     },
     "final": {
@@ -61,5 +198,5 @@
   ],
   "status": "COMPOSED_NOT_PUBLISHED",
   "notes": "Pin left composed in Pinterest's drafts-backed builder. Publish/Done was never clicked, so no live public pin exists.",
-  "elapsed_s": 237.9
+  "elapsed_s": 299.2
 }

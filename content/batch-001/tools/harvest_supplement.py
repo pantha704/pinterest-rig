@@ -138,6 +138,15 @@ def main() -> int:
         n += 1
         time.sleep(random.uniform(*DELAY))
 
+    seen, deduped = set(), []
+    for r in out["rows"]:
+        key = (r["seed"], r["suggestion"], r["source"], r["country"])
+        if key in seen:
+            continue
+        seen.add(key)
+        deduped.append(r)
+    out["rows"] = deduped
+
     dst = DATA / "supplement_keywords.json"
     dst.write_text(json.dumps(out, indent=2))
 

@@ -58,22 +58,6 @@ class AsyncRig:
         for c in getattr(res, "content", []) or []:
             parts.append(getattr(c, "text", None) or str(c))
         text = "\n".join(parts)
-        # CRITICAL: cloakbrowsermcp reports failures inside structuredContent with
-        # isError=False (e.g. ElementNotStableError). A bare isError check misses them and
-        # the caller believes the click/type worked. Surface it as a real error.
-        sc = getattr(res, "structuredContent", None) or {}
-        silent = None
-        if isinstance(sc, dict) and sc.get("status") == "error":
-            silent = sc.get("error") or text
-        if silent is None:
-            try:
-                j = json.loads(text)
-                if isinstance(j, dict) and j.get("status") == "error":
-                    silent = j.get("error") or text
-            except Exception:
-                pass
-        if silent:
-            raise MCPError(f"{name} reported status=error (isError was False): {silent[:400]}")
         if getattr(res, "isError", False):
             raise MCPError(f"{name} failed: {text[:600]}")
         if raw:

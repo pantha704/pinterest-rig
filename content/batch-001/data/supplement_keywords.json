@@ -1,5 +1,5 @@
 {
-  "harvested": "2026-09-22T06:12:28Z",
+  "harvested": "2026-09-22T06:26:06Z",
   "source": "https://trends.pinterest.com/prefix_match/ + /related_terms/",
   "note": "supplementary gap-fill for batch-001 (christmas decor / autumn home / printable wall art)",
   "rows": [
@@ -775,17 +775,6 @@
     },
     {
       "seed": "christmas home decor",
-      "suggestion": "classic christmas decor",
-      "source": "related_terms",
-      "country": "US",
-      "latest": 7.0,
-      "mean": 6.3,
-      "max": 45.0,
-      "trend_52w": 5.0,
-      "weeks": 66
-    },
-    {
-      "seed": "christmas home decor",
       "suggestion": "outdoor fall decor",
       "source": "related_terms",
       "country": "US",
@@ -794,17 +783,6 @@
       "max": 100.0,
       "trend_52w": -62.0,
       "weeks": 53
-    },
-    {
-      "seed": "christmas home decor",
-      "suggestion": "christmas living room ideas",
-      "source": "related_terms",
-      "country": "US",
-      "latest": 17.0,
-      "mean": 9.0,
-      "max": 60.0,
-      "trend_52w": 15.0,
-      "weeks": 66
     },
     {
       "seed": "christmas home decor",
@@ -827,6 +805,28 @@
       "max": 99.0,
       "trend_52w": 71.0,
       "weeks": 66
+    },
+    {
+      "seed": "christmas home decor",
+      "suggestion": "fall decor ideas",
+      "source": "related_terms",
+      "country": "US",
+      "latest": 0.0,
+      "mean": 12.2,
+      "max": 67.0,
+      "trend_52w": -28.0,
+      "weeks": 66
+    },
+    {
+      "seed": "christmas home decor",
+      "suggestion": "cute bedroom ideas",
+      "source": "related_terms",
+      "country": "US",
+      "latest": 63.0,
+      "mean": 71.8,
+      "max": 100.0,
+      "trend_52w": 6.0,
+      "weeks": 53
     }
   ]
 }

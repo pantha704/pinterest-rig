@@ -240,6 +240,8 @@ PINS = [
             "title": "Warm Your Home for Autumn Without Buying Anything",
             "label": "FIVE-MINUTE CHANGES",
             "subtitle": "Amber bulbs, the wool throws you packed away and one bowl of dried stems — the cheapest autumn refresh there is.",
+            "block_color": "#8F3D22",
+            "block_ink": "#FBEFE2",
         },
     },
     {
@@ -303,7 +305,7 @@ PINS = [
     {
         "stem": "pin-017-christmas-living-room",
         "board": "christmas", "template": "bold_title", "palette": "navy",
-        "target_keyword": "christmas living room ideas",
+        "target_keyword": "cozy christmas living room",
         "title": "Christmas Home Decor Ideas: A Cozy Living Room, Nothing Overdone",
         "description": "Christmas home decor that stays cozy instead of cluttered: warm white lights only, one tree you actually have space for, greenery along the mantel rather than in every corner, and a throw ready for the evenings in. Start planning in autumn — December goes fast. #christmasdecor #cozyhome #christmashome",
         "alt_text": "Deep green and navy text pin reading 'A Cozy Christmas Living Room, Nothing Overdone' with the label 'Warm and Understated'",
@@ -312,7 +314,8 @@ PINS = [
             "title": "A Cozy Christmas Living Room, Nothing Overdone",
             "label": "WARM AND UNDERSTATED",
             "subtitle": "Warm white lights, one tree you have space for and greenery that lasts — the calm version of December.",
-            "colors": {"block_color": "#1E3A2F", "block_ink": "#F7F2E8"},
+            "block_color": "#1E3A2F",
+            "block_ink": "#F7F2E8",
         },
     },
     {
@@ -347,7 +350,8 @@ PINS = [
             "badge": "PRINTABLE ART",
             "title": "Minimal Christmas Tree Print",
             "subtitle": "One tree, one star and a lot of quiet space — a festive print that works with your decor, not against it.",
-            "colors": {"caption_color": "#1E3A2F", "caption_ink": "#F7F2E8"},
+            "caption_color": "#1E3A2F",
+            "caption_ink": "#F7F2E8",
         },
     },
     {
@@ -512,6 +516,25 @@ def main() -> int:
         w = csv.DictWriter(f, fieldnames=cols)
         w.writeheader()
         w.writerows(cite_rows)
+
+    # Poster-ready per-pin specs, in the exact schema poster/poster.py consumes
+    # (REQUIRED: image_path, title, board_name; optional description, link).
+    # batch-001 is deliberately link-free.
+    poster_dir = BATCH / "poster-specs"
+    poster_dir.mkdir(parents=True, exist_ok=True)
+    for row in manifest_rows:
+        stem = Path(row["file"]).stem
+        spec = {
+            "image_path": f"../rendered/{stem}.png",
+            "title": row["title"],
+            "description": row["description"],
+            "link": None,
+            "board_name": row["board"],
+            "alt_text": row["alt_text"],
+            "target_keyword": row["target_keyword"],
+            "_source": "content/batch-001 (manifest.csv); link-free warm-up batch",
+        }
+        (poster_dir / f"{stem}.json").write_text(json.dumps(spec, indent=2, ensure_ascii=False) + "\n")
 
     with open(DATA / "target-keywords.md", "w") as f:
         f.write("# Batch-001 target keywords — every row cited from the harvest\n\n")

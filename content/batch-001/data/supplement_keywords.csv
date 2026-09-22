@@ -26,6 +26,7 @@ christmas home decor,autumn home decor,prefix_match,GB,63.0,16.2,100.0,-26.0,52
 autumn home decor,autumn home decor,prefix_match,GB,63.0,16.2,100.0,-26.0,52
 autumn home decor,home decor ideas,prefix_match,GB,63.0,67.2,100.0,-26.0,52
 autumn home decor,autumn room decor,prefix_match,GB,63.0,13.9,100.0,16.0,52
+christmas home decor,cute bedroom ideas,related_terms,US,63.0,71.8,100.0,6.0,53
 christmas home decor,home decor bedroom,prefix_match,GB,60.0,25.5,100.0,26.0,52
 autumn home decor,home decor bedroom,prefix_match,GB,60.0,25.5,100.0,26.0,52
 christmas home decor,diy home decor,prefix_match,GB,58.0,57.3,100.0,-42.0,52
@@ -49,7 +50,6 @@ christmas home decor,dark home decor,prefix_match,GB,33.0,33.8,100.0,-14.0,52
 christmas decorations,nightmare before christmas decorations,prefix_match,US,31.0,18.2,100.0,-20.0,52
 christmas home decor,decor home living room,prefix_match,GB,27.0,49.1,100.0,-35.0,52
 christmas home decor,home entrance decor,prefix_match,GB,24.0,32.1,100.0,-31.0,52
-christmas home decor,christmas living room ideas,related_terms,US,17.0,9.0,60.0,15.0,66
 christmas decorations,diy christmas decorations easy,prefix_match,US,12.0,13.5,100.0,5.0,52
 christmas home decor,christmas mantle ideas,related_terms,US,12.0,9.1,62.0,10.0,66
 christmas home decor,christmas home decor ideas,prefix_match,US,11.0,14.5,100.0,2.0,52
@@ -58,7 +58,6 @@ christmas decorations,vintage christmas decorations,prefix_match,US,11.0,13.3,10
 cozy christmas,cozy christmas living room,prefix_match,US,10.0,14.0,100.0,-1.0,52
 cozy christmas,cozy christmas tree,prefix_match,US,7.0,12.8,100.0,-2.0,52
 cozy christmas,cozy christmas living room ideas,prefix_match,US,7.0,10.6,100.0,-1.0,52
-christmas home decor,classic christmas decor,related_terms,US,7.0,6.3,45.0,5.0,66
 christmas home decor,home christmas decor,prefix_match,US,6.0,11.8,100.0,-1.0,52
 christmas decorations,christmas decorations apartment,prefix_match,US,6.0,11.3,100.0,-15.0,52
 cozy christmas,cozy christmas kitchen,prefix_match,US,6.0,14.1,100.0,-5.0,52
@@ -74,3 +73,4 @@ christmas decorations,christmas decorations indoor,prefix_match,US,1.0,11.4,100.
 christmas decorations,christmas decorations centerpiece,prefix_match,US,1.0,8.1,100.0,0.0,52
 cozy christmas,cozy christmas outfit,prefix_match,US,1.0,5.0,100.0,-1.0,52
 cozy christmas,cozy christmas wallpaper,prefix_match,US,1.0,8.7,100.0,-1.0,52
+christmas home decor,fall decor ideas,related_terms,US,0.0,12.2,67.0,-28.0,66

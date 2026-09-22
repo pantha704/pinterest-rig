@@ -9,8 +9,6 @@
   "badge": "PRINTABLE ART",
   "title": "Minimal Christmas Tree Print",
   "subtitle": "One tree, one star and a lot of quiet space — a festive print that works with your decor, not against it.",
-  "colors": {
-    "caption_color": "#1E3A2F",
-    "caption_ink": "#F7F2E8"
-  }
+  "caption_color": "#1E3A2F",
+  "caption_ink": "#F7F2E8"
 }

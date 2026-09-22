@@ -208,8 +208,8 @@ def stocking(img, d, cx, top_y, colour, cuff_colour, foot=1) -> None:
     rrect(d, x_a, top_y + body_h - 12, x_b, top_y + body_h + foot_h, foot_h / 2.0, colour)
     blend_rect(img, x_a, top_y + body_h + foot_h - 12, x_b, top_y + body_h + foot_h,
                "#6B4A32", 0.12)                                      # foot shade
-    rect(d, cx - leg - 9, top_y - 8, cx + leg + 9, top_y + 58, cuff_colour)
-    blend_rect(img, cx - leg - 9, top_y + 52, cx + leg + 9, top_y + 58, "#6B4A32", 0.16)
+    rect(d, cx - leg - 9, top_y - 8, cx + leg + 9, top_y + 44, cuff_colour)
+    blend_rect(img, cx - leg - 9, top_y + 38, cx + leg + 9, top_y + 44, "#6B4A32", 0.16)
 
 
 # --------------------------------------------------------------------------
@@ -227,8 +227,8 @@ def autumn_arch_sunset() -> Path:
 
     ell(d, cx, 858, 150, 150, "#E8A33D")             # low sun, sitting on the horizon
 
-    seg(d, 128, 1120, 1072, 1120, "#7A4A33", 6)      # three thin horizon rules
-    seg(d, 214, 1186, 986, 1186, "#7A4A33", 3)
+    seg(d, 80, 1120, 1120, 1120, "#7A4A33", 6)       # three thin horizon rules
+    seg(d, 200, 1186, 1000, 1186, "#7A4A33", 3)
     seg(d, 320, 1248, 880, 1248, "#7A4A33", 2)
 
     return save(img, "autumn-arch-sunset.png", seed=101)
@@ -282,15 +282,14 @@ def autumn_dried_stems() -> Path:
         x1 = x0 + math.tan(math.radians(tilt)) * hgt
         y1 = y0 - hgt
         ang = math.degrees(math.atan2(y1 - y0, x1 - x0))
-        seg(d, x0, y0, x1, y1, "#B08A5E", 5)                             # stem, full length
-        px_, py_ = x0 + (x1 - x0) * 0.68, y0 + (y1 - y0) * 0.68          # plume rides the upper stem
-        poly(d, leaf_points(px_, py_, hgt * 0.66, wid, ang, tip=0.95), colr)
+        seg(d, x0, y0, x0 + (x1 - x0) * 0.78, y0 + (y1 - y0) * 0.78, "#B08A5E", 5)
+        poly(d, leaf_points((x0 + x1) / 2.0, (y0 + y1) / 2.0, hgt, wid, ang, tip=0.95), colr)
 
-    for dx, hgt, tilt in ((-16, 352, -5), (52, 372, 7)):                     # two shorter sprigs
+    for dx, hgt, tilt in ((-16, 430, -4), (52, 452, 6)):                     # two bare stems
         x0, y0 = vx + dx, v_top - 12
         x1, y1 = x0 + math.tan(math.radians(tilt)) * hgt, y0 - hgt
         seg(d, x0, y0, x1, y1, "#B08A5E", 5)
-        poly(d, leaf_points(x1, y1 - 12, 74, 34, math.degrees(math.atan2(y1 - y0, x1 - x0)), 0.9),
+        poly(d, leaf_points(x1, y1 - 9, 54, 26, math.degrees(math.atan2(y1 - y0, x1 - x0)), 0.9),
              "#6E7A4F")
 
     return save(img, "autumn-dried-stems.png", seed=303)
@@ -309,12 +308,9 @@ def autumn_stripe_wallpaper() -> Path:
         rect(d, x + period - narrow, 0, x + period, H, "#6F7A50")   # narrow olive
 
     wain_y = 1000.0                                                  # wainscot, 1/3 from bottom
-    rect(d, 0, wain_y - 14, W, wain_y, "#EAD9B8")                    # rail cap
-    seg(d, 0, wain_y, W, wain_y, "#B99A78", 5)                       # rail edge
-    blend_rect(img, 0, wain_y + 5, W, wain_y + 22, "#8B6F53", 0.26)  # shadow under the rail
-    blend_rect(img, 0, wain_y + 20, W, 1444, "#DFC7A4", 0.80)        # painted panel below
-    for jx in (150, 450, 750, 1050):                                 # panel stiles
-        seg(d, jx, wain_y + 24, jx, 1444, "#C6A87F", 4)
+    blend_rect(img, 0, wain_y, W, 1444, "#E2C9AA", 0.42)             # panelled lower wall
+    seg(d, 0, wain_y, W, wain_y, "#B99A78", 6)                       # wainscot rail
+    blend_rect(img, 0, wain_y + 6, W, wain_y + 22, "#8B6F53", 0.30)  # shadow under the rail
     rect(d, 0, 1444, W, 1452, "#C9AC88")                             # baseboard cap
     blend_rect(img, 0, 1452, W, H, "#DCC4A2", 0.55)                  # baseboard
     blend_rect(img, 0, 1452, W, 1458, "#8B6F53", 0.22)
@@ -336,10 +332,10 @@ def cozy_window_rain() -> Path:
     gradient_box(glass, fx0, fy0, fx1, fy1, "#A8BAC6", "#7F94A3")   # dusk sky outside
     rng = np.random.default_rng(77)
     x = fx0 + 14
-    while x < fx1 - 12:                                  # rain, clipped to the glass
-        y = fy0 + 6.0
-        while y < fy1 - 46:
-            length = min(float(rng.uniform(96, 168)), fy1 - 6 - y)
+    while x < fx1 - 12:                                  # rain falls over the whole glass
+        y = fy0 - 30.0
+        while y < fy1:
+            length = float(rng.uniform(96, 168))
             seg(gd, x, y, x + 20, y + length, "#B7C8D2", 3)
             y += length + float(rng.uniform(26, 92))
         x += float(rng.uniform(44, 70))
@@ -366,21 +362,18 @@ def cozy_window_rain() -> Path:
     arc(d, 404, 1000, 26, 30, -78, 78, "#C0603C", 11)
     ell(d, 365, 952, 47, 12, "#E09A73")                                   # rim
     ell(d, 365, 953, 30, 6, "#7E3C1F")                                    # coffee
-    ell(d, 372, 1062, 68, 13, "#BFA17C")                                  # mug contact shadow
-    seg(d, 320, 1053, 412, 1053, "#A8895F", 3)
+    blend_rect(img, 300, fy1 - 5, 470, fy1 + 28, "#8B6F53", 0.22)         # contact shadow
 
     rect(d, 508, 1030, 800, fy1 + 2, "#6E7A4F")                           # books
     rect(d, 508, 1030, 800, 1036, "#F3E7D2")
     rect(d, 528, 1006, 778, 1030, "#A03B47")
     rect(d, 528, 1006, 778, 1012, "#F3E7D2")
-    ell(d, 656, 1064, 154, 15, "#B99A72")                                 # book contact shadow
-    seg(d, 508, 1053, 800, 1053, "#A8895F", 3)
+    blend_rect(img, 490, fy1 - 5, 830, fy1 + 28, "#8B6F53", 0.22)
 
-    radial_glow(img, 330, 1230, 560, "#E8A33D", 0.28, clip=(0, fy1, W, H))      # warm pool below
-    radial_glow(img, 372, 1010, 250, "#E8A33D", 0.20, clip=(118, fy1, 620, H))  # light on the sill
-    radial_glow(img, 600, 1090, 430, "#E8A33D", 0.14, clip=(118, fy1, 1082, fy1 + 62))
-    radial_glow(img, 250, 620, 320, "#F6C980", 0.14, clip=(0, 220, fx0, 1150))  # wall, left of frame
-    blend_rect(img, 118, fy1 + 62, 1082, fy1 + 86, "#8B6F53", 0.12)             # shadow under sill
+    radial_glow(img, 300, 1240, 560, "#E8A33D", 0.30)                     # lamp light, room
+    radial_glow(img, 366, 940, 210, "#E8A33D", 0.24)
+    radial_glow(img, 600, 1090, 430, "#E8A33D", 0.16, clip=(118, fy1, 1082, fy1 + 62))
+    radial_glow(img, 250, 640, 300, "#F6C980", 0.12, clip=(0, 0, 1160, 1200))
 
     return save(img, "cozy-window-rain.png", seed=505)
 
@@ -407,7 +400,7 @@ def christmas_tree_minimal() -> Path:
 # --------------------------------------------------------------------------
 def christmas_gift_stack() -> Path:
     img, d = canvas("#FBF3E6")
-    vertical_gradient(img, "#FCF7EC", "#F5EAD8")
+    vertical_gradient(img, "#FCF7EC", "#F1E1CB")
 
     ell(d, 600, 1342, 442, 26, "#DBC5A2")                            # ground shadow
 
@@ -417,9 +410,9 @@ def christmas_gift_stack() -> Path:
         seg(d, x0, y0 + 46, x1, y0 + 46, lid, 3)
         rect(d, 568, y0, 632, y1, ribbon)                            # vertical ribbon
         rect(d, x0, y0 + (y1 - y0 - 54) / 2.0, x1, y0 + (y1 - y0 + 54) / 2.0, ribbon)
-        blend_rect(img, x0, y1 - 8, x1, y1 + 16, "#6B4A32", 0.15)
+        blend_rect(img, x0, y1 - 10, x1, y1, "#6B4A32", 0.10)
 
-    box(242, 940, 958, 1330, "#D9C093", "#CCB283", "#9E3B4A")        # sand cream, berry ribbon
+    box(242, 940, 958, 1330, "#E7D3AC", "#D9C294", "#9E3B4A")        # sand cream, berry ribbon
     box(330, 590, 870, 940, "#9E3B4A", "#8C3340", "#E8D3AE")         # berry, cream ribbon
     box(420, 300, 780, 590, "#2E4636", "#263B2D", "#D9A059")         # forest, ochre ribbon
 
@@ -429,8 +422,6 @@ def christmas_gift_stack() -> Path:
          "#D9A059")                                                  # ribbon tail, right
     poly(d, leaf_points(514, 250, 178, 108, 203, 0.9), "#E8A33D")    # bow loops
     poly(d, leaf_points(686, 250, 178, 108, -23, 0.9), "#E8A33D")
-    poly(d, leaf_points(520, 251, 112, 52, 203, 0.9), "#FAF4E7")     # loop gaps
-    poly(d, leaf_points(680, 251, 112, 52, -23, 0.9), "#FAF4E7")
     ell(d, 600, 288, 31, 31, "#C98428")                              # knot
 
     return save(img, "christmas-gift-stack.png", seed=707)
@@ -461,7 +452,7 @@ def christmas_mantel_garland() -> Path:
     blend_rect(img, 856, 700, 966, 810, "#8B6F53", 0.12)
     blend_rect(img, 316, 690, 884, 806, "#8B6F53", 0.14)             # shadow behind the swag
     stocking(img, d, 292, 706, "#9E3B4A", "#F0E2CB", foot=-1)        # stockings
-    stocking(img, d, 908, 706, "#9E3B4A", "#2E4636", foot=1)
+    stocking(img, d, 908, 706, "#2E4636", "#F0E2CB", foot=1)
 
     x0g, x1g = 316.0, 884.0                                          # garland swag
     steps = 60
@@ -479,11 +470,6 @@ def christmas_mantel_garland() -> Path:
         x = x0g + (x1g - x0g) * t
         top = 652.0 + 122.0 * math.sin(math.pi * t)
         poly(d, leaf_points(x, top + 6, 60, 34, 196 + (i % 3) * 14, 0.9), "#3E5B47")
-    for ex, angs in ((x0g, (205, 245, 290)), (x1g, (335, 295, 250))):  # ends laid over the mantel
-        sgn = 1 if ex == x0g else -1
-        for k, ang in enumerate(angs):
-            poly(d, leaf_points(ex + sgn * (12 + k * 8), 664 - k * 7, 116 - k * 10, 66, ang, 0.9),
-                 "#3E5B47")
     for i in range(13):                                              # berries and baubles
         t = (i + 0.5) / 13
         x = x0g + (x1g - x0g) * t
@@ -491,16 +477,14 @@ def christmas_mantel_garland() -> Path:
         thick = 96.0 - 30.0 * math.sin(math.pi * t)
         ell(d, x, top + thick * 0.55, 15, 15, ("#C0603C", "#D9A059", "#EFE3CF")[i % 3])
 
-    for cx, hgt in ((368, 150), (832, 196)):                         # candles in little brass cups
+    for cx, hgt in ((368, 150), (832, 196)):                         # candles on small holders
         top = 640 - hgt
-        rect(d, cx - 27, 604, cx + 27, 644, "#BE9455")               # cup
-        ell(d, cx, 604, 27, 9, "#D2AC70")
-        ell(d, cx, 644, 27, 9, "#A8834A")
-        rect(d, cx - 22, top, cx + 22, 606, "#F3E7D2")
-        blend_rect(img, cx + 9, top, cx + 22, 606, "#BFA88A", 0.28)
+        ell(d, cx, 640, 44, 13, "#D9C4A0")
+        ell(d, cx, 636, 34, 9, "#EADCC2")
+        rect(d, cx - 22, top, cx + 22, 638, "#F3E7D2")
+        blend_rect(img, cx + 9, top, cx + 22, 638, "#BFA88A", 0.28)
         ell(d, cx, top, 22, 8, "#FBF3E4")
         radial_glow(img, cx, top - 46, 190, "#E8A33D", 0.42)
-        radial_glow(img, cx, 630, 150, "#E8A33D", 0.22, clip=(230, 641, 970, 700))
         flame(d, cx, top - 4, 34, 74, "#E8A33D", "#FBE3B4")
 
     return save(img, "christmas-mantel-garland.png", seed=808)
