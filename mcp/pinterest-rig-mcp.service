@@ -1,0 +1,15 @@
+[Unit]
+Description=CloakBrowser MCP server for the Pinterest rig (:8933)
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+# Adjust User + paths for your host. %h expands to the service user's home.
+User=ubuntu
+WorkingDirectory=%h/pinterest-rig/mcp
+ExecStart=%h/.local/share/uv/tools/cloakbrowsermcp/bin/python %h/pinterest-rig/mcp/pinterest_mcp_server.py
+Restart=on-failure
+RestartSec=5
+
+[Install]
+WantedBy=multi-user.target

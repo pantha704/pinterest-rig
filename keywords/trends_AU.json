@@ -1,0 +1,15 @@
+{
+ "source": "https://trends.pinterest.com/top_trends_filtered/",
+ "country": "AU",
+ "country_param": "AU",
+ "presets": {},
+ "status": "unsupported_region",
+ "note": "AU is not a supported Pinterest Trends region: every trendsPreset value (1,2,3,4) returned HTTP 400 with an empty JSON body `{}`, tried 2026-09-22. US, GB, GB+IE, CA and DE all returned data. No AU trend data exists to harvest.",
+ "tried": [
+  "trendsPreset=1",
+  "trendsPreset=2",
+  "trendsPreset=3",
+  "trendsPreset=4"
+ ],
+ "harvested_at": "2026-09-22T05:31:00Z"
+}

@@ -1,0 +1,12 @@
+{
+  "template": "photo_frame",
+  "palette": "sage",
+  "fit": "contain",
+  "photo": "assets/art-still-life.png",
+  "kicker": "New artwork",
+  "badge": "Best seller",
+  "title": "Minimal Still Life Print",
+  "subtitle": "Soft neutral tones that work in any room.",
+  "brand": "Calm Studio",
+  "handle": "@calmstudio"
+}

@@ -1,0 +1,6 @@
+{
+  "snapshot": "Page: (7) Pinterest\nURL: https://in.pinterest.com/pin-creation-tool/\nViewport: 1920x947\n---\n[@e1] link \"Skip to content\"\n[@e2] input[text] \"Search\": (Search) [collapsed]\n[@e3] button \"\"\n[@e4] link \"Your profileP\"\n[@e5] button \"\" [collapsed]\nnav\n  [@e6] link \"\"\n  [@e7] link \"\"\n  [@e8] link \"\"\n  [@e9] link \"\"\n  [@e10] button \"\"\n  [@e11] button \"\" [collapsed]\n  [@e12] button \"\" [collapsed]\n  [@e13] button \"\" [collapsed]\nmain\n  h2 \"Pin drafts\"\n  [@e14] button \"\"\n  [@e15] button \"Create new\" [disabled]\n  h1 \"Create Pin\"\n  [@e16] link \"Save from URL\"\n  [@e17] input[text] \"Title\": (Tell everyone what your Pin is about)\n  [@e18] button \"Description#mweb-comment-editor-contain…\" [disabled]\n    [@e19] button \"\"\n  [@e20] input[url] \"Link\": (Add a link)\n  [@e21] button \"BoardBirthday cakes for babies\" [disabled]\n  [@e22] input[text] \"Tagged topics (0)\": (Search for a tag) [collapsed]\n  [@e23] button \"Add products\" [disabled]\n  [@e24] button \"More options\" [disabled] [collapsed]",
+  "interactive_elements": 24,
+  "truncated": false,
+  "loading_detected": false
+}

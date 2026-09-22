@@ -1,0 +1,4037 @@
+{
+ "source": "https://trends.pinterest.com/top_trends_filtered/",
+ "country": "DE",
+ "country_param": "DE",
+ "end_date": "2026-09-22",
+ "harvested_at": "2026-09-22T05:34:07Z",
+ "presets": {
+  "top_monthly": {
+   "preset_value": 1,
+   "country_param": "DE",
+   "end_date": "2026-09-22",
+   "values": [
+    {
+     "normalizedCount": 100,
+     "affinity": null,
+     "wow_change": {
+      "index": 26,
+      "value": 0
+     },
+     "seasonality_score": 0.81164914,
+     "mom_change": {
+      "index": 37,
+      "value": 0.3
+     },
+     "yoy_change": {
+      "index": 22,
+      "value": 0.09
+     },
+     "term": "outfit inspirationen",
+     "searchCount": 100,
+     "reverseRank": 50
+    },
+    {
+     "normalizedCount": 73,
+     "affinity": null,
+     "wow_change": {
+      "index": 25,
+      "value": 0
+     },
+     "seasonality_score": 0.6294335,
+     "mom_change": {
+      "index": 16,
+      "value": -0.02
+     },
+     "yoy_change": {
+      "index": 3,
+      "value": -0.2
+     },
+     "term": "guten morgen gruss",
+     "searchCount": 73,
+     "reverseRank": 49
+    },
+    {
+     "normalizedCount": 72,
+     "affinity": null,
+     "wow_change": {
+      "index": 50,
+      "value": 0.1
+     },
+     "seasonality_score": 0.7524245,
+     "mom_change": {
+      "index": 27,
+      "value": 0.09
+     },
+     "yoy_change": {
+      "index": 24,
+      "value": 0.1
+     },
+     "term": "wallpaper",
+     "searchCount": 72,
+     "reverseRank": 48
+    },
+    {
+     "normalizedCount": 71,
+     "affinity": null,
+     "wow_change": {
+      "index": 36,
+      "value": 0.03
+     },
+     "seasonality_score": 0.94917023,
+     "mom_change": {
+      "index": 46,
+      "value": 3
+     },
+     "yoy_change": {
+      "index": 36,
+      "value": 0.4
+     },
+     "term": "herbst outfit damen",
+     "searchCount": 71,
+     "reverseRank": 47
+    },
+    {
+     "normalizedCount": 71,
+     "affinity": null,
+     "wow_change": {
+      "index": 49,
+      "value": 0.1
+     },
+     "seasonality_score": 0.9645767,
+     "mom_change": {
+      "index": 50,
+      "value": 10
+     },
+     "yoy_change": {
+      "index": 27,
+      "value": 0.2
+     },
+     "term": "herbst nägel",
+     "searchCount": 71,
+     "reverseRank": 46
+    },
+    {
+     "normalizedCount": 67,
+     "affinity": null,
+     "wow_change": {
+      "index": 5,
+      "value": -0.08
+     },
+     "seasonality_score": 0.89920175,
+     "mom_change": {
+      "index": 8,
+      "value": -0.2
+     },
+     "yoy_change": {
+      "index": 15,
+      "value": -0.02
+     },
+     "term": "nägel inspiration",
+     "searchCount": 67,
+     "reverseRank": 45
+    },
+    {
+     "normalizedCount": 66,
+     "affinity": null,
+     "wow_change": {
+      "index": 37,
+      "value": 0.04
+     },
+     "seasonality_score": 0.7472906,
+     "mom_change": {
+      "index": 26,
+      "value": 0.08
+     },
+     "yoy_change": {
+      "index": 14,
+      "value": -0.02
+     },
+     "term": "hintergrundbilder",
+     "searchCount": 66,
+     "reverseRank": 44
+    },
+    {
+     "normalizedCount": 57,
+     "affinity": null,
+     "wow_change": {
+      "index": 9,
+      "value": -0.06
+     },
+     "seasonality_score": 0.8635377,
+     "mom_change": {
+      "index": 3,
+      "value": -0.2
+     },
+     "yoy_change": {
+      "index": 7,
+      "value": -0.2
+     },
+     "term": "nails",
+     "searchCount": 57,
+     "reverseRank": 43
+    },
+    {
+     "normalizedCount": 54,
+     "affinity": null,
+     "wow_change": {
+      "index": 40,
+      "value": 0.06
+     },
+     "seasonality_score": 0.63905746,
+     "mom_change": {
+      "index": 35,
+      "value": 0.2
+     },
+     "yoy_change": {
+      "index": 38,
+      "value": 0.6
+     },
+     "term": "outfit",
+     "searchCount": 54,
+     "reverseRank": 42
+    },
+    {
+     "normalizedCount": 52,
+     "affinity": null,
+     "wow_change": {
+      "index": 21,
+      "value": -0.01
+     },
+     "seasonality_score": 0.75680655,
+     "mom_change": {
+      "index": 41,
+      "value": 2
+     },
+     "yoy_change": {
+      "index": 33,
+      "value": 0.3
+     },
+     "term": "autumn outfits",
+     "searchCount": 52,
+     "reverseRank": 41
+    },
+    {
+     "normalizedCount": 51,
+     "affinity": null,
+     "wow_change": {
+      "index": 13,
+      "value": -0.03
+     },
+     "seasonality_score": 0.961474,
+     "mom_change": {
+      "index": 43,
+      "value": 2
+     },
+     "yoy_change": {
+      "index": 23,
+      "value": 0.1
+     },
+     "term": "fall outfits",
+     "searchCount": 51,
+     "reverseRank": 40
+    },
+    {
+     "normalizedCount": 47,
+     "affinity": null,
+     "wow_change": {
+      "index": 10,
+      "value": -0.06
+     },
+     "seasonality_score": 0.8585588,
+     "mom_change": {
+      "index": 4,
+      "value": -0.2
+     },
+     "yoy_change": {
+      "index": 25,
+      "value": 0.1
+     },
+     "term": "nägel",
+     "searchCount": 47,
+     "reverseRank": 39
+    },
+    {
+     "normalizedCount": 42,
+     "affinity": null,
+     "wow_change": {
+      "index": 8,
+      "value": -0.07
+     },
+     "seasonality_score": 0.3720576,
+     "mom_change": {
+      "index": 6,
+      "value": -0.2
+     },
+     "yoy_change": {
+      "index": 44,
+      "value": 1
+     },
+     "term": "nails inspiration",
+     "searchCount": 42,
+     "reverseRank": 38
+    },
+    {
+     "normalizedCount": 38,
+     "affinity": null,
+     "wow_change": {
+      "index": 6,
+      "value": -0.07
+     },
+     "seasonality_score": 0.87406254,
+     "mom_change": {
+      "index": 2,
+      "value": -0.3
+     },
+     "yoy_change": {
+      "index": 10,
+      "value": -0.1
+     },
+     "term": "french nails",
+     "searchCount": 38,
+     "reverseRank": 37
+    },
+    {
+     "normalizedCount": 37,
+     "affinity": null,
+     "wow_change": {
+      "index": 14,
+      "value": -0.03
+     },
+     "seasonality_score": 0.7855689,
+     "mom_change": {
+      "index": 20,
+      "value": 0.04
+     },
+     "yoy_change": {
+      "index": 37,
+      "value": 0.5
+     },
+     "term": "keramik bemalen",
+     "searchCount": 37,
+     "reverseRank": 36
+    },
+    {
+     "normalizedCount": 36,
+     "affinity": null,
+     "wow_change": {
+      "index": 32,
+      "value": 0.02
+     },
+     "seasonality_score": 0.7590408,
+     "mom_change": {
+      "index": 18,
+      "value": 0.01
+     },
+     "yoy_change": {
+      "index": 20,
+      "value": 0.05
+     },
+     "term": "gute nacht",
+     "searchCount": 36,
+     "reverseRank": 35
+    },
+    {
+     "normalizedCount": 33,
+     "affinity": null,
+     "wow_change": {
+      "index": 30,
+      "value": 0.01
+     },
+     "seasonality_score": 0.8395127,
+     "mom_change": {
+      "index": 14,
+      "value": -0.04
+     },
+     "yoy_change": {
+      "index": 9,
+      "value": -0.1
+     },
+     "term": "happy birthday",
+     "searchCount": 33,
+     "reverseRank": 34
+    },
+    {
+     "normalizedCount": 32,
+     "affinity": null,
+     "wow_change": {
+      "index": 17,
+      "value": -0.02
+     },
+     "seasonality_score": 0.5017677,
+     "mom_change": {
+      "index": 12,
+      "value": -0.06
+     },
+     "yoy_change": {
+      "index": 26,
+      "value": 0.2
+     },
+     "term": "aesthetic",
+     "searchCount": 32,
+     "reverseRank": 33
+    },
+    {
+     "normalizedCount": 30,
+     "affinity": null,
+     "wow_change": {
+      "index": 28,
+      "value": 0
+     },
+     "seasonality_score": 0.95582795,
+     "mom_change": {
+      "index": 42,
+      "value": 2
+     },
+     "yoy_change": {
+      "index": 21,
+      "value": 0.09
+     },
+     "term": "herbst",
+     "searchCount": 30,
+     "reverseRank": 32
+    },
+    {
+     "normalizedCount": 29,
+     "affinity": null,
+     "wow_change": {
+      "index": 1,
+      "value": -0.2
+     },
+     "seasonality_score": 0.8109083,
+     "mom_change": {
+      "index": 7,
+      "value": -0.2
+     },
+     "yoy_change": {
+      "index": 12,
+      "value": -0.08
+     },
+     "term": "schönen abend grüße",
+     "searchCount": 29,
+     "reverseRank": 31
+    },
+    {
+     "normalizedCount": 28,
+     "affinity": null,
+     "wow_change": {
+      "index": 23,
+      "value": 0
+     },
+     "seasonality_score": 0.77483714,
+     "mom_change": {
+      "index": 5,
+      "value": -0.2
+     },
+     "yoy_change": {
+      "index": 1,
+      "value": -0.4
+     },
+     "term": "geburtstagswünsche",
+     "searchCount": 28,
+     "reverseRank": 30
+    },
+    {
+     "normalizedCount": 28,
+     "affinity": null,
+     "wow_change": {
+      "index": 34,
+      "value": 0.02
+     },
+     "seasonality_score": 0.85021245,
+     "mom_change": {
+      "index": 21,
+      "value": 0.04
+     },
+     "yoy_change": {
+      "index": 18,
+      "value": 0.01
+     },
+     "term": "geburtstagswünsche mann",
+     "searchCount": 28,
+     "reverseRank": 29
+    },
+    {
+     "normalizedCount": 27,
+     "affinity": null,
+     "wow_change": {
+      "index": 35,
+      "value": 0.02
+     },
+     "seasonality_score": 0.918898,
+     "mom_change": {
+      "index": 45,
+      "value": 2
+     },
+     "yoy_change": {
+      "index": 6,
+      "value": -0.2
+     },
+     "term": "herbst outfit",
+     "searchCount": 27,
+     "reverseRank": 28
+    },
+    {
+     "normalizedCount": 27,
+     "affinity": null,
+     "wow_change": {
+      "index": 42,
+      "value": 0.07
+     },
+     "seasonality_score": 0.9552969,
+     "mom_change": {
+      "index": 49,
+      "value": 7
+     },
+     "yoy_change": {
+      "index": 39,
+      "value": 0.6
+     },
+     "term": "autumn nails",
+     "searchCount": 27,
+     "reverseRank": 27
+    },
+    {
+     "normalizedCount": 26,
+     "affinity": null,
+     "wow_change": {
+      "index": 44,
+      "value": 0.09
+     },
+     "seasonality_score": 0.8236351,
+     "mom_change": {
+      "index": 30,
+      "value": 0.1
+     },
+     "yoy_change": {
+      "index": 19,
+      "value": 0.03
+     },
+     "term": "hintergrundbilder iphone",
+     "searchCount": 26,
+     "reverseRank": 26
+    },
+    {
+     "normalizedCount": 26,
+     "affinity": null,
+     "wow_change": {
+      "index": 20,
+      "value": -0.01
+     },
+     "seasonality_score": 0.8150341,
+     "mom_change": {
+      "index": 22,
+      "value": 0.04
+     },
+     "yoy_change": {
+      "index": 28,
+      "value": 0.2
+     },
+     "term": "zeichnen",
+     "searchCount": 26,
+     "reverseRank": 25
+    },
+    {
+     "normalizedCount": 26,
+     "affinity": null,
+     "wow_change": {
+      "index": 15,
+      "value": -0.03
+     },
+     "seasonality_score": 0.39657065,
+     "mom_change": {
+      "index": 23,
+      "value": 0.05
+     },
+     "yoy_change": {
+      "index": 45,
+      "value": 1
+     },
+     "term": "keramik bemalen ideen",
+     "searchCount": 26,
+     "reverseRank": 24
+    },
+    {
+     "normalizedCount": 25,
+     "affinity": null,
+     "wow_change": {
+      "index": 41,
+      "value": 0.06
+     },
+     "seasonality_score": 0.51913565,
+     "mom_change": {
+      "index": 19,
+      "value": 0.03
+     },
+     "yoy_change": {
+      "index": 16,
+      "value": -0.01
+     },
+     "term": "hairstyles",
+     "searchCount": 25,
+     "reverseRank": 23
+    },
+    {
+     "normalizedCount": 25,
+     "affinity": null,
+     "wow_change": {
+      "index": 45,
+      "value": 0.09
+     },
+     "seasonality_score": 0.5041293,
+     "mom_change": {
+      "index": 44,
+      "value": 2
+     },
+     "yoy_change": {
+      "index": 47,
+      "value": 2
+     },
+     "term": "schönen abend und später eine gute nacht",
+     "searchCount": 25,
+     "reverseRank": 22
+    },
+    {
+     "normalizedCount": 25,
+     "affinity": null,
+     "wow_change": {
+      "index": 19,
+      "value": -0.01
+     },
+     "seasonality_score": 0.5853809,
+     "mom_change": {
+      "index": 17,
+      "value": -0.01
+     },
+     "yoy_change": {
+      "index": 40,
+      "value": 0.7
+     },
+     "term": "zeichnen ideen",
+     "searchCount": 25,
+     "reverseRank": 21
+    },
+    {
+     "normalizedCount": 24,
+     "affinity": null,
+     "wow_change": {
+      "index": 31,
+      "value": 0.01
+     },
+     "seasonality_score": 0.74681026,
+     "mom_change": {
+      "index": 36,
+      "value": 0.3
+     },
+     "yoy_change": {
+      "index": 32,
+      "value": 0.3
+     },
+     "term": "outfit inspo",
+     "searchCount": 24,
+     "reverseRank": 20
+    },
+    {
+     "normalizedCount": 24,
+     "affinity": null,
+     "wow_change": {
+      "index": 27,
+      "value": 0
+     },
+     "seasonality_score": 0.36002308,
+     "mom_change": {
+      "index": 24,
+      "value": 0.05
+     },
+     "yoy_change": {
+      "index": 46,
+      "value": 2
+     },
+     "term": "gute nacht grüße",
+     "searchCount": 24,
+     "reverseRank": 19
+    },
+    {
+     "normalizedCount": 23,
+     "affinity": null,
+     "wow_change": {
+      "index": 4,
+      "value": -0.09
+     },
+     "seasonality_score": 0.8142533,
+     "mom_change": {
+      "index": 10,
+      "value": -0.1
+     },
+     "yoy_change": {
+      "index": 34,
+      "value": 0.3
+     },
+     "term": "nail inspo",
+     "searchCount": 23,
+     "reverseRank": 18
+    },
+    {
+     "normalizedCount": 23,
+     "affinity": null,
+     "wow_change": {
+      "index": 29,
+      "value": 0.01
+     },
+     "seasonality_score": 0.9332263,
+     "mom_change": {
+      "index": 48,
+      "value": 6
+     },
+     "yoy_change": {
+      "index": 41,
+      "value": 0.8
+     },
+     "term": "fall nails",
+     "searchCount": 23,
+     "reverseRank": 17
+    },
+    {
+     "normalizedCount": 22,
+     "affinity": null,
+     "wow_change": {
+      "index": 48,
+      "value": 0.1
+     },
+     "seasonality_score": 0.4026357,
+     "mom_change": {
+      "index": 25,
+      "value": 0.07
+     },
+     "yoy_change": {
+      "index": 43,
+      "value": 1
+     },
+     "term": "happy birthday frauen",
+     "searchCount": 22,
+     "reverseRank": 16
+    },
+    {
+     "normalizedCount": 22,
+     "affinity": null,
+     "wow_change": {
+      "index": 22,
+      "value": -0.01
+     },
+     "seasonality_score": 0.41301414,
+     "mom_change": {
+      "index": 13,
+      "value": -0.06
+     },
+     "yoy_change": {
+      "index": 29,
+      "value": 0.3
+     },
+     "term": "drawing ideas",
+     "searchCount": 22,
+     "reverseRank": 15
+    },
+    {
+     "normalizedCount": 21,
+     "affinity": null,
+     "wow_change": {
+      "index": 11,
+      "value": -0.05
+     },
+     "seasonality_score": 0.9654967,
+     "mom_change": {
+      "index": 40,
+      "value": 1
+     },
+     "yoy_change": {
+      "index": 17,
+      "value": 0.01
+     },
+     "term": "autumn",
+     "searchCount": 21,
+     "reverseRank": 14
+    },
+    {
+     "normalizedCount": 20,
+     "affinity": null,
+     "wow_change": {
+      "index": 46,
+      "value": 0.09
+     },
+     "seasonality_score": 0.6751878,
+     "mom_change": {
+      "index": 32,
+      "value": 0.2
+     },
+     "yoy_change": {
+      "index": 42,
+      "value": 1
+     },
+     "term": "widgets",
+     "searchCount": 20,
+     "reverseRank": 13
+    },
+    {
+     "normalizedCount": 20,
+     "affinity": null,
+     "wow_change": {
+      "index": 18,
+      "value": -0.02
+     },
+     "seasonality_score": 0.67091334,
+     "mom_change": {
+      "index": 38,
+      "value": 0.3
+     },
+     "yoy_change": {
+      "index": 13,
+      "value": -0.07
+     },
+     "term": "outfit ideen",
+     "searchCount": 20,
+     "reverseRank": 12
+    },
+    {
+     "normalizedCount": 19,
+     "affinity": null,
+     "wow_change": {
+      "index": 33,
+      "value": 0.02
+     },
+     "seasonality_score": 0.8946876,
+     "mom_change": {
+      "index": 28,
+      "value": 0.09
+     },
+     "yoy_change": {
+      "index": 4,
+      "value": -0.2
+     },
+     "term": "wohnzimmer ideen",
+     "searchCount": 19,
+     "reverseRank": 11
+    },
+    {
+     "normalizedCount": 19,
+     "affinity": null,
+     "wow_change": {
+      "index": 16,
+      "value": -0.02
+     },
+     "seasonality_score": 0.5816925,
+     "mom_change": {
+      "index": 15,
+      "value": -0.04
+     },
+     "yoy_change": {
+      "index": 50,
+      "value": 4
+     },
+     "term": "lustige zitate und sprüche",
+     "searchCount": 19,
+     "reverseRank": 10
+    },
+    {
+     "normalizedCount": 19,
+     "affinity": null,
+     "wow_change": {
+      "index": 7,
+      "value": -0.07
+     },
+     "seasonality_score": 0.6145871,
+     "mom_change": {
+      "index": 11,
+      "value": -0.1
+     },
+     "yoy_change": {
+      "index": 30,
+      "value": 0.3
+     },
+     "term": "nageldesign",
+     "searchCount": 19,
+     "reverseRank": 9
+    },
+    {
+     "normalizedCount": 19,
+     "affinity": null,
+     "wow_change": {
+      "index": 39,
+      "value": 0.05
+     },
+     "seasonality_score": 0.9618667,
+     "mom_change": {
+      "index": 39,
+      "value": 1
+     },
+     "yoy_change": {
+      "index": 11,
+      "value": -0.1
+     },
+     "term": "winter outfits",
+     "searchCount": 19,
+     "reverseRank": 8
+    },
+    {
+     "normalizedCount": 19,
+     "affinity": null,
+     "wow_change": {
+      "index": 24,
+      "value": 0
+     },
+     "seasonality_score": 0.49800387,
+     "mom_change": {
+      "index": 1,
+      "value": -0.3
+     },
+     "yoy_change": {
+      "index": 49,
+      "value": 2
+     },
+     "term": "spiderman",
+     "searchCount": 19,
+     "reverseRank": 7
+    },
+    {
+     "normalizedCount": 19,
+     "affinity": null,
+     "wow_change": {
+      "index": 2,
+      "value": -0.1
+     },
+     "seasonality_score": 0.9302918,
+     "mom_change": {
+      "index": 9,
+      "value": -0.1
+     },
+     "yoy_change": {
+      "index": 2,
+      "value": -0.4
+     },
+     "term": "hochzeitsgeschenk",
+     "searchCount": 19,
+     "reverseRank": 6
+    },
+    {
+     "normalizedCount": 19,
+     "affinity": null,
+     "wow_change": {
+      "index": 43,
+      "value": 0.07
+     },
+     "seasonality_score": 0.8839159,
+     "mom_change": {
+      "index": 33,
+      "value": 0.2
+     },
+     "yoy_change": {
+      "index": 8,
+      "value": -0.2
+     },
+     "term": "schlafzimmer ideen",
+     "searchCount": 19,
+     "reverseRank": 5
+    },
+    {
+     "normalizedCount": 19,
+     "affinity": null,
+     "wow_change": {
+      "index": 12,
+      "value": -0.04
+     },
+     "seasonality_score": 0.46150097,
+     "mom_change": {
+      "index": 31,
+      "value": 0.1
+     },
+     "yoy_change": {
+      "index": 35,
+      "value": 0.4
+     },
+     "term": "samstagsgrüsse neu",
+     "searchCount": 19,
+     "reverseRank": 4
+    },
+    {
+     "normalizedCount": 18,
+     "affinity": null,
+     "wow_change": {
+      "index": 3,
+      "value": -0.1
+     },
+     "seasonality_score": 0.4983218,
+     "mom_change": {
+      "index": 29,
+      "value": 0.1
+     },
+     "yoy_change": {
+      "index": 48,
+      "value": 2
+     },
+     "term": "sonntagsgrüsse neu",
+     "searchCount": 18,
+     "reverseRank": 3
+    },
+    {
+     "normalizedCount": 18,
+     "affinity": null,
+     "wow_change": {
+      "index": 38,
+      "value": 0.04
+     },
+     "seasonality_score": 0.97087884,
+     "mom_change": {
+      "index": 47,
+      "value": 4
+     },
+     "yoy_change": {
+      "index": 5,
+      "value": -0.2
+     },
+     "term": "herbstdeko",
+     "searchCount": 18,
+     "reverseRank": 2
+    },
+    {
+     "normalizedCount": 18,
+     "affinity": null,
+     "wow_change": {
+      "index": 47,
+      "value": 0.09
+     },
+     "seasonality_score": 0.75051767,
+     "mom_change": {
+      "index": 34,
+      "value": 0.2
+     },
+     "yoy_change": {
+      "index": 31,
+      "value": 0.3
+     },
+     "term": "ausmalbilder",
+     "searchCount": 18,
+     "reverseRank": 1
+    }
+   ]
+  },
+  "top_yearly": {
+   "preset_value": 2,
+   "country_param": "DE",
+   "end_date": "2026-09-22",
+   "values": [
+    {
+     "seasonality_score": 0.81164914,
+     "yoy_change": {
+      "index": 32,
+      "value": 0.2
+     },
+     "affinity": null,
+     "wow_change": {
+      "index": 28,
+      "value": 0
+     },
+     "term": "outfit inspirationen",
+     "mom_change": {
+      "index": 46,
+      "value": 0.3
+     },
+     "normalizedCount": 100,
+     "searchCount": 100,
+     "reverseRank": 50
+    },
+    {
+     "seasonality_score": 0.6294335,
+     "yoy_change": {
+      "index": 7,
+      "value": -0.2
+     },
+     "affinity": null,
+     "wow_change": {
+      "index": 27,
+      "value": 0
+     },
+     "term": "guten morgen gruss",
+     "mom_change": {
+      "index": 21,
+      "value": -0.02
+     },
+     "normalizedCount": 94,
+     "searchCount": 94,
+     "reverseRank": 49
+    },
+    {
+     "seasonality_score": 0.89920175,
+     "yoy_change": {
+      "index": 26,
+      "value": 0.05
+     },
+     "affinity": null,
+     "wow_change": {
+      "index": 7,
+      "value": -0.08
+     },
+     "term": "nägel inspiration",
+     "mom_change": {
+      "index": 11,
+      "value": -0.2
+     },
+     "normalizedCount": 88,
+     "searchCount": 88,
+     "reverseRank": 48
+    },
+    {
+     "seasonality_score": 0.7472906,
+     "yoy_change": {
+      "index": 20,
+      "value": 0
+     },
+     "affinity": null,
+     "wow_change": {
+      "index": 40,
+      "value": 0.04
+     },
+     "term": "hintergrundbilder",
+     "mom_change": {
+      "index": 35,
+      "value": 0.08
+     },
+     "normalizedCount": 75,
+     "searchCount": 75,
+     "reverseRank": 47
+    },
+    {
+     "seasonality_score": 0.7524245,
+     "yoy_change": {
+      "index": 30,
+      "value": 0.1
+     },
+     "affinity": null,
+     "wow_change": {
+      "index": 50,
+      "value": 0.1
+     },
+     "term": "wallpaper",
+     "mom_change": {
+      "index": 37,
+      "value": 0.09
+     },
+     "normalizedCount": 71,
+     "searchCount": 71,
+     "reverseRank": 46
+    },
+    {
+     "seasonality_score": 0.8635377,
+     "yoy_change": {
+      "index": 17,
+      "value": -0.06
+     },
+     "affinity": null,
+     "wow_change": {
+      "index": 11,
+      "value": -0.06
+     },
+     "term": "nails",
+     "mom_change": {
+      "index": 4,
+      "value": -0.2
+     },
+     "normalizedCount": 70,
+     "searchCount": 70,
+     "reverseRank": 45
+    },
+    {
+     "seasonality_score": 0.3595157,
+     "yoy_change": {
+      "index": 11,
+      "value": -0.1
+     },
+     "affinity": null,
+     "wow_change": {
+      "index": 18,
+      "value": -0.02
+     },
+     "term": "fashion trends",
+     "mom_change": {
+      "index": 12,
+      "value": -0.1
+     },
+     "normalizedCount": 60,
+     "searchCount": 60,
+     "reverseRank": 44
+    },
+    {
+     "seasonality_score": 0.8585588,
+     "yoy_change": {
+      "index": 29,
+      "value": 0.1
+     },
+     "affinity": null,
+     "wow_change": {
+      "index": 12,
+      "value": -0.06
+     },
+     "term": "nägel",
+     "mom_change": {
+      "index": 5,
+      "value": -0.2
+     },
+     "normalizedCount": 53,
+     "searchCount": 53,
+     "reverseRank": 43
+    },
+    {
+     "seasonality_score": 0.63905746,
+     "yoy_change": {
+      "index": 39,
+      "value": 0.4
+     },
+     "affinity": null,
+     "wow_change": {
+      "index": 42,
+      "value": 0.06
+     },
+     "term": "outfit",
+     "mom_change": {
+      "index": 44,
+      "value": 0.2
+     },
+     "normalizedCount": 47,
+     "searchCount": 47,
+     "reverseRank": 42
+    },
+    {
+     "seasonality_score": 0.3720576,
+     "yoy_change": {
+      "index": 47,
+      "value": 0.9
+     },
+     "affinity": null,
+     "wow_change": {
+      "index": 9,
+      "value": -0.07
+     },
+     "term": "nails inspiration",
+     "mom_change": {
+      "index": 8,
+      "value": -0.2
+     },
+     "normalizedCount": 44,
+     "searchCount": 44,
+     "reverseRank": 41
+    },
+    {
+     "seasonality_score": 0.87406254,
+     "yoy_change": {
+      "index": 10,
+      "value": -0.1
+     },
+     "affinity": null,
+     "wow_change": {
+      "index": 8,
+      "value": -0.07
+     },
+     "term": "french nails",
+     "mom_change": {
+      "index": 3,
+      "value": -0.3
+     },
+     "normalizedCount": 43,
+     "searchCount": 43,
+     "reverseRank": 40
+    },
+    {
+     "seasonality_score": 0.77483714,
+     "yoy_change": {
+      "index": 3,
+      "value": -0.4
+     },
+     "affinity": null,
+     "wow_change": {
+      "index": 26,
+      "value": 0
+     },
+     "term": "geburtstagswünsche",
+     "mom_change": {
+      "index": 7,
+      "value": -0.2
+     },
+     "normalizedCount": 43,
+     "searchCount": 43,
+     "reverseRank": 39
+    },
+    {
+     "seasonality_score": 0.8395127,
+     "yoy_change": {
+      "index": 13,
+      "value": -0.07
+     },
+     "affinity": null,
+     "wow_change": {
+      "index": 32,
+      "value": 0.01
+     },
+     "term": "happy birthday",
+     "mom_change": {
+      "index": 19,
+      "value": -0.04
+     },
+     "normalizedCount": 43,
+     "searchCount": 43,
+     "reverseRank": 38
+    },
+    {
+     "seasonality_score": 0.29414433,
+     "yoy_change": {
+      "index": 1,
+      "value": -0.7
+     },
+     "affinity": null,
+     "wow_change": {
+      "index": 6,
+      "value": -0.08
+     },
+     "term": "home decor",
+     "mom_change": {
+      "index": 23,
+      "value": 0.01
+     },
+     "normalizedCount": 42,
+     "searchCount": 42,
+     "reverseRank": 37
+    },
+    {
+     "seasonality_score": 0.7590408,
+     "yoy_change": {
+      "index": 28,
+      "value": 0.09
+     },
+     "affinity": null,
+     "wow_change": {
+      "index": 35,
+      "value": 0.02
+     },
+     "term": "gute nacht",
+     "mom_change": {
+      "index": 24,
+      "value": 0.01
+     },
+     "normalizedCount": 42,
+     "searchCount": 42,
+     "reverseRank": 36
+    },
+    {
+     "seasonality_score": 0.7855689,
+     "yoy_change": {
+      "index": 43,
+      "value": 0.5
+     },
+     "affinity": null,
+     "wow_change": {
+      "index": 15,
+      "value": -0.03
+     },
+     "term": "keramik bemalen",
+     "mom_change": {
+      "index": 27,
+      "value": 0.04
+     },
+     "normalizedCount": 39,
+     "searchCount": 39,
+     "reverseRank": 35
+    },
+    {
+     "seasonality_score": 0.26085225,
+     "yoy_change": {
+      "index": 2,
+      "value": -0.4
+     },
+     "affinity": null,
+     "wow_change": {
+      "index": 2,
+      "value": -0.2
+     },
+     "term": "makeup inspiration",
+     "mom_change": {
+      "index": 2,
+      "value": -0.3
+     },
+     "normalizedCount": 38,
+     "searchCount": 38,
+     "reverseRank": 34
+    },
+    {
+     "seasonality_score": 0.5017677,
+     "yoy_change": {
+      "index": 19,
+      "value": -0.02
+     },
+     "affinity": null,
+     "wow_change": {
+      "index": 19,
+      "value": -0.02
+     },
+     "term": "aesthetic",
+     "mom_change": {
+      "index": 16,
+      "value": -0.06
+     },
+     "normalizedCount": 35,
+     "searchCount": 35,
+     "reverseRank": 33
+    },
+    {
+     "seasonality_score": 0.8109083,
+     "yoy_change": {
+      "index": 21,
+      "value": 0
+     },
+     "affinity": null,
+     "wow_change": {
+      "index": 1,
+      "value": -0.2
+     },
+     "term": "schönen abend grüße",
+     "mom_change": {
+      "index": 9,
+      "value": -0.2
+     },
+     "normalizedCount": 34,
+     "searchCount": 34,
+     "reverseRank": 32
+    },
+    {
+     "seasonality_score": 0.98667794,
+     "yoy_change": {
+      "index": 18,
+      "value": -0.05
+     },
+     "affinity": null,
+     "wow_change": {
+      "index": 10,
+      "value": -0.06
+     },
+     "term": "vision board",
+     "mom_change": {
+      "index": 15,
+      "value": -0.08
+     },
+     "normalizedCount": 32,
+     "searchCount": 32,
+     "reverseRank": 31
+    },
+    {
+     "seasonality_score": 0.85021245,
+     "yoy_change": {
+      "index": 15,
+      "value": -0.06
+     },
+     "affinity": null,
+     "wow_change": {
+      "index": 38,
+      "value": 0.02
+     },
+     "term": "geburtstagswünsche mann",
+     "mom_change": {
+      "index": 28,
+      "value": 0.04
+     },
+     "normalizedCount": 32,
+     "searchCount": 32,
+     "reverseRank": 30
+    },
+    {
+     "seasonality_score": 0.51913565,
+     "yoy_change": {
+      "index": 23,
+      "value": 0.02
+     },
+     "affinity": null,
+     "wow_change": {
+      "index": 43,
+      "value": 0.06
+     },
+     "term": "hairstyles",
+     "mom_change": {
+      "index": 26,
+      "value": 0.03
+     },
+     "normalizedCount": 30,
+     "searchCount": 30,
+     "reverseRank": 29
+    },
+    {
+     "seasonality_score": 0.8236351,
+     "yoy_change": {
+      "index": 37,
+      "value": 0.2
+     },
+     "affinity": null,
+     "wow_change": {
+      "index": 45,
+      "value": 0.09
+     },
+     "term": "hintergrundbilder iphone",
+     "mom_change": {
+      "index": 40,
+      "value": 0.1
+     },
+     "normalizedCount": 29,
+     "searchCount": 29,
+     "reverseRank": 28
+    },
+    {
+     "seasonality_score": 0.700155,
+     "yoy_change": {
+      "index": 4,
+      "value": -0.3
+     },
+     "affinity": null,
+     "wow_change": {
+      "index": 31,
+      "value": 0
+     },
+     "term": "gute nacht schlaf gut",
+     "mom_change": {
+      "index": 6,
+      "value": -0.2
+     },
+     "normalizedCount": 29,
+     "searchCount": 29,
+     "reverseRank": 27
+    },
+    {
+     "seasonality_score": 0.8150341,
+     "yoy_change": {
+      "index": 33,
+      "value": 0.2
+     },
+     "affinity": null,
+     "wow_change": {
+      "index": 23,
+      "value": -0.01
+     },
+     "term": "zeichnen",
+     "mom_change": {
+      "index": 29,
+      "value": 0.04
+     },
+     "normalizedCount": 28,
+     "searchCount": 28,
+     "reverseRank": 26
+    },
+    {
+     "seasonality_score": 0.9618667,
+     "yoy_change": {
+      "index": 25,
+      "value": 0.04
+     },
+     "affinity": null,
+     "wow_change": {
+      "index": 41,
+      "value": 0.05
+     },
+     "term": "winter outfits",
+     "mom_change": {
+      "index": 48,
+      "value": 1
+     },
+     "normalizedCount": 28,
+     "searchCount": 28,
+     "reverseRank": 25
+    },
+    {
+     "seasonality_score": 0.5041293,
+     "yoy_change": {
+      "index": 49,
+      "value": 5
+     },
+     "affinity": null,
+     "wow_change": {
+      "index": 46,
+      "value": 0.09
+     },
+     "term": "schönen abend und später eine gute nacht",
+     "mom_change": {
+      "index": 49,
+      "value": 2
+     },
+     "normalizedCount": 26,
+     "searchCount": 26,
+     "reverseRank": 24
+    },
+    {
+     "seasonality_score": 0.5816925,
+     "yoy_change": {
+      "index": 50,
+      "value": 20
+     },
+     "affinity": null,
+     "wow_change": {
+      "index": 17,
+      "value": -0.02
+     },
+     "term": "lustige zitate und sprüche",
+     "mom_change": {
+      "index": 20,
+      "value": -0.04
+     },
+     "normalizedCount": 26,
+     "searchCount": 26,
+     "reverseRank": 23
+    },
+    {
+     "seasonality_score": 0.39867494,
+     "yoy_change": {
+      "index": 14,
+      "value": -0.07
+     },
+     "affinity": null,
+     "wow_change": {
+      "index": 3,
+      "value": -0.1
+     },
+     "term": "guten morgen bilder neu",
+     "mom_change": {
+      "index": 14,
+      "value": -0.1
+     },
+     "normalizedCount": 25,
+     "searchCount": 25,
+     "reverseRank": 22
+    },
+    {
+     "seasonality_score": 0.5853809,
+     "yoy_change": {
+      "index": 46,
+      "value": 0.8
+     },
+     "affinity": null,
+     "wow_change": {
+      "index": 22,
+      "value": -0.01
+     },
+     "term": "zeichnen ideen",
+     "mom_change": {
+      "index": 22,
+      "value": -0.01
+     },
+     "normalizedCount": 25,
+     "searchCount": 25,
+     "reverseRank": 21
+    },
+    {
+     "seasonality_score": 0.8946876,
+     "yoy_change": {
+      "index": 6,
+      "value": -0.2
+     },
+     "affinity": null,
+     "wow_change": {
+      "index": 37,
+      "value": 0.02
+     },
+     "term": "wohnzimmer ideen",
+     "mom_change": {
+      "index": 38,
+      "value": 0.09
+     },
+     "normalizedCount": 24,
+     "searchCount": 24,
+     "reverseRank": 20
+    },
+    {
+     "seasonality_score": 0.41301414,
+     "yoy_change": {
+      "index": 31,
+      "value": 0.1
+     },
+     "affinity": null,
+     "wow_change": {
+      "index": 25,
+      "value": -0.01
+     },
+     "term": "drawing ideas",
+     "mom_change": {
+      "index": 18,
+      "value": -0.06
+     },
+     "normalizedCount": 23,
+     "searchCount": 23,
+     "reverseRank": 19
+    },
+    {
+     "seasonality_score": 0.9228904,
+     "yoy_change": {
+      "index": 41,
+      "value": 0.4
+     },
+     "affinity": null,
+     "wow_change": {
+      "index": 5,
+      "value": -0.08
+     },
+     "term": "gartengestaltung ideen",
+     "mom_change": {
+      "index": 1,
+      "value": -0.3
+     },
+     "normalizedCount": 23,
+     "searchCount": 23,
+     "reverseRank": 18
+    },
+    {
+     "seasonality_score": 0.8142533,
+     "yoy_change": {
+      "index": 34,
+      "value": 0.2
+     },
+     "affinity": null,
+     "wow_change": {
+      "index": 4,
+      "value": -0.09
+     },
+     "term": "nail inspo",
+     "mom_change": {
+      "index": 13,
+      "value": -0.1
+     },
+     "normalizedCount": 23,
+     "searchCount": 23,
+     "reverseRank": 17
+    },
+    {
+     "seasonality_score": 0.39657065,
+     "yoy_change": {
+      "index": 48,
+      "value": 1
+     },
+     "affinity": null,
+     "wow_change": {
+      "index": 16,
+      "value": -0.03
+     },
+     "term": "keramik bemalen ideen",
+     "mom_change": {
+      "index": 30,
+      "value": 0.05
+     },
+     "normalizedCount": 22,
+     "searchCount": 22,
+     "reverseRank": 16
+    },
+    {
+     "seasonality_score": 0.9645767,
+     "yoy_change": {
+      "index": 38,
+      "value": 0.3
+     },
+     "affinity": null,
+     "wow_change": {
+      "index": 49,
+      "value": 0.1
+     },
+     "term": "herbst nägel",
+     "mom_change": {
+      "index": 50,
+      "value": 10
+     },
+     "normalizedCount": 22,
+     "searchCount": 22,
+     "reverseRank": 15
+    },
+    {
+     "seasonality_score": 0.74681026,
+     "yoy_change": {
+      "index": 40,
+      "value": 0.4
+     },
+     "affinity": null,
+     "wow_change": {
+      "index": 33,
+      "value": 0.01
+     },
+     "term": "outfit inspo",
+     "mom_change": {
+      "index": 45,
+      "value": 0.3
+     },
+     "normalizedCount": 22,
+     "searchCount": 22,
+     "reverseRank": 14
+    },
+    {
+     "seasonality_score": 0.8839159,
+     "yoy_change": {
+      "index": 9,
+      "value": -0.2
+     },
+     "affinity": null,
+     "wow_change": {
+      "index": 44,
+      "value": 0.07
+     },
+     "term": "schlafzimmer ideen",
+     "mom_change": {
+      "index": 42,
+      "value": 0.2
+     },
+     "normalizedCount": 21,
+     "searchCount": 21,
+     "reverseRank": 13
+    },
+    {
+     "seasonality_score": 0.9294577,
+     "yoy_change": {
+      "index": 22,
+      "value": 0.02
+     },
+     "affinity": null,
+     "wow_change": {
+      "index": 34,
+      "value": 0.01
+     },
+     "term": "blumen",
+     "mom_change": {
+      "index": 17,
+      "value": -0.06
+     },
+     "normalizedCount": 21,
+     "searchCount": 21,
+     "reverseRank": 12
+    },
+    {
+     "seasonality_score": 0.75051767,
+     "yoy_change": {
+      "index": 36,
+      "value": 0.2
+     },
+     "affinity": null,
+     "wow_change": {
+      "index": 47,
+      "value": 0.09
+     },
+     "term": "ausmalbilder",
+     "mom_change": {
+      "index": 43,
+      "value": 0.2
+     },
+     "normalizedCount": 19,
+     "searchCount": 19,
+     "reverseRank": 11
+    },
+    {
+     "seasonality_score": 0.4026357,
+     "yoy_change": {
+      "index": 44,
+      "value": 0.6
+     },
+     "affinity": null,
+     "wow_change": {
+      "index": 48,
+      "value": 0.1
+     },
+     "term": "happy birthday frauen",
+     "mom_change": {
+      "index": 34,
+      "value": 0.07
+     },
+     "normalizedCount": 19,
+     "searchCount": 19,
+     "reverseRank": 10
+    },
+    {
+     "seasonality_score": 0.46150097,
+     "yoy_change": {
+      "index": 35,
+      "value": 0.2
+     },
+     "affinity": null,
+     "wow_change": {
+      "index": 14,
+      "value": -0.04
+     },
+     "term": "samstagsgrüsse neu",
+     "mom_change": {
+      "index": 41,
+      "value": 0.1
+     },
+     "normalizedCount": 19,
+     "searchCount": 19,
+     "reverseRank": 9
+    },
+    {
+     "seasonality_score": 0.67091334,
+     "yoy_change": {
+      "index": 5,
+      "value": -0.3
+     },
+     "affinity": null,
+     "wow_change": {
+      "index": 20,
+      "value": -0.02
+     },
+     "term": "outfit ideen",
+     "mom_change": {
+      "index": 47,
+      "value": 0.3
+     },
+     "normalizedCount": 19,
+     "searchCount": 19,
+     "reverseRank": 8
+    },
+    {
+     "seasonality_score": 0.22974849,
+     "yoy_change": {
+      "index": 12,
+      "value": -0.1
+     },
+     "affinity": null,
+     "wow_change": {
+      "index": 30,
+      "value": 0
+     },
+     "term": "youtube",
+     "mom_change": {
+      "index": 25,
+      "value": 0.01
+     },
+     "normalizedCount": 19,
+     "searchCount": 19,
+     "reverseRank": 7
+    },
+    {
+     "seasonality_score": 0.36002308,
+     "yoy_change": {
+      "index": 42,
+      "value": 0.4
+     },
+     "affinity": null,
+     "wow_change": {
+      "index": 29,
+      "value": 0
+     },
+     "term": "gute nacht grüße",
+     "mom_change": {
+      "index": 32,
+      "value": 0.05
+     },
+     "normalizedCount": 19,
+     "searchCount": 19,
+     "reverseRank": 6
+    },
+    {
+     "seasonality_score": 0.7358435,
+     "yoy_change": {
+      "index": 8,
+      "value": -0.2
+     },
+     "affinity": null,
+     "wow_change": {
+      "index": 24,
+      "value": -0.01
+     },
+     "term": "rezepte",
+     "mom_change": {
+      "index": 31,
+      "value": 0.05
+     },
+     "normalizedCount": 18,
+     "searchCount": 18,
+     "reverseRank": 5
+    },
+    {
+     "seasonality_score": 0.8542623,
+     "yoy_change": {
+      "index": 24,
+      "value": 0.03
+     },
+     "affinity": null,
+     "wow_change": {
+      "index": 21,
+      "value": -0.01
+     },
+     "term": "geschenkideen",
+     "mom_change": {
+      "index": 36,
+      "value": 0.09
+     },
+     "normalizedCount": 18,
+     "searchCount": 18,
+     "reverseRank": 4
+    },
+    {
+     "seasonality_score": 0.25094932,
+     "yoy_change": {
+      "index": 45,
+      "value": 0.7
+     },
+     "affinity": null,
+     "wow_change": {
+      "index": 13,
+      "value": -0.05
+     },
+     "term": "mädchen",
+     "mom_change": {
+      "index": 10,
+      "value": -0.2
+     },
+     "normalizedCount": 18,
+     "searchCount": 18,
+     "reverseRank": 3
+    },
+    {
+     "seasonality_score": 0.6183179,
+     "yoy_change": {
+      "index": 16,
+      "value": -0.06
+     },
+     "affinity": null,
+     "wow_change": {
+      "index": 39,
+      "value": 0.03
+     },
+     "term": "hello kitty",
+     "mom_change": {
+      "index": 39,
+      "value": 0.1
+     },
+     "normalizedCount": 17,
+     "searchCount": 17,
+     "reverseRank": 2
+    },
+    {
+     "seasonality_score": 0.7860199,
+     "yoy_change": {
+      "index": 27,
+      "value": 0.07
+     },
+     "affinity": null,
+     "wow_change": {
+      "index": 36,
+      "value": 0.02
+     },
+     "term": "essen",
+     "mom_change": {
+      "index": 33,
+      "value": 0.06
+     },
+     "normalizedCount": 17,
+     "searchCount": 17,
+     "reverseRank": 1
+    }
+   ]
+  },
+  "trending_now": {
+   "preset_value": 3,
+   "country_param": "DE",
+   "end_date": "2026-09-22",
+   "values": [
+    {
+     "yoy_change": {
+      "index": 43,
+      "value": 50
+     },
+     "affinity": null,
+     "seasonality_score": 0.42161617,
+     "mom_change": {
+      "index": 50,
+      "value": 100.01
+     },
+     "normalizedCount": 7,
+     "wow_change": {
+      "index": 47,
+      "value": 2
+     },
+     "term": "herbst nagel inspo",
+     "searchCount": 7,
+     "reverseRank": 50
+    },
+    {
+     "yoy_change": {
+      "index": 9,
+      "value": -0.3
+     },
+     "affinity": null,
+     "seasonality_score": 0.95933867,
+     "mom_change": {
+      "index": 49,
+      "value": 100.01
+     },
+     "normalizedCount": 16,
+     "wow_change": {
+      "index": 19,
+      "value": 0.2
+     },
+     "term": "blumenkübel für den herbst",
+     "searchCount": 16,
+     "reverseRank": 49
+    },
+    {
+     "yoy_change": {
+      "index": 45,
+      "value": 100.01
+     },
+     "affinity": null,
+     "seasonality_score": 0.32496515,
+     "mom_change": {
+      "index": 48,
+      "value": 100.01
+     },
+     "normalizedCount": 3,
+     "wow_change": {
+      "index": 2,
+      "value": -0.08
+     },
+     "term": "retroposter",
+     "searchCount": 3,
+     "reverseRank": 48
+    },
+    {
+     "yoy_change": {
+      "index": 5,
+      "value": -0.6
+     },
+     "affinity": null,
+     "seasonality_score": 0.90515596,
+     "mom_change": {
+      "index": 47,
+      "value": 95
+     },
+     "normalizedCount": 9,
+     "wow_change": {
+      "index": 28,
+      "value": 0.4
+     },
+     "term": "grabgestaltung herbst winter",
+     "searchCount": 9,
+     "reverseRank": 47
+    },
+    {
+     "yoy_change": {
+      "index": 11,
+      "value": -0.2
+     },
+     "affinity": null,
+     "seasonality_score": 0.556903,
+     "mom_change": {
+      "index": 46,
+      "value": 90
+     },
+     "normalizedCount": 6,
+     "wow_change": {
+      "index": 46,
+      "value": 1
+     },
+     "term": "herbst nagel french",
+     "searchCount": 6,
+     "reverseRank": 46
+    },
+    {
+     "yoy_change": {
+      "index": 47,
+      "value": 100.01
+     },
+     "affinity": null,
+     "seasonality_score": 0.3177554,
+     "mom_change": {
+      "index": 45,
+      "value": 90
+     },
+     "normalizedCount": 24,
+     "wow_change": {
+      "index": 41,
+      "value": 0.8
+     },
+     "term": "herbst nägel 2026",
+     "searchCount": 24,
+     "reverseRank": 45
+    },
+    {
+     "yoy_change": {
+      "index": 46,
+      "value": 100.01
+     },
+     "affinity": null,
+     "seasonality_score": 0.32084113,
+     "mom_change": {
+      "index": 44,
+      "value": 90
+     },
+     "normalizedCount": 6,
+     "wow_change": {
+      "index": 17,
+      "value": 0.2
+     },
+     "term": "herbstnägel 2026",
+     "searchCount": 6,
+     "reverseRank": 44
+    },
+    {
+     "yoy_change": {
+      "index": 42,
+      "value": 30
+     },
+     "affinity": null,
+     "seasonality_score": 0.69823164,
+     "mom_change": {
+      "index": 43,
+      "value": 85
+     },
+     "normalizedCount": 5,
+     "wow_change": {
+      "index": 13,
+      "value": 0.1
+     },
+     "term": "grabbepflanzung allerheiligen",
+     "searchCount": 5,
+     "reverseRank": 43
+    },
+    {
+     "yoy_change": {
+      "index": 36,
+      "value": 2
+     },
+     "affinity": null,
+     "seasonality_score": 0.71380377,
+     "mom_change": {
+      "index": 42,
+      "value": 85
+     },
+     "normalizedCount": 4,
+     "wow_change": {
+      "index": 10,
+      "value": 0.1
+     },
+     "term": "morgenkreis herbst",
+     "searchCount": 4,
+     "reverseRank": 42
+    },
+    {
+     "yoy_change": {
+      "index": 50,
+      "value": 100.01
+     },
+     "affinity": null,
+     "seasonality_score": 0.32057002,
+     "mom_change": {
+      "index": 41,
+      "value": 80
+     },
+     "normalizedCount": 9,
+     "wow_change": {
+      "index": 37,
+      "value": 0.7
+     },
+     "term": "herbstdeko 2026 trend",
+     "searchCount": 9,
+     "reverseRank": 41
+    },
+    {
+     "yoy_change": {
+      "index": 40,
+      "value": 8
+     },
+     "affinity": null,
+     "seasonality_score": 0.43150753,
+     "mom_change": {
+      "index": 40,
+      "value": 75
+     },
+     "normalizedCount": 7,
+     "wow_change": {
+      "index": 36,
+      "value": 0.6
+     },
+     "term": "glas herbstlich dekorieren",
+     "searchCount": 7,
+     "reverseRank": 40
+    },
+    {
+     "yoy_change": {
+      "index": 33,
+      "value": 2
+     },
+     "affinity": null,
+     "seasonality_score": 0.7793705,
+     "mom_change": {
+      "index": 39,
+      "value": 75
+     },
+     "normalizedCount": 3,
+     "wow_change": {
+      "index": 12,
+      "value": 0.1
+     },
+     "term": "süße herbst nägel",
+     "searchCount": 3,
+     "reverseRank": 39
+    },
+    {
+     "yoy_change": {
+      "index": 38,
+      "value": 4
+     },
+     "affinity": null,
+     "seasonality_score": 0.5470395,
+     "mom_change": {
+      "index": 38,
+      "value": 70
+     },
+     "normalizedCount": 3,
+     "wow_change": {
+      "index": 39,
+      "value": 0.8
+     },
+     "term": "dezente herbst nägel",
+     "searchCount": 3,
+     "reverseRank": 38
+    },
+    {
+     "yoy_change": {
+      "index": 48,
+      "value": 100.01
+     },
+     "affinity": null,
+     "seasonality_score": 0.31769764,
+     "mom_change": {
+      "index": 37,
+      "value": 70
+     },
+     "normalizedCount": 16,
+     "wow_change": {
+      "index": 3,
+      "value": -0.02
+     },
+     "term": "nägel herbst 2026",
+     "searchCount": 16,
+     "reverseRank": 37
+    },
+    {
+     "yoy_change": {
+      "index": 18,
+      "value": 0.1
+     },
+     "affinity": null,
+     "seasonality_score": 0.9298511,
+     "mom_change": {
+      "index": 36,
+      "value": 65
+     },
+     "normalizedCount": 4,
+     "wow_change": {
+      "index": 31,
+      "value": 0.5
+     },
+     "term": "guten morgen herbst",
+     "searchCount": 4,
+     "reverseRank": 36
+    },
+    {
+     "yoy_change": {
+      "index": 15,
+      "value": -0.02
+     },
+     "affinity": null,
+     "seasonality_score": 0.72969687,
+     "mom_change": {
+      "index": 35,
+      "value": 55
+     },
+     "normalizedCount": 27,
+     "wow_change": {
+      "index": 24,
+      "value": 0.3
+     },
+     "term": "herbst gel-nägel",
+     "searchCount": 27,
+     "reverseRank": 35
+    },
+    {
+     "yoy_change": {
+      "index": 4,
+      "value": -0.6
+     },
+     "affinity": null,
+     "seasonality_score": 0.6632974,
+     "mom_change": {
+      "index": 34,
+      "value": 55
+     },
+     "normalizedCount": 3,
+     "wow_change": {
+      "index": 43,
+      "value": 0.9
+     },
+     "term": "herbst eingang",
+     "searchCount": 3,
+     "reverseRank": 34
+    },
+    {
+     "yoy_change": {
+      "index": 13,
+      "value": -0.1
+     },
+     "affinity": null,
+     "seasonality_score": 0.9652774,
+     "mom_change": {
+      "index": 33,
+      "value": 55
+     },
+     "normalizedCount": 4,
+     "wow_change": {
+      "index": 40,
+      "value": 0.8
+     },
+     "term": "guten morgen herbstlich",
+     "searchCount": 4,
+     "reverseRank": 33
+    },
+    {
+     "yoy_change": {
+      "index": 12,
+      "value": -0.1
+     },
+     "affinity": null,
+     "seasonality_score": 0.8727527,
+     "mom_change": {
+      "index": 32,
+      "value": 50
+     },
+     "normalizedCount": 3,
+     "wow_change": {
+      "index": 45,
+      "value": 1
+     },
+     "term": "bastelvorlagen herbst",
+     "searchCount": 3,
+     "reverseRank": 32
+    },
+    {
+     "yoy_change": {
+      "index": 2,
+      "value": -0.7
+     },
+     "affinity": null,
+     "seasonality_score": 0.97141665,
+     "mom_change": {
+      "index": 31,
+      "value": 45
+     },
+     "normalizedCount": 12,
+     "wow_change": {
+      "index": 48,
+      "value": 2
+     },
+     "term": "kastanien basteln",
+     "searchCount": 12,
+     "reverseRank": 31
+    },
+    {
+     "yoy_change": {
+      "index": 8,
+      "value": -0.3
+     },
+     "affinity": null,
+     "seasonality_score": 0.7359277,
+     "mom_change": {
+      "index": 30,
+      "value": 35
+     },
+     "normalizedCount": 9,
+     "wow_change": {
+      "index": 9,
+      "value": 0.08
+     },
+     "term": "basteln mit kleinkindern herbst",
+     "searchCount": 9,
+     "reverseRank": 30
+    },
+    {
+     "yoy_change": {
+      "index": 10,
+      "value": -0.3
+     },
+     "affinity": null,
+     "seasonality_score": 0.9514047,
+     "mom_change": {
+      "index": 29,
+      "value": 35
+     },
+     "normalizedCount": 8,
+     "wow_change": {
+      "index": 1,
+      "value": -0.1
+     },
+     "term": "herbst krippe",
+     "searchCount": 8,
+     "reverseRank": 29
+    },
+    {
+     "yoy_change": {
+      "index": 1,
+      "value": -0.7
+     },
+     "affinity": null,
+     "seasonality_score": 0.9546522,
+     "mom_change": {
+      "index": 28,
+      "value": 30
+     },
+     "normalizedCount": 3,
+     "wow_change": {
+      "index": 49,
+      "value": 2
+     },
+     "term": "basteln mit kastanien",
+     "searchCount": 3,
+     "reverseRank": 28
+    },
+    {
+     "yoy_change": {
+      "index": 23,
+      "value": 0.4
+     },
+     "affinity": null,
+     "seasonality_score": 0.55168194,
+     "mom_change": {
+      "index": 27,
+      "value": 30
+     },
+     "normalizedCount": 5,
+     "wow_change": {
+      "index": 33,
+      "value": 0.6
+     },
+     "term": "kurze nagel ideen herbst",
+     "searchCount": 5,
+     "reverseRank": 27
+    },
+    {
+     "yoy_change": {
+      "index": 37,
+      "value": 2
+     },
+     "affinity": null,
+     "seasonality_score": 0.5835948,
+     "mom_change": {
+      "index": 26,
+      "value": 30
+     },
+     "normalizedCount": 5,
+     "wow_change": {
+      "index": 18,
+      "value": 0.2
+     },
+     "term": "herbst ipad hintergrund",
+     "searchCount": 5,
+     "reverseRank": 26
+    },
+    {
+     "yoy_change": {
+      "index": 28,
+      "value": 1
+     },
+     "affinity": null,
+     "seasonality_score": 0.9386694,
+     "mom_change": {
+      "index": 25,
+      "value": 30
+     },
+     "normalizedCount": 8,
+     "wow_change": {
+      "index": 50,
+      "value": 5
+     },
+     "term": "kürbis pasta",
+     "searchCount": 8,
+     "reverseRank": 25
+    },
+    {
+     "yoy_change": {
+      "index": 16,
+      "value": 0
+     },
+     "affinity": null,
+     "seasonality_score": 0.9748383,
+     "mom_change": {
+      "index": 24,
+      "value": 25
+     },
+     "normalizedCount": 3,
+     "wow_change": {
+      "index": 15,
+      "value": 0.2
+     },
+     "term": "herbst u3",
+     "searchCount": 3,
+     "reverseRank": 24
+    },
+    {
+     "yoy_change": {
+      "index": 31,
+      "value": 2
+     },
+     "affinity": null,
+     "seasonality_score": 0.7153025,
+     "mom_change": {
+      "index": 23,
+      "value": 25
+     },
+     "normalizedCount": 3,
+     "wow_change": {
+      "index": 32,
+      "value": 0.5
+     },
+     "term": "tablett dekorieren herbst",
+     "searchCount": 3,
+     "reverseRank": 23
+    },
+    {
+     "yoy_change": {
+      "index": 27,
+      "value": 0.9
+     },
+     "affinity": null,
+     "seasonality_score": 0.6757105,
+     "mom_change": {
+      "index": 22,
+      "value": 20
+     },
+     "normalizedCount": 2,
+     "wow_change": {
+      "index": 14,
+      "value": 0.2
+     },
+     "term": "naildesign herbst",
+     "searchCount": 2,
+     "reverseRank": 22
+    },
+    {
+     "yoy_change": {
+      "index": 3,
+      "value": -0.7
+     },
+     "affinity": null,
+     "seasonality_score": 0.7757938,
+     "mom_change": {
+      "index": 21,
+      "value": 20
+     },
+     "normalizedCount": 2,
+     "wow_change": {
+      "index": 42,
+      "value": 0.8
+     },
+     "term": "herbstgestecke tisch",
+     "searchCount": 2,
+     "reverseRank": 21
+    },
+    {
+     "yoy_change": {
+      "index": 44,
+      "value": 85
+     },
+     "affinity": null,
+     "seasonality_score": 0.32631648,
+     "mom_change": {
+      "index": 20,
+      "value": 20
+     },
+     "normalizedCount": 4,
+     "wow_change": {
+      "index": 7,
+      "value": 0.04
+     },
+     "term": "herbst outfit inspirationen",
+     "searchCount": 4,
+     "reverseRank": 20
+    },
+    {
+     "yoy_change": {
+      "index": 32,
+      "value": 2
+     },
+     "affinity": null,
+     "seasonality_score": 0.864866,
+     "mom_change": {
+      "index": 19,
+      "value": 20
+     },
+     "normalizedCount": 6,
+     "wow_change": {
+      "index": 27,
+      "value": 0.4
+     },
+     "term": "herbst nägel braun",
+     "searchCount": 6,
+     "reverseRank": 19
+    },
+    {
+     "yoy_change": {
+      "index": 21,
+      "value": 0.2
+     },
+     "affinity": null,
+     "seasonality_score": 0.91085446,
+     "mom_change": {
+      "index": 18,
+      "value": 20
+     },
+     "normalizedCount": 3,
+     "wow_change": {
+      "index": 38,
+      "value": 0.7
+     },
+     "term": "herbst kunstprojekte",
+     "searchCount": 3,
+     "reverseRank": 18
+    },
+    {
+     "yoy_change": {
+      "index": 41,
+      "value": 20
+     },
+     "affinity": null,
+     "seasonality_score": 0.36500424,
+     "mom_change": {
+      "index": 17,
+      "value": 20
+     },
+     "normalizedCount": 13,
+     "wow_change": {
+      "index": 26,
+      "value": 0.3
+     },
+     "term": "basteln herbst mit kindern",
+     "searchCount": 13,
+     "reverseRank": 17
+    },
+    {
+     "yoy_change": {
+      "index": 7,
+      "value": -0.4
+     },
+     "affinity": null,
+     "seasonality_score": 0.94608533,
+     "mom_change": {
+      "index": 16,
+      "value": 20
+     },
+     "normalizedCount": 13,
+     "wow_change": {
+      "index": 5,
+      "value": 0.01
+     },
+     "term": "herbstbasteln mit kindern",
+     "searchCount": 13,
+     "reverseRank": 16
+    },
+    {
+     "yoy_change": {
+      "index": 17,
+      "value": 0.09
+     },
+     "affinity": null,
+     "seasonality_score": 0.8507411,
+     "mom_change": {
+      "index": 15,
+      "value": 20
+     },
+     "normalizedCount": 3,
+     "wow_change": {
+      "index": 22,
+      "value": 0.3
+     },
+     "term": "kunst herbst",
+     "searchCount": 3,
+     "reverseRank": 15
+    },
+    {
+     "yoy_change": {
+      "index": 30,
+      "value": 1
+     },
+     "affinity": null,
+     "seasonality_score": 0.7583528,
+     "mom_change": {
+      "index": 14,
+      "value": 20
+     },
+     "normalizedCount": 9,
+     "wow_change": {
+      "index": 16,
+      "value": 0.2
+     },
+     "term": "herbst profilbilder",
+     "searchCount": 9,
+     "reverseRank": 14
+    },
+    {
+     "yoy_change": {
+      "index": 24,
+      "value": 0.5
+     },
+     "affinity": null,
+     "seasonality_score": 0.8931549,
+     "mom_change": {
+      "index": 13,
+      "value": 20
+     },
+     "normalizedCount": 5,
+     "wow_change": {
+      "index": 30,
+      "value": 0.4
+     },
+     "term": "igel basteln mit kindern",
+     "searchCount": 5,
+     "reverseRank": 13
+    },
+    {
+     "yoy_change": {
+      "index": 35,
+      "value": 2
+     },
+     "affinity": null,
+     "seasonality_score": 0.5664967,
+     "mom_change": {
+      "index": 12,
+      "value": 20
+     },
+     "normalizedCount": 4,
+     "wow_change": {
+      "index": 11,
+      "value": 0.1
+     },
+     "term": "bitmoji outfits fall",
+     "searchCount": 4,
+     "reverseRank": 12
+    },
+    {
+     "yoy_change": {
+      "index": 25,
+      "value": 0.7
+     },
+     "affinity": null,
+     "seasonality_score": 0.5741466,
+     "mom_change": {
+      "index": 11,
+      "value": 20
+     },
+     "normalizedCount": 3,
+     "wow_change": {
+      "index": 44,
+      "value": 1
+     },
+     "term": "herbst nagel rot",
+     "searchCount": 3,
+     "reverseRank": 11
+    },
+    {
+     "yoy_change": {
+      "index": 6,
+      "value": -0.5
+     },
+     "affinity": null,
+     "seasonality_score": 0.9352263,
+     "mom_change": {
+      "index": 10,
+      "value": 20
+     },
+     "normalizedCount": 2,
+     "wow_change": {
+      "index": 25,
+      "value": 0.3
+     },
+     "term": "grabgestaltung modern herbst",
+     "searchCount": 2,
+     "reverseRank": 10
+    },
+    {
+     "yoy_change": {
+      "index": 22,
+      "value": 0.2
+     },
+     "affinity": null,
+     "seasonality_score": 0.9119856,
+     "mom_change": {
+      "index": 9,
+      "value": 20
+     },
+     "normalizedCount": 2,
+     "wow_change": {
+      "index": 20,
+      "value": 0.2
+     },
+     "term": "klopapierrollen basteln herbst",
+     "searchCount": 2,
+     "reverseRank": 9
+    },
+    {
+     "yoy_change": {
+      "index": 49,
+      "value": 100.01
+     },
+     "affinity": null,
+     "seasonality_score": 0.31318122,
+     "mom_change": {
+      "index": 8,
+      "value": 20
+     },
+     "normalizedCount": 100,
+     "wow_change": {
+      "index": 6,
+      "value": 0.03
+     },
+     "term": "herbstdeko 2026",
+     "searchCount": 100,
+     "reverseRank": 8
+    },
+    {
+     "yoy_change": {
+      "index": 26,
+      "value": 0.7
+     },
+     "affinity": null,
+     "seasonality_score": 0.58731836,
+     "mom_change": {
+      "index": 7,
+      "value": 20
+     },
+     "normalizedCount": 6,
+     "wow_change": {
+      "index": 4,
+      "value": 0
+     },
+     "term": "kränze herbst",
+     "searchCount": 6,
+     "reverseRank": 7
+    },
+    {
+     "yoy_change": {
+      "index": 19,
+      "value": 0.1
+     },
+     "affinity": null,
+     "seasonality_score": 0.9901577,
+     "mom_change": {
+      "index": 6,
+      "value": 20
+     },
+     "normalizedCount": 2,
+     "wow_change": {
+      "index": 34,
+      "value": 0.6
+     },
+     "term": "fingerspiel herbst",
+     "searchCount": 2,
+     "reverseRank": 6
+    },
+    {
+     "yoy_change": {
+      "index": 20,
+      "value": 0.2
+     },
+     "affinity": null,
+     "seasonality_score": 0.9793802,
+     "mom_change": {
+      "index": 5,
+      "value": 20
+     },
+     "normalizedCount": 2,
+     "wow_change": {
+      "index": 35,
+      "value": 0.6
+     },
+     "term": "fenster bemalen herbst",
+     "searchCount": 2,
+     "reverseRank": 5
+    },
+    {
+     "yoy_change": {
+      "index": 14,
+      "value": -0.07
+     },
+     "affinity": null,
+     "seasonality_score": 0.9768541,
+     "mom_change": {
+      "index": 4,
+      "value": 20
+     },
+     "normalizedCount": 5,
+     "wow_change": {
+      "index": 21,
+      "value": 0.2
+     },
+     "term": "herbst bilder hintergrund",
+     "searchCount": 5,
+     "reverseRank": 4
+    },
+    {
+     "yoy_change": {
+      "index": 34,
+      "value": 2
+     },
+     "affinity": null,
+     "seasonality_score": 0.9024674,
+     "mom_change": {
+      "index": 3,
+      "value": 20
+     },
+     "normalizedCount": 2,
+     "wow_change": {
+      "index": 29,
+      "value": 0.4
+     },
+     "term": "kürbis vorlage",
+     "searchCount": 2,
+     "reverseRank": 3
+    },
+    {
+     "yoy_change": {
+      "index": 39,
+      "value": 5
+     },
+     "affinity": null,
+     "seasonality_score": 0.5416796,
+     "mom_change": {
+      "index": 2,
+      "value": 20
+     },
+     "normalizedCount": 3,
+     "wow_change": {
+      "index": 23,
+      "value": 0.3
+     },
+     "term": "nägel ideen herbst",
+     "searchCount": 3,
+     "reverseRank": 2
+    },
+    {
+     "yoy_change": {
+      "index": 29,
+      "value": 1
+     },
+     "affinity": null,
+     "seasonality_score": 0.8747797,
+     "mom_change": {
+      "index": 1,
+      "value": 15
+     },
+     "normalizedCount": 2,
+     "wow_change": {
+      "index": 8,
+      "value": 0.06
+     },
+     "term": "herbst fenster deko",
+     "searchCount": 2,
+     "reverseRank": 1
+    }
+   ]
+  },
+  "growing": {
+   "preset_value": 4,
+   "country_param": "DE",
+   "end_date": "2026-09-22",
+   "values": [
+    {
+     "mom_change": {
+      "index": 50,
+      "value": 100.01
+     },
+     "wow_change": {
+      "index": 4,
+      "value": 0.1
+     },
+     "affinity": null,
+     "seasonality_score": 0.95623267,
+     "normalizedCount": 8,
+     "term": "herbstbasteln mit kindern unter 3",
+     "yoy_change": {
+      "index": 7,
+      "value": -0.5
+     },
+     "searchCount": 8,
+     "reverseRank": 50
+    },
+    {
+     "mom_change": {
+      "index": 49,
+      "value": 100.01
+     },
+     "wow_change": {
+      "index": 13,
+      "value": 0.2
+     },
+     "affinity": null,
+     "seasonality_score": 0.9544394,
+     "normalizedCount": 7,
+     "term": "доброе утро осень",
+     "yoy_change": {
+      "index": 30,
+      "value": 0.2
+     },
+     "searchCount": 7,
+     "reverseRank": 49
+    },
+    {
+     "mom_change": {
+      "index": 48,
+      "value": 100.01
+     },
+     "wow_change": {
+      "index": 10,
+      "value": 0.2
+     },
+     "affinity": null,
+     "seasonality_score": 0.95933867,
+     "normalizedCount": 100,
+     "term": "blumenkübel für den herbst",
+     "yoy_change": {
+      "index": 14,
+      "value": -0.2
+     },
+     "searchCount": 100,
+     "reverseRank": 48
+    },
+    {
+     "mom_change": {
+      "index": 47,
+      "value": 100.01
+     },
+     "wow_change": {
+      "index": 44,
+      "value": 2
+     },
+     "affinity": null,
+     "seasonality_score": 0.93624794,
+     "normalizedCount": 6,
+     "term": "herbst morgenkreis",
+     "yoy_change": {
+      "index": 20,
+      "value": 0
+     },
+     "searchCount": 6,
+     "reverseRank": 47
+    },
+    {
+     "mom_change": {
+      "index": 46,
+      "value": 95
+     },
+     "wow_change": {
+      "index": 39,
+      "value": 0.9
+     },
+     "affinity": null,
+     "seasonality_score": 0.9001479,
+     "normalizedCount": 5,
+     "term": "donnerstag herbstlich",
+     "yoy_change": {
+      "index": 15,
+      "value": -0.1
+     },
+     "searchCount": 5,
+     "reverseRank": 46
+    },
+    {
+     "mom_change": {
+      "index": 45,
+      "value": 95
+     },
+     "wow_change": {
+      "index": 23,
+      "value": 0.4
+     },
+     "affinity": null,
+     "seasonality_score": 0.90515596,
+     "normalizedCount": 58,
+     "term": "grabgestaltung herbst winter",
+     "yoy_change": {
+      "index": 6,
+      "value": -0.5
+     },
+     "searchCount": 58,
+     "reverseRank": 45
+    },
+    {
+     "mom_change": {
+      "index": 44,
+      "value": 75
+     },
+     "wow_change": {
+      "index": 40,
+      "value": 1
+     },
+     "affinity": null,
+     "seasonality_score": 0.9025591,
+     "normalizedCount": 6,
+     "term": "guten morgen gruss herbstlich",
+     "yoy_change": {
+      "index": 21,
+      "value": 0.01
+     },
+     "searchCount": 6,
+     "reverseRank": 44
+    },
+    {
+     "mom_change": {
+      "index": 43,
+      "value": 65
+     },
+     "wow_change": {
+      "index": 26,
+      "value": 0.5
+     },
+     "affinity": null,
+     "seasonality_score": 0.9298511,
+     "normalizedCount": 28,
+     "term": "guten morgen herbst",
+     "yoy_change": {
+      "index": 29,
+      "value": 0.2
+     },
+     "searchCount": 28,
+     "reverseRank": 43
+    },
+    {
+     "mom_change": {
+      "index": 42,
+      "value": 60
+     },
+     "wow_change": {
+      "index": 6,
+      "value": 0.1
+     },
+     "affinity": null,
+     "seasonality_score": 0.927838,
+     "normalizedCount": 8,
+     "term": "herbst guten morgen",
+     "yoy_change": {
+      "index": 44,
+      "value": 1
+     },
+     "searchCount": 8,
+     "reverseRank": 42
+    },
+    {
+     "mom_change": {
+      "index": 41,
+      "value": 55
+     },
+     "wow_change": {
+      "index": 5,
+      "value": 0.1
+     },
+     "affinity": null,
+     "seasonality_score": 0.97710866,
+     "normalizedCount": 6,
+     "term": "ausmalbilder herbst kostenlos",
+     "yoy_change": {
+      "index": 25,
+      "value": 0.08
+     },
+     "searchCount": 6,
+     "reverseRank": 41
+    },
+    {
+     "mom_change": {
+      "index": 40,
+      "value": 55
+     },
+     "wow_change": {
+      "index": 37,
+      "value": 0.8
+     },
+     "affinity": null,
+     "seasonality_score": 0.9652774,
+     "normalizedCount": 29,
+     "term": "guten morgen herbstlich",
+     "yoy_change": {
+      "index": 18,
+      "value": -0.07
+     },
+     "searchCount": 29,
+     "reverseRank": 40
+    },
+    {
+     "mom_change": {
+      "index": 39,
+      "value": 50
+     },
+     "wow_change": {
+      "index": 42,
+      "value": 1
+     },
+     "affinity": null,
+     "seasonality_score": 0.8727527,
+     "normalizedCount": 19,
+     "term": "bastelvorlagen herbst",
+     "yoy_change": {
+      "index": 19,
+      "value": -0.05
+     },
+     "searchCount": 19,
+     "reverseRank": 39
+    },
+    {
+     "mom_change": {
+      "index": 38,
+      "value": 45
+     },
+     "wow_change": {
+      "index": 35,
+      "value": 0.7
+     },
+     "affinity": null,
+     "seasonality_score": 0.9072361,
+     "normalizedCount": 9,
+     "term": "naturbilder herbst",
+     "yoy_change": {
+      "index": 11,
+      "value": -0.3
+     },
+     "searchCount": 9,
+     "reverseRank": 38
+    },
+    {
+     "mom_change": {
+      "index": 37,
+      "value": 45
+     },
+     "wow_change": {
+      "index": 46,
+      "value": 2
+     },
+     "affinity": null,
+     "seasonality_score": 0.97141665,
+     "normalizedCount": 75,
+     "term": "kastanien basteln",
+     "yoy_change": {
+      "index": 4,
+      "value": -0.7
+     },
+     "searchCount": 75,
+     "reverseRank": 37
+    },
+    {
+     "mom_change": {
+      "index": 36,
+      "value": 40
+     },
+     "wow_change": {
+      "index": 41,
+      "value": 1
+     },
+     "affinity": null,
+     "seasonality_score": 0.9471615,
+     "normalizedCount": 7,
+     "term": "tischspruch herbst kita",
+     "yoy_change": {
+      "index": 40,
+      "value": 0.6
+     },
+     "searchCount": 7,
+     "reverseRank": 36
+    },
+    {
+     "mom_change": {
+      "index": 35,
+      "value": 35
+     },
+     "wow_change": {
+      "index": 29,
+      "value": 0.6
+     },
+     "affinity": null,
+     "seasonality_score": 0.93258125,
+     "normalizedCount": 7,
+     "term": "kaffeefilter basteln herbst",
+     "yoy_change": {
+      "index": 33,
+      "value": 0.3
+     },
+     "searchCount": 7,
+     "reverseRank": 35
+    },
+    {
+     "mom_change": {
+      "index": 34,
+      "value": 35
+     },
+     "wow_change": {
+      "index": 45,
+      "value": 2
+     },
+     "affinity": null,
+     "seasonality_score": 0.876634,
+     "normalizedCount": 13,
+     "term": "herbst lustig",
+     "yoy_change": {
+      "index": 46,
+      "value": 1
+     },
+     "searchCount": 13,
+     "reverseRank": 34
+    },
+    {
+     "mom_change": {
+      "index": 33,
+      "value": 35
+     },
+     "wow_change": {
+      "index": 1,
+      "value": 0
+     },
+     "affinity": null,
+     "seasonality_score": 0.9670606,
+     "normalizedCount": 7,
+     "term": "herbstanfang bilder",
+     "yoy_change": {
+      "index": 38,
+      "value": 0.4
+     },
+     "searchCount": 7,
+     "reverseRank": 33
+    },
+    {
+     "mom_change": {
+      "index": 32,
+      "value": 30
+     },
+     "wow_change": {
+      "index": 47,
+      "value": 2
+     },
+     "affinity": null,
+     "seasonality_score": 0.8504727,
+     "normalizedCount": 14,
+     "term": "kastanien ideen",
+     "yoy_change": {
+      "index": 48,
+      "value": 2
+     },
+     "searchCount": 14,
+     "reverseRank": 32
+    },
+    {
+     "mom_change": {
+      "index": 31,
+      "value": 30
+     },
+     "wow_change": {
+      "index": 38,
+      "value": 0.8
+     },
+     "affinity": null,
+     "seasonality_score": 0.8627986,
+     "normalizedCount": 6,
+     "term": "herbstfenster kindergarten",
+     "yoy_change": {
+      "index": 1,
+      "value": -0.8
+     },
+     "searchCount": 6,
+     "reverseRank": 31
+    },
+    {
+     "mom_change": {
+      "index": 30,
+      "value": 30
+     },
+     "wow_change": {
+      "index": 48,
+      "value": 2
+     },
+     "affinity": null,
+     "seasonality_score": 0.9546522,
+     "normalizedCount": 22,
+     "term": "basteln mit kastanien",
+     "yoy_change": {
+      "index": 3,
+      "value": -0.7
+     },
+     "searchCount": 22,
+     "reverseRank": 30
+    },
+    {
+     "mom_change": {
+      "index": 29,
+      "value": 30
+     },
+     "wow_change": {
+      "index": 2,
+      "value": 0.01
+     },
+     "affinity": null,
+     "seasonality_score": 0.97573024,
+     "normalizedCount": 10,
+     "term": "blumenkasten herbst winter",
+     "yoy_change": {
+      "index": 5,
+      "value": -0.6
+     },
+     "searchCount": 10,
+     "reverseRank": 29
+    },
+    {
+     "mom_change": {
+      "index": 28,
+      "value": 30
+     },
+     "wow_change": {
+      "index": 24,
+      "value": 0.4
+     },
+     "affinity": null,
+     "seasonality_score": 0.9680473,
+     "normalizedCount": 10,
+     "term": "kürbis basteln mit kindern",
+     "yoy_change": {
+      "index": 42,
+      "value": 0.8
+     },
+     "searchCount": 10,
+     "reverseRank": 28
+    },
+    {
+     "mom_change": {
+      "index": 27,
+      "value": 30
+     },
+     "wow_change": {
+      "index": 20,
+      "value": 0.3
+     },
+     "affinity": null,
+     "seasonality_score": 0.96930146,
+     "normalizedCount": 6,
+     "term": "rote herbst nägel",
+     "yoy_change": {
+      "index": 39,
+      "value": 0.5
+     },
+     "searchCount": 6,
+     "reverseRank": 27
+    },
+    {
+     "mom_change": {
+      "index": 26,
+      "value": 30
+     },
+     "wow_change": {
+      "index": 50,
+      "value": 5
+     },
+     "affinity": null,
+     "seasonality_score": 0.9386694,
+     "normalizedCount": 50,
+     "term": "kürbis pasta",
+     "yoy_change": {
+      "index": 47,
+      "value": 1
+     },
+     "searchCount": 50,
+     "reverseRank": 26
+    },
+    {
+     "mom_change": {
+      "index": 25,
+      "value": 30
+     },
+     "wow_change": {
+      "index": 8,
+      "value": 0.2
+     },
+     "affinity": null,
+     "seasonality_score": 0.9296149,
+     "normalizedCount": 7,
+     "term": "fensterbilder herbst malen",
+     "yoy_change": {
+      "index": 13,
+      "value": -0.2
+     },
+     "searchCount": 7,
+     "reverseRank": 25
+    },
+    {
+     "mom_change": {
+      "index": 24,
+      "value": 30
+     },
+     "wow_change": {
+      "index": 43,
+      "value": 1
+     },
+     "affinity": null,
+     "seasonality_score": 0.8646888,
+     "normalizedCount": 5,
+     "term": "herbst lustige bilder",
+     "yoy_change": {
+      "index": 24,
+      "value": 0.03
+     },
+     "searchCount": 5,
+     "reverseRank": 24
+    },
+    {
+     "mom_change": {
+      "index": 23,
+      "value": 25
+     },
+     "wow_change": {
+      "index": 27,
+      "value": 0.5
+     },
+     "affinity": null,
+     "seasonality_score": 0.95528585,
+     "normalizedCount": 5,
+     "term": "halloween snack ideen einfach",
+     "yoy_change": {
+      "index": 50,
+      "value": 25
+     },
+     "searchCount": 5,
+     "reverseRank": 23
+    },
+    {
+     "mom_change": {
+      "index": 22,
+      "value": 25
+     },
+     "wow_change": {
+      "index": 21,
+      "value": 0.4
+     },
+     "affinity": null,
+     "seasonality_score": 0.90750676,
+     "normalizedCount": 13,
+     "term": "freitagsgrüsse neu herbstlich",
+     "yoy_change": {
+      "index": 37,
+      "value": 0.4
+     },
+     "searchCount": 13,
+     "reverseRank": 22
+    },
+    {
+     "mom_change": {
+      "index": 21,
+      "value": 25
+     },
+     "wow_change": {
+      "index": 7,
+      "value": 0.2
+     },
+     "affinity": null,
+     "seasonality_score": 0.9748383,
+     "normalizedCount": 19,
+     "term": "herbst u3",
+     "yoy_change": {
+      "index": 23,
+      "value": 0.02
+     },
+     "searchCount": 19,
+     "reverseRank": 21
+    },
+    {
+     "mom_change": {
+      "index": 20,
+      "value": 25
+     },
+     "wow_change": {
+      "index": 12,
+      "value": 0.2
+     },
+     "affinity": null,
+     "seasonality_score": 0.8525438,
+     "normalizedCount": 5,
+     "term": "sonntagsgrüße bilder neu natur herbst",
+     "yoy_change": {
+      "index": 45,
+      "value": 1
+     },
+     "searchCount": 5,
+     "reverseRank": 20
+    },
+    {
+     "mom_change": {
+      "index": 19,
+      "value": 25
+     },
+     "wow_change": {
+      "index": 32,
+      "value": 0.6
+     },
+     "affinity": null,
+     "seasonality_score": 0.9870908,
+     "normalizedCount": 11,
+     "term": "handabdruck herbst",
+     "yoy_change": {
+      "index": 16,
+      "value": -0.09
+     },
+     "searchCount": 11,
+     "reverseRank": 19
+    },
+    {
+     "mom_change": {
+      "index": 18,
+      "value": 25
+     },
+     "wow_change": {
+      "index": 49,
+      "value": 3
+     },
+     "affinity": null,
+     "seasonality_score": 0.9486493,
+     "normalizedCount": 12,
+     "term": "kastanien basteln mit kindern",
+     "yoy_change": {
+      "index": 2,
+      "value": -0.8
+     },
+     "searchCount": 12,
+     "reverseRank": 18
+    },
+    {
+     "mom_change": {
+      "index": 17,
+      "value": 20
+     },
+     "wow_change": {
+      "index": 15,
+      "value": 0.2
+     },
+     "affinity": null,
+     "seasonality_score": 0.94087076,
+     "normalizedCount": 9,
+     "term": "herbstangebote kita",
+     "yoy_change": {
+      "index": 8,
+      "value": -0.5
+     },
+     "searchCount": 9,
+     "reverseRank": 17
+    },
+    {
+     "mom_change": {
+      "index": 16,
+      "value": 20
+     },
+     "wow_change": {
+      "index": 22,
+      "value": 0.4
+     },
+     "affinity": null,
+     "seasonality_score": 0.864866,
+     "normalizedCount": 36,
+     "term": "herbst nägel braun",
+     "yoy_change": {
+      "index": 49,
+      "value": 2
+     },
+     "searchCount": 36,
+     "reverseRank": 16
+    },
+    {
+     "mom_change": {
+      "index": 15,
+      "value": 20
+     },
+     "wow_change": {
+      "index": 36,
+      "value": 0.7
+     },
+     "affinity": null,
+     "seasonality_score": 0.91085446,
+     "normalizedCount": 21,
+     "term": "herbst kunstprojekte",
+     "yoy_change": {
+      "index": 35,
+      "value": 0.4
+     },
+     "searchCount": 21,
+     "reverseRank": 15
+    },
+    {
+     "mom_change": {
+      "index": 14,
+      "value": 20
+     },
+     "wow_change": {
+      "index": 33,
+      "value": 0.6
+     },
+     "affinity": null,
+     "seasonality_score": 0.97096944,
+     "normalizedCount": 9,
+     "term": "kürbis feta pasta",
+     "yoy_change": {
+      "index": 27,
+      "value": 0.1
+     },
+     "searchCount": 9,
+     "reverseRank": 14
+    },
+    {
+     "mom_change": {
+      "index": 13,
+      "value": 20
+     },
+     "wow_change": {
+      "index": 3,
+      "value": 0.01
+     },
+     "affinity": null,
+     "seasonality_score": 0.94608533,
+     "normalizedCount": 79,
+     "term": "herbstbasteln mit kindern",
+     "yoy_change": {
+      "index": 9,
+      "value": -0.4
+     },
+     "searchCount": 79,
+     "reverseRank": 13
+    },
+    {
+     "mom_change": {
+      "index": 12,
+      "value": 20
+     },
+     "wow_change": {
+      "index": 17,
+      "value": 0.3
+     },
+     "affinity": null,
+     "seasonality_score": 0.8507411,
+     "normalizedCount": 18,
+     "term": "kunst herbst",
+     "yoy_change": {
+      "index": 34,
+      "value": 0.3
+     },
+     "searchCount": 18,
+     "reverseRank": 12
+    },
+    {
+     "mom_change": {
+      "index": 11,
+      "value": 20
+     },
+     "wow_change": {
+      "index": 9,
+      "value": 0.2
+     },
+     "affinity": null,
+     "seasonality_score": 0.9567182,
+     "normalizedCount": 10,
+     "term": "kita herbst basteln",
+     "yoy_change": {
+      "index": 22,
+      "value": 0.02
+     },
+     "searchCount": 10,
+     "reverseRank": 11
+    },
+    {
+     "mom_change": {
+      "index": 10,
+      "value": 20
+     },
+     "wow_change": {
+      "index": 25,
+      "value": 0.4
+     },
+     "affinity": null,
+     "seasonality_score": 0.8931549,
+     "normalizedCount": 33,
+     "term": "igel basteln mit kindern",
+     "yoy_change": {
+      "index": 41,
+      "value": 0.7
+     },
+     "searchCount": 33,
+     "reverseRank": 10
+    },
+    {
+     "mom_change": {
+      "index": 9,
+      "value": 20
+     },
+     "wow_change": {
+      "index": 34,
+      "value": 0.7
+     },
+     "affinity": null,
+     "seasonality_score": 0.8809979,
+     "normalizedCount": 6,
+     "term": "herbstbepflanzung grab",
+     "yoy_change": {
+      "index": 26,
+      "value": 0.09
+     },
+     "searchCount": 6,
+     "reverseRank": 9
+    },
+    {
+     "mom_change": {
+      "index": 8,
+      "value": 20
+     },
+     "wow_change": {
+      "index": 16,
+      "value": 0.2
+     },
+     "affinity": null,
+     "seasonality_score": 0.887549,
+     "normalizedCount": 13,
+     "term": "herbst krippenkinder",
+     "yoy_change": {
+      "index": 43,
+      "value": 0.8
+     },
+     "searchCount": 13,
+     "reverseRank": 8
+    },
+    {
+     "mom_change": {
+      "index": 7,
+      "value": 20
+     },
+     "wow_change": {
+      "index": 19,
+      "value": 0.3
+     },
+     "affinity": null,
+     "seasonality_score": 0.9352263,
+     "normalizedCount": 16,
+     "term": "grabgestaltung modern herbst",
+     "yoy_change": {
+      "index": 10,
+      "value": -0.3
+     },
+     "searchCount": 16,
+     "reverseRank": 7
+    },
+    {
+     "mom_change": {
+      "index": 6,
+      "value": 20
+     },
+     "wow_change": {
+      "index": 11,
+      "value": 0.2
+     },
+     "affinity": null,
+     "seasonality_score": 0.9119856,
+     "normalizedCount": 15,
+     "term": "klopapierrollen basteln herbst",
+     "yoy_change": {
+      "index": 36,
+      "value": 0.4
+     },
+     "searchCount": 15,
+     "reverseRank": 6
+    },
+    {
+     "mom_change": {
+      "index": 5,
+      "value": 20
+     },
+     "wow_change": {
+      "index": 18,
+      "value": 0.3
+     },
+     "affinity": null,
+     "seasonality_score": 0.9127688,
+     "normalizedCount": 7,
+     "term": "kirmes outfit herbst",
+     "yoy_change": {
+      "index": 28,
+      "value": 0.2
+     },
+     "searchCount": 7,
+     "reverseRank": 5
+    },
+    {
+     "mom_change": {
+      "index": 4,
+      "value": 20
+     },
+     "wow_change": {
+      "index": 30,
+      "value": 0.6
+     },
+     "affinity": null,
+     "seasonality_score": 0.9901577,
+     "normalizedCount": 15,
+     "term": "fingerspiel herbst",
+     "yoy_change": {
+      "index": 31,
+      "value": 0.2
+     },
+     "searchCount": 15,
+     "reverseRank": 4
+    },
+    {
+     "mom_change": {
+      "index": 3,
+      "value": 20
+     },
+     "wow_change": {
+      "index": 31,
+      "value": 0.6
+     },
+     "affinity": null,
+     "seasonality_score": 0.9793802,
+     "normalizedCount": 16,
+     "term": "fenster bemalen herbst",
+     "yoy_change": {
+      "index": 32,
+      "value": 0.2
+     },
+     "searchCount": 16,
+     "reverseRank": 3
+    },
+    {
+     "mom_change": {
+      "index": 2,
+      "value": 20
+     },
+     "wow_change": {
+      "index": 14,
+      "value": 0.2
+     },
+     "affinity": null,
+     "seasonality_score": 0.9768541,
+     "normalizedCount": 32,
+     "term": "herbst bilder hintergrund",
+     "yoy_change": {
+      "index": 17,
+      "value": -0.08
+     },
+     "searchCount": 32,
+     "reverseRank": 2
+    },
+    {
+     "mom_change": {
+      "index": 1,
+      "value": 20
+     },
+     "wow_change": {
+      "index": 28,
+      "value": 0.5
+     },
+     "affinity": null,
+     "seasonality_score": 0.8738836,
+     "normalizedCount": 9,
+     "term": "lampionblume basteln",
+     "yoy_change": {
+      "index": 12,
+      "value": -0.2
+     },
+     "searchCount": 9,
+     "reverseRank": 1
+    }
+   ]
+  }
+ }
+}

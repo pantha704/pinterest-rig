@@ -1,0 +1,16 @@
+{
+  "template": "listicle",
+  "palette": "lavender",
+  "brand": "Amber Hollow",
+  "handle": "@panther704",
+  "count": "5",
+  "headline": "journal\npage ideas",
+  "title": "For the nights you want to write but have nothing to say.",
+  "items": [
+    "Three things that went right, however small",
+    "One sentence about the weather out of the window",
+    "A list of what you are saving up for",
+    "The last conversation you keep thinking about",
+    "Something you would tell yourself a year ago"
+  ]
+}

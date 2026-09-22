@@ -1,0 +1,14 @@
+# secrets / live session state — NEVER commit
+account/*.json
+*_cookies*.json
+*_session*.json
+imported_session*.json
+OPERATOR.md
+backups/
+*.tar.gz
+
+# logs / runtime noise
+*.log
+__pycache__/
+*.pyc
+.DS_Store

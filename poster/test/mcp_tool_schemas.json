@@ -1,0 +1,528 @@
+{
+  "cloak_launch": {
+    "properties": {
+      "headless": {
+        "default": true,
+        "title": "Headless",
+        "type": "boolean"
+      },
+      "proxy": {
+        "anyOf": [
+          {
+            "type": "string"
+          },
+          {
+            "type": "null"
+          }
+        ],
+        "default": null,
+        "title": "Proxy"
+      },
+      "humanize": {
+        "default": true,
+        "title": "Humanize",
+        "type": "boolean"
+      },
+      "human_preset": {
+        "default": "default",
+        "title": "Human Preset",
+        "type": "string"
+      },
+      "stealth_args": {
+        "default": true,
+        "title": "Stealth Args",
+        "type": "boolean"
+      },
+      "timezone": {
+        "anyOf": [
+          {
+            "type": "string"
+          },
+          {
+            "type": "null"
+          }
+        ],
+        "default": null,
+        "title": "Timezone"
+      },
+      "locale": {
+        "anyOf": [
+          {
+            "type": "string"
+          },
+          {
+            "type": "null"
+          }
+        ],
+        "default": null,
+        "title": "Locale"
+      },
+      "geoip": {
+        "default": false,
+        "title": "Geoip",
+        "type": "boolean"
+      },
+      "fingerprint_seed": {
+        "anyOf": [
+          {
+            "type": "string"
+          },
+          {
+            "type": "null"
+          }
+        ],
+        "default": null,
+        "title": "Fingerprint Seed"
+      },
+      "user_data_dir": {
+        "anyOf": [
+          {
+            "type": "string"
+          },
+          {
+            "type": "null"
+          }
+        ],
+        "default": null,
+        "title": "User Data Dir"
+      },
+      "viewport_width": {
+        "anyOf": [
+          {
+            "type": "integer"
+          },
+          {
+            "type": "null"
+          }
+        ],
+        "default": null,
+        "title": "Viewport Width"
+      },
+      "viewport_height": {
+        "anyOf": [
+          {
+            "type": "integer"
+          },
+          {
+            "type": "null"
+          }
+        ],
+        "default": null,
+        "title": "Viewport Height"
+      },
+      "color_scheme": {
+        "anyOf": [
+          {
+            "type": "string"
+          },
+          {
+            "type": "null"
+          }
+        ],
+        "default": null,
+        "title": "Color Scheme"
+      },
+      "user_agent": {
+        "anyOf": [
+          {
+            "type": "string"
+          },
+          {
+            "type": "null"
+          }
+        ],
+        "default": null,
+        "title": "User Agent"
+      },
+      "extra_args": {
+        "anyOf": [
+          {
+            "items": {
+              "type": "string"
+            },
+            "type": "array"
+          },
+          {
+            "type": "null"
+          }
+        ],
+        "default": null,
+        "title": "Extra Args"
+      }
+    },
+    "title": "cloak_launchArguments",
+    "type": "object"
+  },
+  "cloak_close": {
+    "properties": {},
+    "title": "cloak_closeArguments",
+    "type": "object"
+  },
+  "cloak_snapshot": {
+    "properties": {
+      "page_id": {
+        "title": "Page Id",
+        "type": "string"
+      },
+      "full": {
+        "default": false,
+        "title": "Full",
+        "type": "boolean"
+      },
+      "max_length": {
+        "default": 12000,
+        "title": "Max Length",
+        "type": "integer"
+      }
+    },
+    "required": [
+      "page_id"
+    ],
+    "title": "cloak_snapshotArguments",
+    "type": "object"
+  },
+  "cloak_click": {
+    "properties": {
+      "page_id": {
+        "title": "Page Id",
+        "type": "string"
+      },
+      "ref": {
+        "title": "Ref",
+        "type": "string"
+      }
+    },
+    "required": [
+      "page_id",
+      "ref"
+    ],
+    "title": "cloak_clickArguments",
+    "type": "object"
+  },
+  "cloak_type": {
+    "properties": {
+      "page_id": {
+        "title": "Page Id",
+        "type": "string"
+      },
+      "ref": {
+        "title": "Ref",
+        "type": "string"
+      },
+      "text": {
+        "title": "Text",
+        "type": "string"
+      },
+      "clear": {
+        "default": true,
+        "title": "Clear",
+        "type": "boolean"
+      },
+      "submit": {
+        "default": false,
+        "title": "Submit",
+        "type": "boolean"
+      }
+    },
+    "required": [
+      "page_id",
+      "ref",
+      "text"
+    ],
+    "title": "cloak_typeArguments",
+    "type": "object"
+  },
+  "cloak_select": {
+    "properties": {
+      "page_id": {
+        "title": "Page Id",
+        "type": "string"
+      },
+      "ref": {
+        "title": "Ref",
+        "type": "string"
+      },
+      "value": {
+        "anyOf": [
+          {
+            "type": "string"
+          },
+          {
+            "type": "null"
+          }
+        ],
+        "default": null,
+        "title": "Value"
+      },
+      "label": {
+        "anyOf": [
+          {
+            "type": "string"
+          },
+          {
+            "type": "null"
+          }
+        ],
+        "default": null,
+        "title": "Label"
+      },
+      "index": {
+        "anyOf": [
+          {
+            "type": "integer"
+          },
+          {
+            "type": "null"
+          }
+        ],
+        "default": null,
+        "title": "Index"
+      }
+    },
+    "required": [
+      "page_id",
+      "ref"
+    ],
+    "title": "cloak_selectArguments",
+    "type": "object"
+  },
+  "cloak_hover": {
+    "properties": {
+      "page_id": {
+        "title": "Page Id",
+        "type": "string"
+      },
+      "ref": {
+        "title": "Ref",
+        "type": "string"
+      }
+    },
+    "required": [
+      "page_id",
+      "ref"
+    ],
+    "title": "cloak_hoverArguments",
+    "type": "object"
+  },
+  "cloak_check": {
+    "properties": {
+      "page_id": {
+        "title": "Page Id",
+        "type": "string"
+      },
+      "ref": {
+        "title": "Ref",
+        "type": "string"
+      },
+      "checked": {
+        "default": true,
+        "title": "Checked",
+        "type": "boolean"
+      }
+    },
+    "required": [
+      "page_id",
+      "ref"
+    ],
+    "title": "cloak_checkArguments",
+    "type": "object"
+  },
+  "cloak_read_page": {
+    "properties": {
+      "page_id": {
+        "title": "Page Id",
+        "type": "string"
+      },
+      "max_length": {
+        "default": 50000,
+        "title": "Max Length",
+        "type": "integer"
+      }
+    },
+    "required": [
+      "page_id"
+    ],
+    "title": "cloak_read_pageArguments",
+    "type": "object"
+  },
+  "cloak_screenshot": {
+    "properties": {
+      "page_id": {
+        "title": "Page Id",
+        "type": "string"
+      },
+      "full_page": {
+        "default": false,
+        "title": "Full Page",
+        "type": "boolean"
+      }
+    },
+    "required": [
+      "page_id"
+    ],
+    "title": "cloak_screenshotArguments",
+    "type": "object"
+  },
+  "cloak_navigate": {
+    "properties": {
+      "page_id": {
+        "title": "Page Id",
+        "type": "string"
+      },
+      "url": {
+        "title": "Url",
+        "type": "string"
+      },
+      "timeout": {
+        "default": 30000,
+        "title": "Timeout",
+        "type": "integer"
+      }
+    },
+    "required": [
+      "page_id",
+      "url"
+    ],
+    "title": "cloak_navigateArguments",
+    "type": "object"
+  },
+  "cloak_back": {
+    "properties": {
+      "page_id": {
+        "title": "Page Id",
+        "type": "string"
+      }
+    },
+    "required": [
+      "page_id"
+    ],
+    "title": "cloak_backArguments",
+    "type": "object"
+  },
+  "cloak_forward": {
+    "properties": {
+      "page_id": {
+        "title": "Page Id",
+        "type": "string"
+      }
+    },
+    "required": [
+      "page_id"
+    ],
+    "title": "cloak_forwardArguments",
+    "type": "object"
+  },
+  "cloak_press_key": {
+    "properties": {
+      "page_id": {
+        "title": "Page Id",
+        "type": "string"
+      },
+      "key": {
+        "title": "Key",
+        "type": "string"
+      }
+    },
+    "required": [
+      "page_id",
+      "key"
+    ],
+    "title": "cloak_press_keyArguments",
+    "type": "object"
+  },
+  "cloak_scroll": {
+    "properties": {
+      "page_id": {
+        "title": "Page Id",
+        "type": "string"
+      },
+      "direction": {
+        "default": "down",
+        "title": "Direction",
+        "type": "string"
+      },
+      "amount": {
+        "default": 500,
+        "title": "Amount",
+        "type": "integer"
+      }
+    },
+    "required": [
+      "page_id"
+    ],
+    "title": "cloak_scrollArguments",
+    "type": "object"
+  },
+  "cloak_wait": {
+    "properties": {
+      "page_id": {
+        "title": "Page Id",
+        "type": "string"
+      },
+      "timeout_ms": {
+        "default": 5000,
+        "title": "Timeout Ms",
+        "type": "integer"
+      }
+    },
+    "required": [
+      "page_id"
+    ],
+    "title": "cloak_waitArguments",
+    "type": "object"
+  },
+  "cloak_evaluate": {
+    "properties": {
+      "page_id": {
+        "title": "Page Id",
+        "type": "string"
+      },
+      "expression": {
+        "title": "Expression",
+        "type": "string"
+      }
+    },
+    "required": [
+      "page_id",
+      "expression"
+    ],
+    "title": "cloak_evaluateArguments",
+    "type": "object"
+  },
+  "cloak_new_page": {
+    "properties": {
+      "url": {
+        "anyOf": [
+          {
+            "type": "string"
+          },
+          {
+            "type": "null"
+          }
+        ],
+        "default": null,
+        "title": "Url"
+      }
+    },
+    "title": "cloak_new_pageArguments",
+    "type": "object"
+  },
+  "cloak_list_pages": {
+    "properties": {},
+    "title": "cloak_list_pagesArguments",
+    "type": "object"
+  },
+  "cloak_close_page": {
+    "properties": {
+      "page_id": {
+        "title": "Page Id",
+        "type": "string"
+      }
+    },
+    "required": [
+      "page_id"
+    ],
+    "title": "cloak_close_pageArguments",
+    "type": "object"
+  }
+}

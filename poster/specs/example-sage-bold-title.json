@@ -1,0 +1,8 @@
+{
+  "_comment": "LIVE TEST SPEC — used for the single composer verification run. Board is the composer's own default so the draft lands somewhere real without inventing a board. link is null on purpose: this stays a benign draft and Pinterest was never asked to resolve an outbound URL.",
+  "image_path": "/home/ubuntu/pinterest-rig/factory/samples/sage-bold-title.png",
+  "title": "Make Your Studio Feel Twice as Big: 7 Renter-Friendly Habits",
+  "description": "Small studio apartment? These 7 renter-friendly habits make a tiny space feel twice as big - no drilling, no damage-deposit drama. Weekend tweaks for renters: layout, mirrors, storage, and lighting.",
+  "link": null,
+  "board_name": "Birthday cakes for babies"
+}

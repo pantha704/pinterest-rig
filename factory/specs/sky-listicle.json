@@ -1,0 +1,20 @@
+{
+  "template": "listicle",
+  "palette": "sky",
+  "band_h": 300,
+  "title_max": 42,
+  "count": "7",
+  "headline": "calm-morning\nhabits",
+  "title": "Start the day without touching your phone.",
+  "items": [
+    "Water before coffee",
+    "Open a window for two minutes",
+    "Write one sentence, not a journal page",
+    "Stretch for the length of one song",
+    "Pick the day's single most important task",
+    "Put the phone on a shelf, not the bed",
+    "Eat breakfast away from a screen"
+  ],
+  "brand": "Calm Studio",
+  "handle": "@calmstudio"
+}

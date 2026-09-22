@@ -1,0 +1,65 @@
+{
+  "page_id": "page_1963f077",
+  "spec": {
+    "_comment": "LIVE TEST SPEC \u2014 used for the single composer verification run. Board is the composer's own default so the draft lands somewhere real without inventing a board. link is null on purpose: this stays a benign draft and Pinterest was never asked to resolve an outbound URL.",
+    "image_path": "/home/ubuntu/pinterest-rig/factory/samples/sage-bold-title.png",
+    "title": "Make Your Studio Feel Twice as Big: 7 Renter-Friendly Habits",
+    "description": "Small studio apartment? These 7 renter-friendly habits make a tiny space feel twice as big - no drilling, no damage-deposit drama. Weekend tweaks for renters: layout, mirrors, storage, and lighting.",
+    "link": null,
+    "board_name": "Birthday cakes for babies",
+    "force_upload": false
+  },
+  "steps": {
+    "composer_open": {
+      "url": "https://in.pinterest.com/pin-creation-tool/",
+      "draftsSidebar": true,
+      "previewImages": 1
+    },
+    "upload": {
+      "uploaded": true,
+      "previews": [
+        {
+          "src": "https://i.pinimg.com/736x/d6/7c/dd/d67cddbed35e84703f347cdc7dd3fce0.jpg",
+          "w": 736,
+          "h": 1104,
+          "box": [
+            72,
+            72
+          ]
+        }
+      ],
+      "error": null
+    },
+    "fields": {
+      "title": "",
+      "link": "",
+      "description": "",
+      "descEditable": false,
+      "desc_mechanism": "FAILED"
+    },
+    "board": {
+      "current": "Birthday cakes for babies",
+      "inventory": [],
+      "changed": false
+    },
+    "final": {
+      "url": "https://in.pinterest.com/pin-creation-tool/",
+      "titleValue": "",
+      "linkValue": "",
+      "descText": "",
+      "descEditable": false,
+      "board": {
+        "text": "Board Birthday cakes for babies",
+        "disabled": false
+      }
+    }
+  },
+  "screenshots": [
+    "/home/ubuntu/pinterest-rig/poster/test/10_composer_open.png",
+    "/home/ubuntu/pinterest-rig/poster/test/11_image_uploaded.png",
+    "/home/ubuntu/pinterest-rig/poster/test/12_fields_filled_composer_preview.png"
+  ],
+  "status": "COMPOSED_NOT_PUBLISHED",
+  "notes": "Pin left composed in Pinterest's drafts-backed builder. Publish/Done was never clicked, so no live public pin exists.",
+  "elapsed_s": 237.9
+}

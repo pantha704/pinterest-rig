@@ -1,0 +1,15 @@
+{
+  "template": "pastel_gradient",
+  "palette": "mint",
+  "angle": 118,
+  "gradient": [
+    "#E4F7F1",
+    "#C8EDE3",
+    "#A6DED0"
+  ],
+  "kicker": "Desk reset",
+  "title": "The 10-Minute Desk Reset That Changed My Focus",
+  "subtitle": "Clear surface, clear head. A tiny ritual for chaotic work weeks.",
+  "brand": "Calm Studio",
+  "handle": "@calmstudio"
+}

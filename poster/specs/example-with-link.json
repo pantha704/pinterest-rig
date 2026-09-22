@@ -1,0 +1,8 @@
+{
+  "_comment": "Example spec WITH a link, showing the optional field. Replace the link with the real destination at posting time (affiliate links are allowed on Pinterest with a clear #affiliate disclosure, no shorteners, straight to the product page).",
+  "image_path": "/home/ubuntu/pinterest-rig/factory/samples/navy-bold-title.png",
+  "title": "7 Small-Space Habits That Make a Tiny Apartment Feel Bigger",
+  "description": "Renter-friendly ways to make a small apartment live larger: light placement, mirror tricks, vertical storage and a layout that does the work. No drilling involved. #affiliate",
+  "link": "https://example.com/your-product-page",
+  "board_name": "Small Space Living"
+}

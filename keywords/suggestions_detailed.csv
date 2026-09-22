@@ -1,0 +1,450 @@
+seed,suggestion,source,country,latest_interest,mean_interest,max_interest,trend_52w
+aesthetic room,aesthetic room posters,prefix_match,GB,100,48.8,100,30
+coloring pages,coloring pages for kids,prefix_match,GB,100,43.1,100,76
+home decor,home decoration ideas,prefix_match,GB,100,65.8,100,61
+meal prep,meal prep snacks,prefix_match,GB,100,34.6,100,72
+outfit ideas,outfit ideas for women,prefix_match,GB,100,31.8,100,68
+wedding,wedding cake,prefix_match,GB,100,47.0,100,47
+coloring pages,coloring pages y2k,prefix_match,US,100,33.4,100,87
+home decor,home decor aesthetic,prefix_match,US,100,50.6,100,76
+outfit ideas,outfit ideas for women,prefix_match,US,100,32.1,100,68
+outfit ideas,outfit ideas school,prefix_match,US,100,39.0,100,48
+travel tips,fox tips hair,prefix_match,US,100,38.3,100,80
+wallpaper,wallpaper,prefix_match,US,100,79.8,100,33
+wedding,wedding guest hairstyles,prefix_match,US,100,62.1,100,3
+wallpaper,wallpaper dark,related_terms,GB,100,72.0,100,20
+outfit ideas,cute fall outfits for women,related_terms,US,100,19.0,100,74
+wallpaper,wallpaper 4k,prefix_match,GB,99,41.9,100,60
+outfit ideas,outfit ideas black women,prefix_match,US,99,38.7,100,81
+outfit ideas,outfit ideas autumn,prefix_match,GB,98,16.5,100,27
+coloring pages,coloring pages for boys,prefix_match,US,98,74.0,100,29
+desk setup,office desk setup,prefix_match,US,98,66.3,100,60
+desk setup,desk setup ideas,prefix_match,GB,96,34.8,100,77
+coloring pages,coloring pages fall,prefix_match,US,96,23.9,100,3
+home decor,family room,related_terms,GB,96,69.7,100,25
+desk setup,desk setup ideas,prefix_match,US,95,42.9,100,76
+wallpaper,cool wallpaper,related_terms,GB,95,61.9,100,0
+budget,how to budget for beginners,related_terms,US,95,36.6,100,68
+outfit ideas,outfit ideas,prefix_match,US,94,76.8,100,7
+study motivation,study era,related_terms,US,94,39.7,100,88
+wallpaper,backgrounds,related_terms,US,94,65.5,100,26
+wallpaper,wallpaper for laptop,prefix_match,US,93,27.6,100,72
+wallpaper,wallpaper 4k,prefix_match,US,93,39.7,100,57
+wallpaper,wallpaper,prefix_match,GB,92,73.1,100,23
+meal prep,meal prep snacks,prefix_match,US,92,62.9,100,32
+travel tips,travel outfits for women,prefix_match,US,92,55.8,100,66
+study motivation,study era,related_terms,GB,92,38.4,100,82
+wallpaper,wallpaper laptop,prefix_match,GB,91,68.9,100,24
+wallpaper,wallpaper autumn,prefix_match,GB,91,14.2,100,27
+aesthetic room,living room aesthetic,prefix_match,US,91,44.7,100,74
+budget,budget template,prefix_match,US,91,55.2,100,16
+aesthetic room,cozy bedroom ideas,related_terms,GB,91,75.9,100,4
+aesthetic room,small room ideas,related_terms,GB,91,73.6,100,27
+home decor,living room aesthetic,related_terms,US,91,44.2,100,75
+desk setup,small desk setup,prefix_match,GB,88,43.8,100,62
+coloring pages,coloring pages for kids,prefix_match,US,88,60.9,100,44
+coloring pages,coloring pages for adults,prefix_match,US,88,79.2,100,16
+outfit ideas,fall outfits 2026 women,related_terms,GB,88,9.2,100,88
+coloring pages,coloring pages for adults,related_terms,US,88,79.1,100,15
+wedding,elegant wedding dresses,related_terms,US,88,57.4,100,38
+meal prep,meal prep ideas,prefix_match,GB,87,50.5,100,41
+skincare,skincare products aesthetic,prefix_match,US,87,65.6,100,46
+desk setup,wfh desk setup,prefix_match,GB,86,68.8,100,-7
+planner,weekly planner template,prefix_match,GB,86,50.1,100,43
+wallpaper,wallpapers,prefix_match,GB,86,72.6,100,-14
+meal prep,meal prep ideas,prefix_match,US,86,42.2,100,49
+outfit ideas,winter outfits for women,related_terms,GB,86,24.1,100,72
+wallpaper,cool wallpaper,related_terms,US,86,49.6,100,45
+aesthetic room,room aesthetic,prefix_match,GB,85,48.3,100,56
+aesthetic room,living room aesthetic,prefix_match,GB,85,46.8,100,60
+home decor,home decor diy,prefix_match,US,85,67.8,100,31
+meal prep,meal prep breakfast ideas,prefix_match,US,85,59.8,100,35
+aesthetic room,small room makeover,related_terms,GB,85,76.3,100,8
+desk setup,corner desk,related_terms,GB,85,78.5,100,-8
+home decor,living room aesthetic,related_terms,GB,85,46.5,100,58
+outfit ideas,birthday outfit,related_terms,GB,85,73.3,100,5
+desk setup,desk setup,prefix_match,GB,84,58.7,100,36
+study motivation,study motivation video,prefix_match,GB,84,44.7,100,29
+meal prep,meal prep lunches,prefix_match,US,84,55.5,100,31
+gift ideas,gifts,related_terms,US,83,38.6,93,57
+aesthetic room,aesthetic room,prefix_match,GB,82,69.0,100,20
+wallpaper,wallpapers,prefix_match,US,82,67.4,100,-18
+home decor,family room,related_terms,US,81,77.1,100,12
+meal prep,food prep ideas,related_terms,US,81,46.5,100,32
+wedding,wedding,prefix_match,US,80,80.0,100,-8
+wallpaper,wallpaper ideas,prefix_match,GB,79,61.8,100,1
+desk setup,cute desk setup,prefix_match,US,79,56.5,100,54
+desk setup,wfh desk setup,prefix_match,US,79,72.9,100,16
+coloring pages,coloring book,related_terms,US,79,71.9,100,16
+aesthetic room,aesthetic room ideas,prefix_match,GB,78,54.1,100,36
+outfit ideas,outfit ideas,prefix_match,GB,78,73.5,100,6
+wedding,wedding dresses,prefix_match,US,78,74.8,100,-18
+wedding,wedding hair,prefix_match,US,78,60.0,100,12
+aesthetic room,cozy bedroom,related_terms,US,78,74.0,100,-7
+gift ideas,small gift ideas,related_terms,US,78,18.7,78,70
+home decor,home decor inspiration,prefix_match,US,77,60.7,100,31
+wedding,wedding nails,prefix_match,US,77,59.4,100,7
+budget,budget wedding,prefix_match,GB,76,59.4,100,2
+meal prep,meal prep lunch ideas,prefix_match,GB,76,47.9,100,24
+planner,weekly planner,prefix_match,GB,76,57.1,100,-8
+desk setup,desk setup office,prefix_match,US,76,57.0,100,61
+wallpaper,desktop wallpaper,related_terms,GB,76,67.1,100,-23
+skincare,skincare routine order,prefix_match,US,75,56.8,100,50
+home decor,entryway ideas,related_terms,GB,75,66.6,100,15
+wallpaper,wallpaper black,related_terms,US,75,69.5,100,12
+desk setup,cozy desk setup,prefix_match,GB,74,57.0,100,29
+desk setup,desk setup,prefix_match,US,74,67.6,100,36
+journal ideas,mini art journal,related_terms,GB,74,53.3,100,56
+study motivation,student aesthetic,related_terms,GB,74,60.5,100,13
+desk setup,work from home set up,related_terms,US,74,73.4,100,6
+journal ideas,mini art journal,related_terms,US,74,60.5,100,59
+wedding,wedding dress,prefix_match,GB,73,52.8,100,34
+home decor,home decor styles,prefix_match,US,73,76.7,100,-13
+outfit ideas,outfit ideas casual,prefix_match,US,73,60.1,100,8
+outfit ideas,outfit ideas men,prefix_match,GB,72,73.4,100,10
+wedding,backless wedding dress,related_terms,GB,72,73.4,100,-21
+home decor,home decor inspiration,prefix_match,GB,71,66.2,100,16
+skincare,skincare products,prefix_match,GB,71,69.5,100,20
+travel tips,travel outfit,prefix_match,GB,71,76.2,100,-9
+skincare,skincare products,prefix_match,US,71,70.6,100,12
+study motivation,study motivation video,prefix_match,US,71,42.9,100,0
+outfit ideas,outfit ideas jeans,prefix_match,GB,70,63.4,100,14
+wallpaper,wallpaper ipad,prefix_match,US,70,54.4,100,7
+wallpaper,wallpaper macbook,prefix_match,US,70,29.8,100,49
+planner,digital planner,related_terms,US,70,39.7,100,42
+desk setup,gaming desk setup,prefix_match,GB,69,66.7,100,-15
+planner,week planner,related_terms,GB,69,55.7,100,-17
+aesthetic room,aesthetic rooms,prefix_match,GB,68,73.0,100,-8
+desk setup,office desk setup,prefix_match,GB,68,53.9,100,21
+wedding,wedding hairstyles,prefix_match,GB,68,73.0,100,-32
+desk setup,cozy desk setup,prefix_match,US,68,66.9,100,-8
+study motivation,motivation to study,prefix_match,US,68,63.2,100,-9
+wallpaper,wallpaper ideas,prefix_match,US,68,55.3,100,3
+wedding,wedding cake,prefix_match,US,68,74.9,100,-10
+desk setup,work from home set up,related_terms,GB,68,71.1,100,-2
+wedding,elegant wedding dresses,related_terms,GB,68,47.5,100,10
+aesthetic room,bedroom inspo,related_terms,US,68,63.4,100,25
+aesthetic room,aesthetic room decor diy,prefix_match,GB,67,70.1,100,6
+coloring pages,cartoon coloring pages,prefix_match,GB,67,59.2,100,33
+desk setup,desk setups,prefix_match,US,67,69.3,100,-6
+study motivation,study motivation wallpaper,prefix_match,US,67,68.2,100,-11
+wedding,backless wedding dress,related_terms,US,67,70.0,100,-17
+aesthetic room,aesthetic room decor ideas,prefix_match,GB,66,62.6,100,38
+outfit ideas,outfit ideas y2k,prefix_match,GB,66,47.2,100,23
+wedding,wedding,prefix_match,GB,66,72.2,100,-6
+aesthetic room,room aesthetic,prefix_match,US,66,43.3,100,41
+skincare,grwm,related_terms,GB,66,77.3,100,-1
+gift ideas,gift ideas diy,prefix_match,GB,65,48.2,100,44
+aesthetic room,aesthetic rooms,prefix_match,US,65,68.6,100,-2
+budget,budget meals,prefix_match,US,65,53.4,100,27
+coloring pages,coloring books,related_terms,GB,65,39.5,100,15
+wallpaper,wallpaper laptop,prefix_match,US,64,60.6,100,23
+home decor,home decor ideas,prefix_match,GB,63,67.2,100,-26
+coloring pages,coloring pages free printable,prefix_match,US,63,56.8,100,37
+journal ideas,aesthetic diary ideas,related_terms,GB,63,48.6,100,21
+aesthetic room,cute bedroom ideas,related_terms,US,63,71.8,100,6
+planner,week planner,related_terms,US,63,59.8,100,3
+skincare,grwm,related_terms,US,63,82.9,100,-7
+aesthetic room,aesthetic room ideas,prefix_match,US,62,53.5,100,8
+planner,planner inspiration,prefix_match,US,62,37.8,100,35
+travel tips,fall french tips,prefix_match,US,62,18.8,100,-20
+desk setup,home office ideas,related_terms,GB,62,67.1,100,-26
+planner,planner inspo,prefix_match,US,61,26.0,100,40
+study motivation,motivation,prefix_match,US,61,58.8,100,12
+home decor,home decor bedroom,prefix_match,GB,60,25.5,100,26
+home decor,home decor ideas living room and kitchen,prefix_match,GB,60,50.1,100,-12
+planner,planner organization,prefix_match,GB,60,40.3,100,14
+meal prep,meal prep lunch ideas,prefix_match,US,60,49.0,100,10
+aesthetic room,aesthetic room decor,prefix_match,GB,59,63.6,100,-5
+aesthetic room,cute bedroom ideas,related_terms,GB,58,64.4,100,-16
+desk setup,desk ideas,related_terms,GB,58,54.1,100,-42
+coloring pages,coloring books,related_terms,US,58,52.8,100,-26
+home decor,small living room ideas,related_terms,US,58,74.0,100,-29
+coloring pages,coloring pages for adults,prefix_match,GB,57,75.5,100,-34
+planner,planners,prefix_match,GB,57,60.7,100,0
+home decor,home decor,prefix_match,US,57,64.2,100,3
+wedding,wedding guest dress,prefix_match,US,57,63.5,100,-33
+coloring pages,coloring pages for adults,related_terms,GB,57,75.7,100,-43
+aesthetic room,cozy bedroom ideas,related_terms,US,57,59.3,100,3
+desk setup,corner desk,related_terms,US,57,73.9,100,-28
+gift ideas,christmas present ideas,related_terms,US,57,14.6,63,50
+wedding,flowy wedding dress,related_terms,US,57,75.0,100,-31
+wallpaper,wallpaper pink,prefix_match,GB,56,57.2,100,-18
+aesthetic room,aesthetic room decor ideas,prefix_match,US,56,63.3,100,18
+journal ideas,junk journal ideas,prefix_match,US,56,51.2,100,26
+desk setup,desk setup aesthetic,prefix_match,GB,55,62.4,100,-13
+desk setup,aesthetic desk setup,prefix_match,GB,54,65.1,100,-19
+journal ideas,junk journal ideas,prefix_match,GB,54,51.9,100,24
+wallpaper,wallpaper ipad,prefix_match,GB,54,43.3,100,-10
+coloring pages,coloring pages,prefix_match,US,54,67.2,100,-10
+home decor,home decor ideas,prefix_match,US,54,71.5,100,-39
+wedding,wedding hairstyles,prefix_match,US,54,60.2,100,-46
+desk setup,office ideas,related_terms,US,54,60.1,100,-46
+journal ideas,aesthetic diary ideas,related_terms,US,54,51.2,100,-18
+wallpaper,desktop wallpaper,related_terms,US,54,66.1,100,-29
+gift ideas,gifts for friends,related_terms,GB,53,41.6,100,24
+desk setup,home office ideas,related_terms,US,53,67.8,100,-26
+outfit ideas,winter outfits for women,related_terms,US,53,26.0,100,46
+wedding,wedding ring,prefix_match,GB,52,61.9,100,-18
+aesthetic room,aesthetic room inspo,prefix_match,US,52,70.7,100,10
+home decor,home decor bedroom,prefix_match,US,52,44.6,100,-37
+wedding,wedding rings,prefix_match,US,52,55.6,100,-15
+gift ideas,handmade gift ideas for best friend,related_terms,GB,52,55.8,100,15
+wallpaper,black and white wallpaper,related_terms,GB,52,53.5,100,-48
+coloring pages,coloring page,related_terms,US,52,37.9,100,28
+planner,monthly planner,related_terms,US,52,41.0,100,17
+budget,budget meals,prefix_match,GB,51,61.0,100,-2
+wedding,wedding guest outfit,prefix_match,GB,51,62.5,100,1
+home decor,home decoration ideas,prefix_match,US,51,34.5,100,20
+meal prep,meal prep,prefix_match,US,51,49.3,100,5
+outfit ideas,outfit ideas men,prefix_match,US,51,48.6,100,23
+skincare,skincare fridge,prefix_match,US,51,59.8,100,2
+planner,planner pages,prefix_match,GB,50,45.0,100,-15
+skincare,skincare routine,prefix_match,GB,50,53.5,100,8
+journal ideas,journal cover ideas,prefix_match,US,50,44.6,100,16
+wedding,wedding dress,prefix_match,US,50,39.8,100,20
+coloring pages,cozy friends coloring pages,prefix_match,GB,49,57.7,100,-5
+wallpaper,wallpaper aesthetic,prefix_match,GB,49,59.2,100,-21
+planner,planners,prefix_match,US,49,46.1,100,15
+skincare,skincare routine,prefix_match,US,49,62.7,100,-2
+gift ideas,gifts,related_terms,GB,49,44.9,100,8
+wallpaper,wallpaper aesthetic,related_terms,GB,49,59.4,100,-21
+gift ideas,gift ideas for friends,prefix_match,GB,48,44.1,100,16
+planner,planner stickers,prefix_match,GB,48,42.1,100,-9
+study motivation,rory gilmore study motivation,prefix_match,GB,48,45.3,100,-23
+travel tips,packing tips for travel,prefix_match,GB,48,33.1,100,-40
+gift ideas,gift ideas for friends,related_terms,GB,48,44.0,100,11
+travel tips,packing tips for travel,related_terms,GB,48,33.7,100,-20
+meal prep,meal prep lunch,prefix_match,GB,47,44.4,100,-30
+outfit ideas,outfit ideas casual,prefix_match,GB,47,58.5,100,3
+wedding,wedding nails,prefix_match,GB,47,54.6,100,-8
+wedding,wedding hair,prefix_match,GB,47,45.6,100,1
+travel tips,travel tips,prefix_match,US,47,65.8,100,-13
+study motivation,study core,related_terms,GB,47,56.2,100,-46
+journal ideas,journal cover ideas,related_terms,US,47,43.7,100,9
+home decor,home decor,prefix_match,GB,46,51.8,100,-3
+study motivation,study motivation quotes,prefix_match,US,46,49.5,100,-26
+wedding,fun wedding ideas,related_terms,GB,46,60.9,100,-16
+gift ideas,christmas gifts for women,related_terms,US,46,8.0,56,45
+home decor,entryway ideas,related_terms,US,46,68.1,100,-41
+study motivation,study core,related_terms,US,46,51.7,100,-54
+skincare,skincare fridge,prefix_match,GB,45,60.7,100,-12
+budget,budget friendly meals families,prefix_match,US,45,52.7,100,7
+journal ideas,journal page ideas,prefix_match,US,45,38.6,100,27
+skincare,skincare organization,prefix_match,US,45,54.1,100,-6
+study motivation,study motivation,prefix_match,US,45,46.8,100,-32
+travel tips,french tips,prefix_match,US,45,59.7,100,-55
+coloring pages,cozy days coloring pages finished,prefix_match,GB,44,46.3,100,44
+gift ideas,gift ideas,prefix_match,GB,44,39.1,100,10
+planner,planner,prefix_match,GB,44,37.2,100,6
+skincare,skincare organization,prefix_match,GB,44,41.8,100,5
+wedding,wedding dresses,prefix_match,GB,44,64.0,100,-56
+aesthetic room,aesthetic room posters,prefix_match,US,44,59.0,100,-14
+planner,monthly planner,related_terms,GB,44,41.5,100,1
+budget,budgeting,related_terms,US,44,25.2,100,32
+gift ideas,handmade gift ideas for best friend,related_terms,US,44,53.6,100,1
+journal ideas,journal aesthetic,related_terms,US,44,23.6,100,27
+travel tips,travel hacks,related_terms,US,44,55.7,100,9
+budget,budget challenge,prefix_match,GB,43,32.9,100,-36
+planner,planner aesthetic,prefix_match,GB,43,31.3,100,21
+aesthetic room,aesthetic room,prefix_match,US,43,50.2,100,6
+aesthetic room,aesthetic room decor,prefix_match,US,43,66.9,100,-10
+home decor,home decor ideas living room,prefix_match,US,43,59.0,100,-57
+journal ideas,journal ideas prompts,prefix_match,US,43,52.4,100,30
+budget,how to save money,related_terms,GB,43,52.5,100,-5
+coloring pages,coloring book,related_terms,GB,43,46.2,100,7
+planner,daily planner,related_terms,GB,43,44.3,100,-9
+home decor,bathroom decor,related_terms,US,43,78.0,100,-55
+aesthetic room,aesthetic room inspo,prefix_match,GB,42,57.2,100,9
+coloring pages,coco wyo coloring pages,prefix_match,GB,42,44.5,100,0
+travel tips,french tips,prefix_match,GB,42,60.8,100,-28
+outfit ideas,outfit ideas for school,prefix_match,US,42,53.8,100,-10
+study motivation,student aesthetic,related_terms,US,42,36.2,100,9
+meal prep,meal prep breakfast,prefix_match,GB,41,44.2,100,-17
+study motivation,study motivation,prefix_match,GB,41,49.4,100,-23
+travel tips,glow up tips,prefix_match,GB,41,67.3,100,-2
+budget,budget friendly meals,prefix_match,US,41,52.2,100,-42
+desk setup,desk setup aesthetic,prefix_match,US,41,60.3,100,-3
+home decor,home decor ideas living room and kitchen,prefix_match,US,41,57.6,100,-30
+outfit ideas,outfit ideas shorts,prefix_match,US,41,31.2,100,-7
+travel tips,travel outfit,prefix_match,US,41,67.2,100,-53
+wallpaper,wallpaper aesthetic,prefix_match,US,41,50.2,100,-20
+aesthetic room,bedroom ideas for small rooms diy,related_terms,GB,41,45.4,100,21
+planner,digital planner,related_terms,GB,41,35.5,100,10
+planner,daily planner,related_terms,US,41,45.9,100,-3
+wallpaper,wallpaper aesthetic,related_terms,US,41,50.4,100,-19
+home decor,home decor ideas living room,prefix_match,GB,40,45.1,100,-60
+travel tips,square french tips,prefix_match,GB,40,42.8,100,27
+outfit ideas,outfit ideas fall,prefix_match,US,40,21.2,100,-11
+travel tips,travel hacks,related_terms,GB,40,54.6,100,8
+travel tips,switzerland travel,related_terms,GB,40,46.5,100,-2
+meal prep,work lunch ideas,related_terms,US,40,67.9,100,-45
+skincare,skincare products aesthetic,prefix_match,GB,39,44.9,100,11
+coloring pages,coloring pages easy,prefix_match,US,39,53.6,100,1
+gift ideas,gift ideas diy,prefix_match,US,39,29.7,100,26
+meal prep,meal prep lunch,prefix_match,US,39,51.5,100,-36
+meal prep,high protein meal prep,related_terms,GB,39,47.7,100,-5
+study motivation,motivation to study,prefix_match,GB,38,46.7,100,-9
+aesthetic room,aesthetic room decor diy,prefix_match,US,38,60.9,100,-54
+planner,planner cover,prefix_match,US,38,40.3,100,2
+travel tips,glow up tips,prefix_match,US,38,63.0,100,-2
+budget,budget planner,prefix_match,GB,37,39.2,100,-15
+coloring pages,coloring pages halloween,prefix_match,US,37,14.9,100,-20
+study motivation,rory gilmore study motivation,prefix_match,US,37,47.7,100,-63
+travel tips,packing tips for travel,prefix_match,US,37,25.9,100,24
+budget,budget planner,related_terms,GB,37,39.4,100,-9
+meal prep,lunch ideas for work,related_terms,GB,37,49.8,100,-11
+outfit ideas,outfits for school,related_terms,GB,37,46.3,100,-19
+wedding,flowy wedding dress,related_terms,GB,37,66.4,100,-18
+journal ideas,bullet journal design ideas,prefix_match,GB,36,21.8,100,30
+planner,planner template,prefix_match,GB,36,47.2,100,-38
+study motivation,study motivation quotes,prefix_match,GB,36,52.6,100,-39
+wedding,wedding guest dress,prefix_match,GB,36,47.5,100,-6
+desk setup,office ideas,related_terms,GB,36,46.0,100,-64
+planner,planner template,related_terms,GB,36,47.9,100,-51
+travel tips,travel essentials,related_terms,GB,36,67.3,100,-13
+coloring pages,coloring pages,prefix_match,GB,35,61.3,100,-58
+gift ideas,gift ideas for boyfriend,prefix_match,GB,35,37.0,100,0
+gift ideas,gift ideas for girlfriend,prefix_match,GB,35,34.8,100,5
+journal ideas,journal cover ideas,prefix_match,GB,35,35.3,100,8
+planner,planner,prefix_match,US,35,35.4,100,10
+skincare,skincare steps,prefix_match,US,35,52.2,100,0
+journal ideas,journal cover ideas,related_terms,GB,35,35.2,100,7
+journal ideas,journal page,related_terms,GB,35,42.8,100,7
+wedding,wedding dresses lace,related_terms,US,35,60.2,100,-53
+desk setup,ikea desk setup,prefix_match,GB,34,48.6,100,-23
+journal ideas,journal ideas pages,prefix_match,GB,34,36.7,100,24
+journal ideas,journal page ideas,prefix_match,GB,34,35.5,100,15
+study motivation,study motivation wallpaper,prefix_match,GB,34,46.6,100,-27
+skincare,skin care products,related_terms,US,34,56.9,100,-21
+skincare,skin care routine,related_terms,US,34,50.8,100,-20
+budget,budget planner,prefix_match,US,33,43.1,100,0
+gift ideas,gift ideas for boyfriend,prefix_match,US,33,37.0,100,-3
+planner,planner stickers,prefix_match,US,33,32.6,100,1
+skincare,skincare order,prefix_match,US,33,53.4,100,-2
+home decor,bathroom decor,related_terms,GB,33,53.0,100,-46
+meal prep,meal prep,prefix_match,GB,32,32.7,100,-3
+journal ideas,journal ideas pages,prefix_match,US,32,49.1,100,24
+planner,planner template,prefix_match,US,32,38.3,100,-13
+travel tips,travel essentials,related_terms,US,32,56.5,100,-13
+planner,planner ideas,prefix_match,GB,31,28.6,100,0
+planner,planner aesthetic,prefix_match,US,31,28.2,100,16
+skincare,skincare,prefix_match,US,31,33.2,100,5
+journal ideas,journaling,related_terms,US,31,20.4,100,17
+outfit ideas,style,related_terms,US,31,39.7,100,0
+study motivation,study motivation aesthetic,prefix_match,GB,30,42.6,100,-28
+study motivation,study aesthetic motivation,prefix_match,GB,30,24.1,100,3
+travel tips,coloured french tips,prefix_match,GB,30,43.1,100,17
+travel tips,cool things,related_terms,US,30,27.4,100,-43
+skincare,skincare routine order,prefix_match,GB,29,28.0,100,10
+study motivation,study,prefix_match,GB,29,30.6,100,-2
+gift ideas,gift ideas,prefix_match,US,29,30.4,100,6
+gift ideas,gift ideas for girlfriends,prefix_match,US,29,33.9,100,-2
+budget,budget,prefix_match,GB,28,26.6,100,2
+wallpaper,wallpaper backgrounds,prefix_match,GB,28,39.4,100,-72
+budget,budget planner template,prefix_match,US,28,45.5,100,-9
+gift ideas,gift ideas for best friend,prefix_match,US,28,35.9,100,0
+journal ideas,journal ideas,prefix_match,US,28,40.6,100,-6
+study motivation,study motivation aesthetic,prefix_match,US,28,39.8,100,-26
+skincare,skin care products,related_terms,GB,28,48.5,100,-33
+travel tips,switzerland travel,related_terms,US,28,43.8,100,-33
+gift ideas,gift ideas for women,prefix_match,GB,27,26.7,100,4
+gift ideas,gift ideas for men,prefix_match,GB,27,24.2,100,6
+outfit ideas,outfit ideas for school,prefix_match,GB,27,45.9,100,-20
+travel tips,blue french tips,prefix_match,GB,27,45.7,100,1
+gift ideas,gift ideas for girlfriend,prefix_match,US,27,32.6,100,-5
+journal ideas,journal ideas creative,prefix_match,US,27,48.1,100,-24
+study motivation,study aesthetic motivation,prefix_match,US,27,26.0,100,-10
+skincare,skin care routine,related_terms,GB,27,38.4,100,-26
+journal ideas,journal ideas,prefix_match,GB,26,33.3,100,1
+planner,planner ideas,prefix_match,US,26,29.4,100,0
+study motivation,study vibes,related_terms,GB,26,23.2,100,-11
+planner,planner template,related_terms,US,26,35.3,100,-22
+travel tips,solo travel,related_terms,US,26,20.1,100,8
+coloring pages,cute coloring pages,prefix_match,GB,25,50.3,100,-27
+journal ideas,journal ideas creative,prefix_match,GB,25,46.6,100,-27
+gift ideas,gift ideas for friends,prefix_match,US,25,30.4,100,4
+journal ideas,journal ideas writing,prefix_match,US,25,39.8,100,-27
+study motivation,academic motivation,related_terms,US,25,29.9,100,-18
+journal ideas,journal aesthetic,related_terms,GB,24,24.9,100,5
+coloring pages,coloring pages aesthetic,prefix_match,GB,23,47.7,100,-23
+coloring pages,coloring pages aesthetic,prefix_match,US,23,50.7,100,-13
+skincare,serious skin care,related_terms,US,23,27.0,100,23
+gift ideas,gift ideas for best friend,prefix_match,GB,22,38.7,100,-26
+budget,budget,prefix_match,US,22,25.5,100,-3
+aesthetic room,bedroom decor,related_terms,US,22,53.3,100,-51
+study motivation,study vibes,related_terms,US,22,21.4,100,-21
+wedding,fun wedding ideas,related_terms,US,22,33.5,100,-10
+budget,budget mensuel,prefix_match,GB,21,40.0,100,-9
+skincare,skincare steps,prefix_match,GB,21,36.6,100,-9
+travel tips,travel tips,prefix_match,GB,21,46.4,100,-3
+study motivation,academic motivation,related_terms,GB,21,34.2,100,-24
+skincare,skincare,prefix_match,GB,20,26.5,100,-2
+coloring pages,coloring page,related_terms,GB,20,23.4,100,3
+wedding,wedding dresses lace,related_terms,GB,20,52.8,100,-69
+budget,budgeting,prefix_match,US,19,25.1,100,7
+gift ideas,gift ideas for men,prefix_match,US,19,20.7,100,6
+planner,planner organization,prefix_match,US,19,33.4,100,-14
+home decor,house decor,related_terms,GB,19,25.7,100,-70
+budget,saving money tips,related_terms,US,19,37.8,100,-48
+journal ideas,book journal ideas,prefix_match,GB,18,28.5,100,-5
+budget,budgeting tips,prefix_match,US,18,37.0,100,-53
+gift ideas,gift ideas for women,prefix_match,US,18,19.5,100,5
+meal prep,meal prep breakfast,prefix_match,US,18,23.9,100,-9
+budget,budgeting tips,related_terms,US,18,37.8,100,-57
+skincare,skin care,related_terms,US,18,27.9,100,-10
+budget,budgeting tips,prefix_match,GB,17,34.8,100,-60
+journal ideas,journal ideas aesthetic,prefix_match,GB,17,32.6,100,-3
+budget,budgeting tips,related_terms,GB,17,35.2,100,-42
+outfit ideas,style,related_terms,GB,17,20.7,100,1
+skincare,skin care,related_terms,GB,17,30.5,100,-24
+desk setup,home office setup,related_terms,US,17,37.8,100,-51
+journal ideas,journal ideas aesthetic,prefix_match,US,16,36.1,100,-7
+skincare,skincare order,prefix_match,GB,15,31.5,100,-9
+budget,budgeting finances,prefix_match,US,15,32.4,100,-57
+budget,budgeting finances,related_terms,US,15,33.1,100,-57
+meal prep,meal prep for the week,prefix_match,US,14,42.4,100,-40
+coloring pages,halloween coloring pages,related_terms,GB,14,10.3,100,-13
+meal prep,meal prep for the week,related_terms,US,14,42.7,100,-44
+budget,budgeting,prefix_match,GB,13,17.0,100,4
+wallpaper,wallpaper backgrounds,prefix_match,US,13,34.1,100,-87
+budget,budgeting,related_terms,GB,13,16.9,100,3
+budget,budgeting finances,prefix_match,GB,12,24.4,100,-47
+coloring pages,coloring pages to print,prefix_match,GB,12,24.2,100,-18
+meal prep,meal prep for the week,prefix_match,GB,12,29.0,100,-39
+meal prep,meal prep aesthetic,prefix_match,GB,12,11.0,100,5
+skincare,skincare aesthetic,prefix_match,GB,12,17.1,100,0
+desk setup,teacher desk setup,prefix_match,US,12,25.8,100,1
+skincare,skincare aesthetic,prefix_match,US,12,16.1,100,2
+study motivation,study motivation inspiration,prefix_match,US,12,45.6,100,-56
+meal prep,meal prep for the week,related_terms,GB,12,29.4,100,-37
+meal prep,healthy dinner recipes,related_terms,GB,12,41.8,100,-41
+meal prep,healthy dinner recipes,related_terms,US,12,42.5,100,-47
+gift ideas,gift ideas for dad,prefix_match,GB,11,20.6,100,-2
+outfit ideas,outfit ideas winter,prefix_match,GB,11,33.4,100,-18
+journal ideas,bullet journal ideas,prefix_match,US,11,17.0,100,0
+travel tips,solo travel,related_terms,GB,11,16.9,100,-1
+travel tips,travel,prefix_match,GB,10,15.2,100,0
+travel tips,travel aesthetic,prefix_match,GB,10,14.7,100,-1
+gift ideas,christmas present ideas,related_terms,GB,10,16.1,100,-8
+budget,budgeting aesthetic,prefix_match,GB,9,11.1,100,0
+gift ideas,gift ideas for mum,prefix_match,GB,9,18.9,100,-6
+home decor,home decor inspo,prefix_match,GB,9,15.3,100,-91
+journal ideas,bullet journal ideas,prefix_match,GB,9,14.6,100,-2
+gift ideas,gift ideas for mom,prefix_match,US,9,16.6,100,-1
+travel tips,travel,prefix_match,US,9,14.2,100,0
+budget,money saving,related_terms,GB,9,12.8,100,4
+outfit ideas,outfit ideas summer,prefix_match,US,8,18.8,100,-5
+outfit ideas,fashion,related_terms,US,8,25.9,100,-58
+study motivation,study motivation inspiration,prefix_match,GB,7,44.6,100,-49
+outfit ideas,outfit ideas summer,prefix_match,GB,6,27.1,100,-2
+travel tips,travel aesthetic,prefix_match,US,6,12.1,100,-2
+skincare,clear skin,related_terms,GB,6,11.0,100,0
+meal prep,meal prep rezepte,prefix_match,GB,5,38.5,100,-54
+outfit ideas,fall casual outfits,related_terms,US,5,21.0,84,-38
+meal prep,meal prep recipes,prefix_match,GB,4,5.9,100,1
+meal prep,meal prep recipes,related_terms,GB,4,5.8,100,2
+meal prep,meal prep recipes,prefix_match,US,2,3.5,100,1
+meal prep,meal prep recipes,related_terms,US,2,3.5,100,1
+home decor,home decor style,prefix_match,GB,1,19.6,100,-18
+coloring pages,halloween coloring pages,related_terms,US,0,12.6,81,-25

@@ -1,0 +1,18 @@
+{
+  "template": "editorial_minimal",
+  "palette": "mono",
+  "margin": 78,
+  "row_h": 68,
+  "kicker": "Rental kitchen",
+  "issue": "Guide 01",
+  "title": "Nine small changes that make a rental kitchen feel yours",
+  "deck": "No drilling, no painting, no landlord conversations.",
+  "entries": [
+    "Peel-and-stick tile behind the hob",
+    "One long runner instead of two mats",
+    "Swap the cabinet handles",
+    "Warm bulbs, always"
+  ],
+  "brand": "Calm Studio",
+  "handle": "@calmstudio"
+}

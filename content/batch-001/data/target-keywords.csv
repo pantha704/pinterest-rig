@@ -1,0 +1,21 @@
+file,board,term,source,region,latest,mean,max,trend_52w,note
+rendered/pin-001-cozy-bedroom-renter.png,Cozy Home Decor & Aesthetic Room Ideas,cozy bedroom ideas,"suggestions_detailed.csv (related_terms, seed 'aesthetic room')",GB,91,75.9,100,4,
+rendered/pin-002-calm-rooms-quiet-edit.png,Cozy Home Decor & Aesthetic Room Ideas,home decor aesthetic,"suggestions_detailed.csv (prefix_match, seed 'home decor')",US,100,50.6,100,76,
+rendered/pin-003-small-space-storage.png,Cozy Home Decor & Aesthetic Room Ideas,small room ideas,"suggestions_detailed.csv (related_terms, seed 'aesthetic room')",GB,91,73.6,100,27,
+rendered/pin-004-heritage-stripe-wallpaper.png,Wallpaper & Accent Wall Inspiration,wallpaper ideas,"suggestions_detailed.csv (prefix_match, seed 'wallpaper')",GB,79,61.8,100,1,
+rendered/pin-005-accent-wall-one-wall.png,Wallpaper & Accent Wall Inspiration,wallpaper dark,"suggestions_detailed.csv (related_terms, seed 'wallpaper')",GB,100,72.0,100,20,
+rendered/pin-006-corner-desk-setup.png,Desk Setup & Study Aesthetic,desk setup ideas,"suggestions_detailed.csv (prefix_match, seed 'desk setup')",GB,96,34.8,100,77,
+rendered/pin-007-cozy-desk-upgrades.png,Desk Setup & Study Aesthetic,cozy desk setup,"suggestions_detailed.csv (prefix_match, seed 'desk setup')",GB,74,57.0,100,29,
+rendered/pin-008-tidy-desk-quote.png,Desk Setup & Study Aesthetic,study era,"suggestions_detailed.csv (related_terms, seed 'study motivation')",US,94,39.7,100,88,
+rendered/pin-009-weekly-planner-template.png,"Planner, Journal & Study Printables",weekly planner template,"suggestions_detailed.csv (prefix_match, seed 'planner')",GB,86,50.1,100,43,
+rendered/pin-010-planner-week-three.png,"Planner, Journal & Study Printables",planner inspiration,"suggestions_detailed.csv (prefix_match, seed 'planner')",US,62,37.8,100,35,
+rendered/pin-011-journal-prompts.png,"Planner, Journal & Study Printables",journal ideas prompts,"suggestions_detailed.csv (prefix_match, seed 'journal ideas')",US,43,52.4,100,30,
+rendered/pin-012-autumn-home-refresh.png,Cozy Autumn Home & Fall Decor,fall home decor ideas,"supplement_keywords.csv (prefix_match, seed 'christmas home decor')",US,82.0,15.1,100.0,45.0,gap-fill harvest 2026-09-22
+rendered/pin-013-autumn-evenings-quote.png,Cozy Autumn Home & Fall Decor,autumn decor ideas,"supplement_keywords.csv (prefix_match, seed 'autumn home decor')",GB,64.0,10.3,100.0,43.0,gap-fill harvest 2026-09-22
+rendered/pin-014-rainy-window-print.png,Cozy Autumn Home & Fall Decor,autumn room decor,"supplement_keywords.csv (prefix_match, seed 'autumn home decor')",GB,63.0,13.9,100.0,16.0,gap-fill harvest 2026-09-22
+rendered/pin-015-printable-wall-art-guide.png,Printable Wall Art & Coloring Pages,printable wall art,"supplement_keywords.csv (prefix_match, seed 'printable wall art')",US,56.0,74.2,100.0,-44.0,gap-fill harvest 2026-09-22
+rendered/pin-016-coloring-pages-printables.png,Printable Wall Art & Coloring Pages,coloring pages for kids,"suggestions_detailed.csv (prefix_match, seed 'coloring pages')",GB,100,43.1,100,76,
+rendered/pin-017-christmas-living-room.png,Christmas Home Decor & Festive Ideas,christmas living room ideas,"supplement_keywords.csv (related_terms, seed 'christmas home decor')",US,17.0,9.0,60.0,15.0,gap-fill harvest 2026-09-22
+rendered/pin-018-christmas-table.png,Christmas Home Decor & Festive Ideas,christmas table decor,"supplement_keywords.csv (prefix_match, seed 'christmas home decor')",GB,11.0,16.2,100.0,-1.0,gap-fill harvest 2026-09-22
+rendered/pin-019-christmas-tree-print.png,Christmas Home Decor & Festive Ideas,christmas home decor ideas,"supplement_keywords.csv (prefix_match, seed 'christmas home decor')",US,11.0,14.5,100.0,2.0,gap-fill harvest 2026-09-22
+rendered/pin-020-gift-quote-small-joys.png,Gift Ideas & Small Joys,small gift ideas,"suggestions_detailed.csv (related_terms, seed 'gift ideas')",US,78,18.7,78,70,

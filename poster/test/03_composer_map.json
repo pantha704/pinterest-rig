@@ -1,0 +1,535 @@
+{
+  "url": "https://in.pinterest.com/pin-creation-tool/",
+  "buttons": [
+    {
+      "tag": "BUTTON",
+      "testid": null,
+      "aria": "Voice search",
+      "txt": "",
+      "disabled": false,
+      "type": "button"
+    },
+    {
+      "tag": "BUTTON",
+      "testid": "header-accounts-options-button",
+      "aria": "Accounts",
+      "txt": "",
+      "disabled": false,
+      "type": "button"
+    },
+    {
+      "tag": "BUTTON",
+      "testid": "create-tab",
+      "aria": "Create",
+      "txt": "",
+      "disabled": false,
+      "type": "button"
+    },
+    {
+      "tag": "BUTTON",
+      "testid": null,
+      "aria": "Updates: 7 notifications",
+      "txt": "",
+      "disabled": false,
+      "type": "button"
+    },
+    {
+      "tag": "BUTTON",
+      "testid": "notifications-button",
+      "aria": "Messages",
+      "txt": "",
+      "disabled": false,
+      "type": "button"
+    },
+    {
+      "tag": "BUTTON",
+      "testid": "vertical-nav-settings-button",
+      "aria": "Settings & Support",
+      "txt": "",
+      "disabled": false,
+      "type": "button"
+    },
+    {
+      "tag": "BUTTON",
+      "testid": "collapse-drafts-sidebar-button",
+      "aria": "Close drafts sidebar",
+      "txt": "",
+      "disabled": false,
+      "type": "button"
+    },
+    {
+      "tag": "BUTTON",
+      "testid": null,
+      "aria": null,
+      "txt": "Create new",
+      "disabled": true,
+      "type": "button"
+    },
+    {
+      "tag": "DIV",
+      "testid": null,
+      "aria": null,
+      "txt": "Description Describe your Pin",
+      "disabled": false,
+      "type": null
+    },
+    {
+      "tag": "DIV",
+      "testid": "board-dropdown-select-button",
+      "aria": null,
+      "txt": "Board Birthday cakes for babies",
+      "disabled": false,
+      "type": null
+    },
+    {
+      "tag": "BUTTON",
+      "testid": "add-product-tags-button",
+      "aria": null,
+      "txt": "Add products",
+      "disabled": true,
+      "type": "button"
+    },
+    {
+      "tag": "DIV",
+      "testid": "storyboard-show-more-options-button",
+      "aria": null,
+      "txt": "More options",
+      "disabled": false,
+      "type": null
+    }
+  ],
+  "publishLike": [
+    {
+      "tag": "BUTTON",
+      "testid": "create-tab",
+      "aria": "Create",
+      "txt": "",
+      "disabled": false,
+      "type": "button"
+    },
+    {
+      "tag": "BUTTON",
+      "testid": "collapse-drafts-sidebar-button",
+      "aria": "Close drafts sidebar",
+      "txt": "",
+      "disabled": false,
+      "type": "button"
+    },
+    {
+      "tag": "BUTTON",
+      "testid": null,
+      "aria": null,
+      "txt": "Create new",
+      "disabled": true,
+      "type": "button"
+    }
+  ],
+  "descTree": {
+    "tag": "div",
+    "testid": "storyboard-description-field-container",
+    "id": null,
+    "role": null,
+    "aria": null,
+    "ce": false,
+    "dd": null,
+    "txt": "Description Describe your Pin",
+    "cls": "ADXRXN k5oQr4",
+    "children": [
+      {
+        "tag": "div",
+        "testid": null,
+        "id": null,
+        "role": null,
+        "aria": null,
+        "ce": false,
+        "dd": null,
+        "txt": "Description Describe your Pin",
+        "cls": "H2DtUH c1Gamg z6WAHi _tKaHB wl0pCr",
+        "children": [
+          {
+            "tag": "div",
+            "testid": null,
+            "id": null,
+            "role": null,
+            "aria": null,
+            "ce": false,
+            "dd": null,
+            "txt": "Description Describe your Pin",
+            "cls": "oRZ5_s",
+            "children": [
+              {
+                "tag": "div",
+                "testid": null,
+                "id": null,
+                "role": "button",
+                "aria": null,
+                "ce": false,
+                "dd": null,
+                "txt": "Description Describe your Pin",
+                "cls": "Q3hcOU DodKMr BM2pT6 itw4K9 g0I6wi",
+                "children": [
+                  null
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "titleTree": {
+    "tag": "div",
+    "testid": "storyboard-title-field-container",
+    "id": null,
+    "role": null,
+    "aria": null,
+    "ce": false,
+    "dd": null,
+    "txt": "Title",
+    "cls": "ADXRXN",
+    "children": [
+      {
+        "tag": "div",
+        "testid": null,
+        "id": null,
+        "role": null,
+        "aria": null,
+        "ce": false,
+        "dd": null,
+        "txt": "Title",
+        "cls": "",
+        "children": [
+          {
+            "tag": "div",
+            "testid": null,
+            "id": null,
+            "role": null,
+            "aria": null,
+            "ce": false,
+            "dd": null,
+            "txt": "Title",
+            "cls": "urH_ll B94P4O fjBvc0",
+            "children": [
+              null,
+              null
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "linkTree": {
+    "tag": "div",
+    "testid": "storyboard-selector-link",
+    "id": null,
+    "role": null,
+    "aria": null,
+    "ce": false,
+    "dd": null,
+    "txt": "Link",
+    "cls": "ADXRXN MJ_eMy _tKaHB k5oQr4 qJUqe1 zEVE_X",
+    "children": [
+      {
+        "tag": "div",
+        "testid": null,
+        "id": null,
+        "role": null,
+        "aria": null,
+        "ce": false,
+        "dd": null,
+        "txt": "Link",
+        "cls": "",
+        "children": [
+          {
+            "tag": "div",
+            "testid": null,
+            "id": null,
+            "role": null,
+            "aria": null,
+            "ce": false,
+            "dd": null,
+            "txt": "Link",
+            "cls": "urH_ll B94P4O fjBvc0",
+            "children": [
+              null,
+              null
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "boardTree": {
+    "tag": "div",
+    "testid": "storyboard-selector-board",
+    "id": null,
+    "role": null,
+    "aria": null,
+    "ce": false,
+    "dd": null,
+    "txt": "Board Birthday cakes for babies",
+    "cls": "ADXRXN",
+    "children": [
+      {
+        "tag": "div",
+        "testid": null,
+        "id": null,
+        "role": null,
+        "aria": null,
+        "ce": false,
+        "dd": null,
+        "txt": "Board Birthday cakes for babies",
+        "cls": "ADXRXN c49R7p g0I6wi gEQpi5 zEVE_X",
+        "children": [
+          {
+            "tag": "div",
+            "testid": null,
+            "id": null,
+            "role": null,
+            "aria": null,
+            "ce": false,
+            "dd": null,
+            "txt": "Board Birthday cakes for babies",
+            "cls": "ADXRXN wl0pCr",
+            "children": [
+              {
+                "tag": "div",
+                "testid": "board-dropdown-select-button",
+                "id": null,
+                "role": "button",
+                "aria": null,
+                "ce": false,
+                "dd": null,
+                "txt": "Board Birthday cakes for babies",
+                "cls": "Q3hcOU gcIrSY itw4K9 g0I6wi",
+                "children": [
+                  null
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "uploadTree": {
+    "tag": "div",
+    "testid": "storyboard-draft-upload-container",
+    "id": null,
+    "role": null,
+    "aria": null,
+    "ce": false,
+    "dd": null,
+    "txt": "Upload your media Select multiple files in your file picker ",
+    "cls": "ADXRXN LbyOQL Nt6yCq _tKaHB gHrR3r kF2VEF sSBu24 zEVE_X",
+    "children": [
+      {
+        "tag": "div",
+        "testid": "drag-behavior-container",
+        "id": null,
+        "role": null,
+        "aria": null,
+        "ce": false,
+        "dd": null,
+        "txt": "Upload your media Select multiple files in your file picker ",
+        "cls": "ADXRXN dHA5K0",
+        "children": [
+          {
+            "tag": "div",
+            "testid": null,
+            "id": null,
+            "role": null,
+            "aria": null,
+            "ce": false,
+            "dd": null,
+            "txt": "Upload your media Select multiple files in your file picker ",
+            "cls": "ADXRXN XexRYe gEQpi5",
+            "children": [
+              null,
+              null,
+              null
+            ]
+          }
+        ]
+      },
+      {
+        "tag": "div",
+        "testid": "save-from-url-container",
+        "id": null,
+        "role": null,
+        "aria": null,
+        "ce": false,
+        "dd": null,
+        "txt": "Save from URL",
+        "cls": "ADXRXN LXCPkA",
+        "children": [
+          {
+            "tag": "hr",
+            "testid": null,
+            "id": null,
+            "role": null,
+            "aria": null,
+            "ce": false,
+            "dd": null,
+            "txt": null,
+            "cls": "V619SU FlxG2v",
+            "children": []
+          },
+          {
+            "tag": "div",
+            "testid": null,
+            "id": null,
+            "role": null,
+            "aria": null,
+            "ce": false,
+            "dd": null,
+            "txt": "Save from URL",
+            "cls": "ADXRXN LXCPkA",
+            "children": [
+              null
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "dragTree": {
+    "tag": "div",
+    "testid": "drag-behavior-container",
+    "id": null,
+    "role": null,
+    "aria": null,
+    "ce": false,
+    "dd": null,
+    "txt": "Upload your media Select multiple files in your file picker ",
+    "cls": "ADXRXN dHA5K0",
+    "children": [
+      {
+        "tag": "div",
+        "testid": null,
+        "id": null,
+        "role": null,
+        "aria": null,
+        "ce": false,
+        "dd": null,
+        "txt": "Upload your media Select multiple files in your file picker ",
+        "cls": "ADXRXN XexRYe gEQpi5",
+        "children": [
+          {
+            "tag": "div",
+            "testid": null,
+            "id": null,
+            "role": null,
+            "aria": null,
+            "ce": false,
+            "dd": null,
+            "txt": "Upload your media Select multiple files in your file picker ",
+            "cls": "H2DtUH KwViV7 FE_3R1 Tjcf3c kF2VEF sSBu24",
+            "children": [
+              null
+            ]
+          },
+          {
+            "tag": "input",
+            "testid": "storyboard-upload-input",
+            "id": "storyboard-upload-input",
+            "role": null,
+            "aria": "File Upload",
+            "ce": false,
+            "dd": null,
+            "txt": null,
+            "cls": "",
+            "children": []
+          },
+          {
+            "tag": "div",
+            "testid": null,
+            "id": "upload-button-explanation",
+            "role": null,
+            "aria": null,
+            "ce": false,
+            "dd": null,
+            "txt": "JPG, PNG up to 20MB \u00b7 MP4 up to 200MB Select multiple files ",
+            "cls": "ADXRXN YQuWhf",
+            "children": [
+              null
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "fileInputAncestry": [
+    {
+      "tag": "input",
+      "testid": "storyboard-upload-input",
+      "id": "storyboard-upload-input",
+      "role": null,
+      "aria": "File Upload",
+      "ce": false,
+      "dd": null,
+      "txt": null,
+      "cls": ""
+    },
+    {
+      "tag": "div",
+      "testid": null,
+      "id": null,
+      "role": null,
+      "aria": null,
+      "ce": false,
+      "dd": null,
+      "txt": "Upload your media Select multiple files in your file picker ",
+      "cls": "ADXRXN XexRYe gEQpi5"
+    },
+    {
+      "tag": "div",
+      "testid": "drag-behavior-container",
+      "id": null,
+      "role": null,
+      "aria": null,
+      "ce": false,
+      "dd": null,
+      "txt": "Upload your media Select multiple files in your file picker ",
+      "cls": "ADXRXN dHA5K0"
+    },
+    {
+      "tag": "div",
+      "testid": "storyboard-draft-upload-container",
+      "id": null,
+      "role": null,
+      "aria": null,
+      "ce": false,
+      "dd": null,
+      "txt": "Upload your media Select multiple files in your file picker ",
+      "cls": "ADXRXN LbyOQL Nt6yCq _tKaHB gHrR3r kF2VEF sSBu24 zEVE_X"
+    },
+    {
+      "tag": "div",
+      "testid": null,
+      "id": null,
+      "role": null,
+      "aria": null,
+      "ce": false,
+      "dd": null,
+      "txt": "Upload your media Select multiple files in your file picker ",
+      "cls": "ADXRXN C6J6UC LbyOQL _xSIdT sSBu24 zEVE_X"
+    },
+    {
+      "tag": "div",
+      "testid": null,
+      "id": null,
+      "role": null,
+      "aria": null,
+      "ce": false,
+      "dd": null,
+      "txt": "Upload your media Select multiple files in your file picker ",
+      "cls": "oRZ5_s"
+    }
+  ],
+  "fileInputOuter": "<input accept=\"image/bmp,image/gif,image/jpeg,image/png,image/tiff,image/webp,video/mp4,video/x-m4v,video/quicktime\" aria-describedby=\"upload-button-explanation\" aria-label=\"File Upload\" data-test-id=\"storyboard-upload-input\" id=\"storyboard-upload-input\" multiple=\"\" required=\"\" tabindex=\"0\" type=\"file\" style=\"cursor: pointer; height: 100%; opacity: 0; position: absolute; width: 100%; left: 0px; top: 0px; font-size: 0px;\">",
+  "draftSavingStatus": "<div data-test-id=\"saving-status-created\" class=\"ADXRXN B3GZzn TyRBan bnBtRO mJ2PyB sSBu24 zEVE_X\" style=\"height: 100%;\"></div>",
+  "draftsText": null,
+  "titleInputValue": "",
+  "linkInputValue": ""
+}

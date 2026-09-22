@@ -1,0 +1,270 @@
+{
+  "url": "https://in.pinterest.com/pin-creation-tool/",
+  "bodyText": "Skip to content\nP\nPin drafts\nCreate new\nCreate Pin\nUpload your media\nSelect multiple files in your file picker with Shift or Cmd/Ctrl\nJPG, PNG up to 20MB \u00b7 MP4 up to 200MB\nSave from URL\nTitle\nDescription\nDescribe your Pin\n\n\nLink\nBoard\nBirthday cakes for babies\nTagged topics (0)\nTag Products\nAdd products\nMark as AI-Modified\nContent that was made completely or partly with AI\nThis Pin includes an AI-generated person\nMore options",
+  "htmlLen": 673613,
+  "rootChildren": [
+    "SCRIPT#.",
+    "SCRIPT#.",
+    "SCRIPT#.",
+    "DIV#__PWS_ROOT__.",
+    "SCRIPT#__PWS_INITIAL_PROPS__.",
+    "TEMPLATE#__PWS_INITIAL_PROPS_COMPLETE__.",
+    "SCRIPT#__PWS_DATA__.",
+    "TEMPLATE#__PWS_DATA_COMPLETE__.",
+    "SCRIPT#__PWS_ROUTES__.",
+    "TEMPLATE#__PWS_ROUTES_COMPLETE__.",
+    "SCRIPT#_R_.",
+    "SCRIPT#.",
+    "SCRIPT#.",
+    "SCRIPT#.",
+    "SCRIPT#.",
+    "SCRIPT#.",
+    "SCRIPT#.",
+    "SCRIPT#.",
+    "SCRIPT#.",
+    "SCRIPT#."
+  ],
+  "elementCount": 373,
+  "testids": [
+    "hiddenSkipToContentContainer",
+    "header",
+    "header-Header",
+    "header-background",
+    "nags-container",
+    "button-container",
+    "search-box-container",
+    "search-box-input",
+    "header-profile",
+    "gestalt-avatar-svg",
+    "header-accounts-options-button",
+    "pinterest-logo-home-button",
+    "vertical-nav-icon",
+    "home-tab",
+    "today-tab",
+    "boards-tab",
+    "create-tab",
+    "bell-icon",
+    "vertical-nav-icon-badge",
+    "notifications-button",
+    "vertical-nav-settings-button",
+    "floating-footer",
+    "storyboard-drafts-sidebar",
+    "storyboard-drafts-sidebar-header-title",
+    "collapse-drafts-sidebar-button",
+    "storyboard-create-button",
+    "drafts-container",
+    "header-content-container",
+    "storyboard-create-header-heading",
+    "saving-status-created",
+    "storyboard-draft-upload-container",
+    "drag-behavior-container",
+    "storyboard-upload-input",
+    "save-from-url-container",
+    "storyboard-title-field-container",
+    "storyboard-description-field-container",
+    "editor-with-mentions",
+    "comment-editor-container",
+    "storyboard-selector-link",
+    "storyboard-selector-board",
+    "board-dropdown-select-button",
+    "board-dropdown-item-selected",
+    "add-product-tags-button",
+    "ai-disclosure-switch",
+    "storyboard-show-more-options-button",
+    "footer",
+    "resource-pending-fetch-script",
+    "resource-response-data",
+    "resource-response-script",
+    "toast-layer"
+  ],
+  "roles": [
+    "banner",
+    "presentation",
+    "img",
+    "combobox",
+    "status",
+    "complementary",
+    "main",
+    "list",
+    "button",
+    "contentinfo"
+  ],
+  "contentEditables": [],
+  "fileInputs": [
+    {
+      "testid": "storyboard-upload-input",
+      "accept": "image/bmp,image/gif,image/jpeg,image/png,image/tiff,image/webp,video/mp4,video/x-m4v,video/quicktime",
+      "name": "",
+      "id": "storyboard-upload-input",
+      "w": 375,
+      "hidden": false
+    }
+  ],
+  "inputs": [
+    {
+      "tag": "INPUT",
+      "type": "text",
+      "testid": "search-box-input",
+      "ph": "Search",
+      "aria": "Search",
+      "id": "search-input",
+      "w": 1632
+    },
+    {
+      "tag": "INPUT",
+      "type": "file",
+      "testid": "storyboard-upload-input",
+      "ph": "",
+      "aria": "File Upload",
+      "id": "storyboard-upload-input",
+      "w": 375
+    },
+    {
+      "tag": "INPUT",
+      "type": "text",
+      "testid": null,
+      "ph": "Tell everyone what your Pin is about",
+      "aria": null,
+      "id": "storyboard-selector-title",
+      "w": 576
+    },
+    {
+      "tag": "INPUT",
+      "type": "url",
+      "testid": null,
+      "ph": "Add a link",
+      "aria": null,
+      "id": "WebsiteField",
+      "w": 576
+    },
+    {
+      "tag": "INPUT",
+      "type": "text",
+      "testid": null,
+      "ph": "Search for a tag",
+      "aria": null,
+      "id": "combobox-storyboard-interest-tags",
+      "w": 576
+    },
+    {
+      "tag": "INPUT",
+      "type": "checkbox",
+      "testid": null,
+      "ph": "",
+      "aria": null,
+      "id": "pin-draft-ai-disclosure-d1b43c4d-7fda-421a-832f-05b8f386b15d",
+      "w": 40
+    },
+    {
+      "tag": "INPUT",
+      "type": "checkbox",
+      "testid": null,
+      "ph": "",
+      "aria": null,
+      "id": "pin-draft-ai-disclosure-d1b43c4d-7fda-421a-832f-05b8f386b15d-synthetic-performer",
+      "w": 16
+    },
+    {
+      "tag": "TEXTAREA",
+      "type": "textarea",
+      "testid": null,
+      "ph": "",
+      "aria": null,
+      "id": "g-recaptcha-response-100000",
+      "w": 0
+    }
+  ],
+  "buttons": [
+    {
+      "tag": "BUTTON",
+      "testid": null,
+      "txt": "",
+      "aria": "Voice search",
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "testid": "header-accounts-options-button",
+      "txt": "",
+      "aria": "Accounts",
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "testid": "create-tab",
+      "txt": "",
+      "aria": "Create",
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "testid": null,
+      "txt": "",
+      "aria": "Updates: 7 notifications",
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "testid": "notifications-button",
+      "txt": "",
+      "aria": "Messages",
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "testid": "vertical-nav-settings-button",
+      "txt": "",
+      "aria": "Settings & Support",
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "testid": "collapse-drafts-sidebar-button",
+      "txt": "",
+      "aria": "Close drafts sidebar",
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "testid": null,
+      "txt": "Create new",
+      "aria": null,
+      "disabled": true
+    },
+    {
+      "tag": "DIV",
+      "testid": null,
+      "txt": "Description\nDescribe your Pin",
+      "aria": null,
+      "disabled": false
+    },
+    {
+      "tag": "DIV",
+      "testid": null,
+      "txt": "",
+      "aria": null,
+      "disabled": false
+    },
+    {
+      "tag": "DIV",
+      "testid": "board-dropdown-select-button",
+      "txt": "Board\nBirthday cakes for babies",
+      "aria": null,
+      "disabled": false
+    },
+    {
+      "tag": "BUTTON",
+      "testid": "add-product-tags-button",
+      "txt": "Add products",
+      "aria": null,
+      "disabled": true
+    },
+    {
+      "tag": "DIV",
+      "testid": "storyboard-show-more-options-button",
+      "txt": "More options",
+      "aria": null,
+      "disabled": false
+    }
+  ]
+}

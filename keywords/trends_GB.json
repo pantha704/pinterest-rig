@@ -1,0 +1,4037 @@
+{
+ "source": "https://trends.pinterest.com/top_trends_filtered/",
+ "country": "GB",
+ "country_param": "GB",
+ "end_date": "2026-09-22",
+ "harvested_at": "2026-09-22T05:33:13Z",
+ "presets": {
+  "top_monthly": {
+   "preset_value": 1,
+   "country_param": "GB",
+   "end_date": "2026-09-22",
+   "values": [
+    {
+     "mom_change": {
+      "index": 49,
+      "value": 7
+     },
+     "affinity": null,
+     "seasonality_score": 0.9956958,
+     "term": "autumn nails",
+     "yoy_change": {
+      "index": 7,
+      "value": -0.1
+     },
+     "normalizedCount": 100,
+     "wow_change": {
+      "index": 44,
+      "value": 0.06
+     },
+     "searchCount": 100,
+     "reverseRank": 50
+    },
+    {
+     "mom_change": {
+      "index": 4,
+      "value": -0.3
+     },
+     "affinity": null,
+     "seasonality_score": 0.94230175,
+     "term": "nails",
+     "yoy_change": {
+      "index": 9,
+      "value": -0.08
+     },
+     "normalizedCount": 82,
+     "wow_change": {
+      "index": 24,
+      "value": 0
+     },
+     "searchCount": 82,
+     "reverseRank": 49
+    },
+    {
+     "mom_change": {
+      "index": 44,
+      "value": 2
+     },
+     "affinity": null,
+     "seasonality_score": 0.98850137,
+     "term": "autumn outfits",
+     "yoy_change": {
+      "index": 5,
+      "value": -0.1
+     },
+     "normalizedCount": 78,
+     "wow_change": {
+      "index": 2,
+      "value": -0.2
+     },
+     "searchCount": 78,
+     "reverseRank": 48
+    },
+    {
+     "mom_change": {
+      "index": 32,
+      "value": 0.1
+     },
+     "affinity": null,
+     "seasonality_score": 0.6490176,
+     "term": "wallpaper",
+     "yoy_change": {
+      "index": 34,
+      "value": 0.6
+     },
+     "normalizedCount": 68,
+     "wow_change": {
+      "index": 46,
+      "value": 0.07
+     },
+     "searchCount": 68,
+     "reverseRank": 47
+    },
+    {
+     "mom_change": {
+      "index": 5,
+      "value": -0.3
+     },
+     "affinity": null,
+     "seasonality_score": 0.42627874,
+     "term": "nails inspo 2026",
+     "yoy_change": {
+      "index": 50,
+      "value": 100.01
+     },
+     "normalizedCount": 47,
+     "wow_change": {
+      "index": 13,
+      "value": -0.05
+     },
+     "searchCount": 47,
+     "reverseRank": 46
+    },
+    {
+     "mom_change": {
+      "index": 37,
+      "value": 0.3
+     },
+     "affinity": null,
+     "seasonality_score": 0.7779031,
+     "term": "hairstyles",
+     "yoy_change": {
+      "index": 17,
+      "value": 0.03
+     },
+     "normalizedCount": 45,
+     "wow_change": {
+      "index": 22,
+      "value": -0.01
+     },
+     "searchCount": 45,
+     "reverseRank": 45
+    },
+    {
+     "mom_change": {
+      "index": 16,
+      "value": -0.05
+     },
+     "affinity": null,
+     "seasonality_score": 0.5207333,
+     "term": "drawing ideas",
+     "yoy_change": {
+      "index": 26,
+      "value": 0.2
+     },
+     "normalizedCount": 38,
+     "wow_change": {
+      "index": 26,
+      "value": 0
+     },
+     "searchCount": 38,
+     "reverseRank": 44
+    },
+    {
+     "mom_change": {
+      "index": 24,
+      "value": 0
+     },
+     "affinity": null,
+     "seasonality_score": 0.6418408,
+     "term": "outfit ideas",
+     "yoy_change": {
+      "index": 13,
+      "value": 0
+     },
+     "normalizedCount": 38,
+     "wow_change": {
+      "index": 41,
+      "value": 0.05
+     },
+     "searchCount": 38,
+     "reverseRank": 43
+    },
+    {
+     "mom_change": {
+      "index": 39,
+      "value": 0.6
+     },
+     "affinity": null,
+     "seasonality_score": 0.97309613,
+     "term": "autumn",
+     "yoy_change": {
+      "index": 6,
+      "value": -0.1
+     },
+     "normalizedCount": 37,
+     "wow_change": {
+      "index": 10,
+      "value": -0.1
+     },
+     "searchCount": 37,
+     "reverseRank": 42
+    },
+    {
+     "mom_change": {
+      "index": 48,
+      "value": 6
+     },
+     "affinity": null,
+     "seasonality_score": 0.83634675,
+     "term": "september nails",
+     "yoy_change": {
+      "index": 43,
+      "value": 1
+     },
+     "normalizedCount": 36,
+     "wow_change": {
+      "index": 1,
+      "value": -0.3
+     },
+     "searchCount": 36,
+     "reverseRank": 41
+    },
+    {
+     "mom_change": {
+      "index": 14,
+      "value": -0.07
+     },
+     "affinity": null,
+     "seasonality_score": 0.45657605,
+     "term": "aesthetic",
+     "yoy_change": {
+      "index": 33,
+      "value": 0.6
+     },
+     "normalizedCount": 31,
+     "wow_change": {
+      "index": 27,
+      "value": 0
+     },
+     "searchCount": 31,
+     "reverseRank": 40
+    },
+    {
+     "mom_change": {
+      "index": 3,
+      "value": -0.4
+     },
+     "affinity": null,
+     "seasonality_score": 0.9107863,
+     "term": "nail inspo",
+     "yoy_change": {
+      "index": 27,
+      "value": 0.2
+     },
+     "normalizedCount": 27,
+     "wow_change": {
+      "index": 47,
+      "value": 0.07
+     },
+     "searchCount": 27,
+     "reverseRank": 39
+    },
+    {
+     "mom_change": {
+      "index": 22,
+      "value": 0
+     },
+     "affinity": null,
+     "seasonality_score": 0.68755007,
+     "term": "bedroom ideas",
+     "yoy_change": {
+      "index": 3,
+      "value": -0.2
+     },
+     "normalizedCount": 24,
+     "wow_change": {
+      "index": 43,
+      "value": 0.06
+     },
+     "searchCount": 24,
+     "reverseRank": 38
+    },
+    {
+     "mom_change": {
+      "index": 20,
+      "value": -0.01
+     },
+     "affinity": null,
+     "seasonality_score": 0.51211196,
+     "term": "flower",
+     "yoy_change": {
+      "index": 35,
+      "value": 0.6
+     },
+     "normalizedCount": 23,
+     "wow_change": {
+      "index": 19,
+      "value": -0.03
+     },
+     "searchCount": 23,
+     "reverseRank": 37
+    },
+    {
+     "mom_change": {
+      "index": 8,
+      "value": -0.2
+     },
+     "affinity": null,
+     "seasonality_score": 0.63875985,
+     "term": "french tip nails",
+     "yoy_change": {
+      "index": 44,
+      "value": 1
+     },
+     "normalizedCount": 23,
+     "wow_change": {
+      "index": 8,
+      "value": -0.1
+     },
+     "searchCount": 23,
+     "reverseRank": 36
+    },
+    {
+     "mom_change": {
+      "index": 26,
+      "value": 0.02
+     },
+     "affinity": null,
+     "seasonality_score": 0.66315955,
+     "term": "makeup",
+     "yoy_change": {
+      "index": 28,
+      "value": 0.3
+     },
+     "normalizedCount": 22,
+     "wow_change": {
+      "index": 36,
+      "value": 0.02
+     },
+     "searchCount": 22,
+     "reverseRank": 35
+    },
+    {
+     "mom_change": {
+      "index": 30,
+      "value": 0.1
+     },
+     "affinity": null,
+     "seasonality_score": 0.8632583,
+     "term": "flowers",
+     "yoy_change": {
+      "index": 14,
+      "value": 0
+     },
+     "normalizedCount": 22,
+     "wow_change": {
+      "index": 28,
+      "value": 0
+     },
+     "searchCount": 22,
+     "reverseRank": 34
+    },
+    {
+     "mom_change": {
+      "index": 38,
+      "value": 0.3
+     },
+     "affinity": null,
+     "seasonality_score": 0.43717125,
+     "term": "room decor",
+     "yoy_change": {
+      "index": 46,
+      "value": 3
+     },
+     "normalizedCount": 21,
+     "wow_change": {
+      "index": 29,
+      "value": 0.01
+     },
+     "searchCount": 21,
+     "reverseRank": 33
+    },
+    {
+     "mom_change": {
+      "index": 42,
+      "value": 0.9
+     },
+     "affinity": null,
+     "seasonality_score": 0.98586994,
+     "term": "winter outfits",
+     "yoy_change": {
+      "index": 1,
+      "value": -0.3
+     },
+     "normalizedCount": 21,
+     "wow_change": {
+      "index": 15,
+      "value": -0.05
+     },
+     "searchCount": 21,
+     "reverseRank": 32
+    },
+    {
+     "mom_change": {
+      "index": 13,
+      "value": -0.08
+     },
+     "affinity": null,
+     "seasonality_score": 0.5094723,
+     "term": "outfit",
+     "yoy_change": {
+      "index": 37,
+      "value": 0.8
+     },
+     "normalizedCount": 21,
+     "wow_change": {
+      "index": 35,
+      "value": 0.02
+     },
+     "searchCount": 21,
+     "reverseRank": 31
+    },
+    {
+     "mom_change": {
+      "index": 1,
+      "value": -0.4
+     },
+     "affinity": null,
+     "seasonality_score": 0.9327849,
+     "term": "holiday nails",
+     "yoy_change": {
+      "index": 19,
+      "value": 0.1
+     },
+     "normalizedCount": 20,
+     "wow_change": {
+      "index": 3,
+      "value": -0.2
+     },
+     "searchCount": 20,
+     "reverseRank": 30
+    },
+    {
+     "mom_change": {
+      "index": 11,
+      "value": -0.1
+     },
+     "affinity": null,
+     "seasonality_score": 0.7302525,
+     "term": "pottery painting ideas",
+     "yoy_change": {
+      "index": 38,
+      "value": 0.8
+     },
+     "normalizedCount": 18,
+     "wow_change": {
+      "index": 21,
+      "value": -0.03
+     },
+     "searchCount": 18,
+     "reverseRank": 29
+    },
+    {
+     "mom_change": {
+      "index": 21,
+      "value": -0.01
+     },
+     "affinity": null,
+     "seasonality_score": 0.6851487,
+     "term": "hair",
+     "yoy_change": {
+      "index": 24,
+      "value": 0.2
+     },
+     "normalizedCount": 18,
+     "wow_change": {
+      "index": 25,
+      "value": 0
+     },
+     "searchCount": 18,
+     "reverseRank": 28
+    },
+    {
+     "mom_change": {
+      "index": 43,
+      "value": 2
+     },
+     "affinity": null,
+     "seasonality_score": 0.9876528,
+     "term": "fall outfits",
+     "yoy_change": {
+      "index": 11,
+      "value": -0.03
+     },
+     "normalizedCount": 18,
+     "wow_change": {
+      "index": 12,
+      "value": -0.07
+     },
+     "searchCount": 18,
+     "reverseRank": 27
+    },
+    {
+     "mom_change": {
+      "index": 25,
+      "value": 0.02
+     },
+     "affinity": null,
+     "seasonality_score": 0.47404364,
+     "term": "pose reference",
+     "yoy_change": {
+      "index": 36,
+      "value": 0.7
+     },
+     "normalizedCount": 17,
+     "wow_change": {
+      "index": 34,
+      "value": 0.02
+     },
+     "searchCount": 17,
+     "reverseRank": 26
+    },
+    {
+     "mom_change": {
+      "index": 28,
+      "value": 0.06
+     },
+     "affinity": null,
+     "seasonality_score": 0.60622245,
+     "term": "art",
+     "yoy_change": {
+      "index": 15,
+      "value": 0.03
+     },
+     "normalizedCount": 17,
+     "wow_change": {
+      "index": 18,
+      "value": -0.04
+     },
+     "searchCount": 17,
+     "reverseRank": 25
+    },
+    {
+     "mom_change": {
+      "index": 50,
+      "value": 20
+     },
+     "affinity": null,
+     "seasonality_score": 0.31516746,
+     "term": "autumn nails 2026",
+     "yoy_change": {
+      "index": 49,
+      "value": 100.01
+     },
+     "normalizedCount": 17,
+     "wow_change": {
+      "index": 31,
+      "value": 0.01
+     },
+     "searchCount": 17,
+     "reverseRank": 24
+    },
+    {
+     "mom_change": {
+      "index": 33,
+      "value": 0.2
+     },
+     "affinity": null,
+     "seasonality_score": 0.23571332,
+     "term": "pose",
+     "yoy_change": {
+      "index": 45,
+      "value": 3
+     },
+     "normalizedCount": 17,
+     "wow_change": {
+      "index": 49,
+      "value": 0.3
+     },
+     "searchCount": 17,
+     "reverseRank": 23
+    },
+    {
+     "mom_change": {
+      "index": 47,
+      "value": 5
+     },
+     "affinity": null,
+     "seasonality_score": 0.98802036,
+     "term": "fall nails",
+     "yoy_change": {
+      "index": 23,
+      "value": 0.2
+     },
+     "normalizedCount": 17,
+     "wow_change": {
+      "index": 42,
+      "value": 0.05
+     },
+     "searchCount": 17,
+     "reverseRank": 22
+    },
+    {
+     "mom_change": {
+      "index": 31,
+      "value": 0.1
+     },
+     "affinity": null,
+     "seasonality_score": 0.504212,
+     "term": "doodles",
+     "yoy_change": {
+      "index": 39,
+      "value": 0.9
+     },
+     "normalizedCount": 16,
+     "wow_change": {
+      "index": 17,
+      "value": -0.04
+     },
+     "searchCount": 16,
+     "reverseRank": 21
+    },
+    {
+     "mom_change": {
+      "index": 41,
+      "value": 0.9
+     },
+     "affinity": null,
+     "seasonality_score": 0.97060275,
+     "term": "autumn aesthetic",
+     "yoy_change": {
+      "index": 4,
+      "value": -0.2
+     },
+     "normalizedCount": 16,
+     "wow_change": {
+      "index": 7,
+      "value": -0.1
+     },
+     "searchCount": 16,
+     "reverseRank": 20
+    },
+    {
+     "mom_change": {
+      "index": 2,
+      "value": -0.4
+     },
+     "affinity": null,
+     "seasonality_score": 0.6162491,
+     "term": "spiderman",
+     "yoy_change": {
+      "index": 42,
+      "value": 1
+     },
+     "normalizedCount": 16,
+     "wow_change": {
+      "index": 5,
+      "value": -0.1
+     },
+     "searchCount": 16,
+     "reverseRank": 19
+    },
+    {
+     "mom_change": {
+      "index": 18,
+      "value": -0.02
+     },
+     "affinity": null,
+     "seasonality_score": 0.73245966,
+     "term": "drawings",
+     "yoy_change": {
+      "index": 18,
+      "value": 0.08
+     },
+     "normalizedCount": 16,
+     "wow_change": {
+      "index": 40,
+      "value": 0.05
+     },
+     "searchCount": 16,
+     "reverseRank": 18
+    },
+    {
+     "mom_change": {
+      "index": 34,
+      "value": 0.2
+     },
+     "affinity": null,
+     "seasonality_score": 0.7457925,
+     "term": "posters",
+     "yoy_change": {
+      "index": 30,
+      "value": 0.4
+     },
+     "normalizedCount": 16,
+     "wow_change": {
+      "index": 48,
+      "value": 0.09
+     },
+     "searchCount": 16,
+     "reverseRank": 17
+    },
+    {
+     "mom_change": {
+      "index": 46,
+      "value": 3
+     },
+     "affinity": null,
+     "seasonality_score": 0.99625564,
+     "term": "halloween nails",
+     "yoy_change": {
+      "index": 2,
+      "value": -0.3
+     },
+     "normalizedCount": 15,
+     "wow_change": {
+      "index": 50,
+      "value": 0.4
+     },
+     "searchCount": 15,
+     "reverseRank": 16
+    },
+    {
+     "mom_change": {
+      "index": 19,
+      "value": -0.02
+     },
+     "affinity": null,
+     "seasonality_score": 0.78368354,
+     "term": "funny",
+     "yoy_change": {
+      "index": 31,
+      "value": 0.4
+     },
+     "normalizedCount": 15,
+     "wow_change": {
+      "index": 45,
+      "value": 0.07
+     },
+     "searchCount": 15,
+     "reverseRank": 15
+    },
+    {
+     "mom_change": {
+      "index": 23,
+      "value": 0
+     },
+     "affinity": null,
+     "seasonality_score": 0.7462489,
+     "term": "bedroom",
+     "yoy_change": {
+      "index": 16,
+      "value": 0.03
+     },
+     "normalizedCount": 15,
+     "wow_change": {
+      "index": 33,
+      "value": 0.02
+     },
+     "searchCount": 15,
+     "reverseRank": 14
+    },
+    {
+     "mom_change": {
+      "index": 36,
+      "value": 0.3
+     },
+     "affinity": null,
+     "seasonality_score": 0.58483815,
+     "term": "hair styles",
+     "yoy_change": {
+      "index": 10,
+      "value": -0.03
+     },
+     "normalizedCount": 14,
+     "wow_change": {
+      "index": 14,
+      "value": -0.05
+     },
+     "searchCount": 14,
+     "reverseRank": 13
+    },
+    {
+     "mom_change": {
+      "index": 45,
+      "value": 2
+     },
+     "affinity": null,
+     "seasonality_score": 0.32154506,
+     "term": "autumn outfits 2026",
+     "yoy_change": {
+      "index": 48,
+      "value": 100.01
+     },
+     "normalizedCount": 14,
+     "wow_change": {
+      "index": 4,
+      "value": -0.2
+     },
+     "searchCount": 14,
+     "reverseRank": 12
+    },
+    {
+     "mom_change": {
+      "index": 17,
+      "value": -0.03
+     },
+     "affinity": null,
+     "seasonality_score": 0.77861696,
+     "term": "white",
+     "yoy_change": {
+      "index": 29,
+      "value": 0.3
+     },
+     "normalizedCount": 14,
+     "wow_change": {
+      "index": 30,
+      "value": 0.01
+     },
+     "searchCount": 14,
+     "reverseRank": 11
+    },
+    {
+     "mom_change": {
+      "index": 12,
+      "value": -0.08
+     },
+     "affinity": null,
+     "seasonality_score": 0.543209,
+     "term": "katseye",
+     "yoy_change": {
+      "index": 22,
+      "value": 0.1
+     },
+     "normalizedCount": 14,
+     "wow_change": {
+      "index": 6,
+      "value": -0.1
+     },
+     "searchCount": 14,
+     "reverseRank": 10
+    },
+    {
+     "mom_change": {
+      "index": 15,
+      "value": -0.05
+     },
+     "affinity": null,
+     "seasonality_score": 0.51176876,
+     "term": "outfit inspo",
+     "yoy_change": {
+      "index": 32,
+      "value": 0.4
+     },
+     "normalizedCount": 14,
+     "wow_change": {
+      "index": 38,
+      "value": 0.03
+     },
+     "searchCount": 14,
+     "reverseRank": 9
+    },
+    {
+     "mom_change": {
+      "index": 29,
+      "value": 0.07
+     },
+     "affinity": null,
+     "seasonality_score": 0.8765711,
+     "term": "pink wallpaper",
+     "yoy_change": {
+      "index": 20,
+      "value": 0.1
+     },
+     "normalizedCount": 14,
+     "wow_change": {
+      "index": 39,
+      "value": 0.04
+     },
+     "searchCount": 14,
+     "reverseRank": 8
+    },
+    {
+     "mom_change": {
+      "index": 27,
+      "value": 0.04
+     },
+     "affinity": null,
+     "seasonality_score": 0.6641204,
+     "term": "wedding dress",
+     "yoy_change": {
+      "index": 40,
+      "value": 1
+     },
+     "normalizedCount": 14,
+     "wow_change": {
+      "index": 20,
+      "value": -0.03
+     },
+     "searchCount": 14,
+     "reverseRank": 7
+    },
+    {
+     "mom_change": {
+      "index": 6,
+      "value": -0.3
+     },
+     "affinity": null,
+     "seasonality_score": 0.5148504,
+     "term": "nail art",
+     "yoy_change": {
+      "index": 41,
+      "value": 1
+     },
+     "normalizedCount": 14,
+     "wow_change": {
+      "index": 9,
+      "value": -0.1
+     },
+     "searchCount": 14,
+     "reverseRank": 6
+    },
+    {
+     "mom_change": {
+      "index": 10,
+      "value": -0.1
+     },
+     "affinity": null,
+     "seasonality_score": 0.72450197,
+     "term": "things to draw",
+     "yoy_change": {
+      "index": 25,
+      "value": 0.2
+     },
+     "normalizedCount": 13,
+     "wow_change": {
+      "index": 37,
+      "value": 0.02
+     },
+     "searchCount": 13,
+     "reverseRank": 5
+    },
+    {
+     "mom_change": {
+      "index": 35,
+      "value": 0.2
+     },
+     "affinity": null,
+     "seasonality_score": 0.36172175,
+     "term": "doodle",
+     "yoy_change": {
+      "index": 47,
+      "value": 5
+     },
+     "normalizedCount": 13,
+     "wow_change": {
+      "index": 16,
+      "value": -0.04
+     },
+     "searchCount": 13,
+     "reverseRank": 4
+    },
+    {
+     "mom_change": {
+      "index": 7,
+      "value": -0.3
+     },
+     "affinity": null,
+     "seasonality_score": 0.41560364,
+     "term": "nail ideas",
+     "yoy_change": {
+      "index": 8,
+      "value": -0.1
+     },
+     "normalizedCount": 13,
+     "wow_change": {
+      "index": 11,
+      "value": -0.09
+     },
+     "searchCount": 13,
+     "reverseRank": 3
+    },
+    {
+     "mom_change": {
+      "index": 9,
+      "value": -0.1
+     },
+     "affinity": null,
+     "seasonality_score": 0.53604364,
+     "term": "ariana grande",
+     "yoy_change": {
+      "index": 12,
+      "value": 0
+     },
+     "normalizedCount": 13,
+     "wow_change": {
+      "index": 23,
+      "value": -0.01
+     },
+     "searchCount": 13,
+     "reverseRank": 2
+    },
+    {
+     "mom_change": {
+      "index": 40,
+      "value": 0.8
+     },
+     "affinity": null,
+     "seasonality_score": 0.9693564,
+     "term": "fonts",
+     "yoy_change": {
+      "index": 21,
+      "value": 0.1
+     },
+     "normalizedCount": 13,
+     "wow_change": {
+      "index": 32,
+      "value": 0.02
+     },
+     "searchCount": 13,
+     "reverseRank": 1
+    }
+   ]
+  },
+  "top_yearly": {
+   "preset_value": 2,
+   "country_param": "GB",
+   "end_date": "2026-09-22",
+   "values": [
+    {
+     "seasonality_score": 0.94230175,
+     "yoy_change": {
+      "index": 12,
+      "value": -0.03
+     },
+     "wow_change": {
+      "index": 23,
+      "value": 0
+     },
+     "mom_change": {
+      "index": 5,
+      "value": -0.3
+     },
+     "normalizedCount": 100,
+     "affinity": null,
+     "term": "nails",
+     "searchCount": 100,
+     "reverseRank": 50
+    },
+    {
+     "seasonality_score": 0.6490176,
+     "yoy_change": {
+      "index": 36,
+      "value": 0.4
+     },
+     "wow_change": {
+      "index": 45,
+      "value": 0.07
+     },
+     "mom_change": {
+      "index": 39,
+      "value": 0.1
+     },
+     "normalizedCount": 58,
+     "affinity": null,
+     "term": "wallpaper",
+     "searchCount": 58,
+     "reverseRank": 49
+    },
+    {
+     "seasonality_score": 0.7779031,
+     "yoy_change": {
+      "index": 15,
+      "value": -0.02
+     },
+     "wow_change": {
+      "index": 22,
+      "value": -0.01
+     },
+     "mom_change": {
+      "index": 43,
+      "value": 0.3
+     },
+     "normalizedCount": 46,
+     "affinity": null,
+     "term": "hairstyles",
+     "searchCount": 46,
+     "reverseRank": 48
+    },
+    {
+     "seasonality_score": 0.9981434,
+     "yoy_change": {
+      "index": 13,
+      "value": -0.03
+     },
+     "wow_change": {
+      "index": 49,
+      "value": 0.2
+     },
+     "mom_change": {
+      "index": 47,
+      "value": 1
+     },
+     "normalizedCount": 41,
+     "affinity": null,
+     "term": "christmas nails",
+     "searchCount": 41,
+     "reverseRank": 47
+    },
+    {
+     "seasonality_score": 0.6418408,
+     "yoy_change": {
+      "index": 17,
+      "value": -0.01
+     },
+     "wow_change": {
+      "index": 41,
+      "value": 0.05
+     },
+     "mom_change": {
+      "index": 29,
+      "value": 0
+     },
+     "normalizedCount": 37,
+     "affinity": null,
+     "term": "outfit ideas",
+     "searchCount": 37,
+     "reverseRank": 46
+    },
+    {
+     "seasonality_score": 0.5207333,
+     "yoy_change": {
+      "index": 28,
+      "value": 0.2
+     },
+     "wow_change": {
+      "index": 26,
+      "value": 0
+     },
+     "mom_change": {
+      "index": 20,
+      "value": -0.05
+     },
+     "normalizedCount": 34,
+     "affinity": null,
+     "term": "drawing ideas",
+     "searchCount": 34,
+     "reverseRank": 45
+    },
+    {
+     "seasonality_score": 0.9107863,
+     "yoy_change": {
+      "index": 32,
+      "value": 0.3
+     },
+     "wow_change": {
+      "index": 46,
+      "value": 0.07
+     },
+     "mom_change": {
+      "index": 3,
+      "value": -0.4
+     },
+     "normalizedCount": 33,
+     "affinity": null,
+     "term": "nail inspo",
+     "searchCount": 33,
+     "reverseRank": 44
+    },
+    {
+     "seasonality_score": 0.45657605,
+     "yoy_change": {
+      "index": 31,
+      "value": 0.3
+     },
+     "wow_change": {
+      "index": 27,
+      "value": 0
+     },
+     "mom_change": {
+      "index": 17,
+      "value": -0.07
+     },
+     "normalizedCount": 30,
+     "affinity": null,
+     "term": "aesthetic",
+     "searchCount": 30,
+     "reverseRank": 43
+    },
+    {
+     "seasonality_score": 0.9956958,
+     "yoy_change": {
+      "index": 7,
+      "value": -0.08
+     },
+     "wow_change": {
+      "index": 43,
+      "value": 0.06
+     },
+     "mom_change": {
+      "index": 50,
+      "value": 7
+     },
+     "normalizedCount": 28,
+     "affinity": null,
+     "term": "autumn nails",
+     "searchCount": 28,
+     "reverseRank": 42
+    },
+    {
+     "seasonality_score": 0.41560364,
+     "yoy_change": {
+      "index": 38,
+      "value": 0.5
+     },
+     "wow_change": {
+      "index": 8,
+      "value": -0.09
+     },
+     "mom_change": {
+      "index": 11,
+      "value": -0.3
+     },
+     "normalizedCount": 28,
+     "affinity": null,
+     "term": "nail ideas",
+     "searchCount": 28,
+     "reverseRank": 41
+    },
+    {
+     "seasonality_score": 0.8632583,
+     "yoy_change": {
+      "index": 20,
+      "value": 0
+     },
+     "wow_change": {
+      "index": 29,
+      "value": 0
+     },
+     "mom_change": {
+      "index": 36,
+      "value": 0.1
+     },
+     "normalizedCount": 24,
+     "affinity": null,
+     "term": "flowers",
+     "searchCount": 24,
+     "reverseRank": 40
+    },
+    {
+     "seasonality_score": 0.68755007,
+     "yoy_change": {
+      "index": 3,
+      "value": -0.2
+     },
+     "wow_change": {
+      "index": 42,
+      "value": 0.06
+     },
+     "mom_change": {
+      "index": 27,
+      "value": 0
+     },
+     "normalizedCount": 24,
+     "affinity": null,
+     "term": "bedroom ideas",
+     "searchCount": 24,
+     "reverseRank": 39
+    },
+    {
+     "seasonality_score": 0.63875985,
+     "yoy_change": {
+      "index": 43,
+      "value": 0.8
+     },
+     "wow_change": {
+      "index": 5,
+      "value": -0.1
+     },
+     "mom_change": {
+      "index": 12,
+      "value": -0.2
+     },
+     "normalizedCount": 22,
+     "affinity": null,
+     "term": "french tip nails",
+     "searchCount": 22,
+     "reverseRank": 38
+    },
+    {
+     "seasonality_score": 0.98586994,
+     "yoy_change": {
+      "index": 6,
+      "value": -0.1
+     },
+     "wow_change": {
+      "index": 15,
+      "value": -0.05
+     },
+     "mom_change": {
+      "index": 46,
+      "value": 0.9
+     },
+     "normalizedCount": 22,
+     "affinity": null,
+     "term": "winter outfits",
+     "searchCount": 22,
+     "reverseRank": 37
+    },
+    {
+     "seasonality_score": 0.9950951,
+     "yoy_change": {
+      "index": 22,
+      "value": 0.1
+     },
+     "wow_change": {
+      "index": 21,
+      "value": -0.02
+     },
+     "mom_change": {
+      "index": 44,
+      "value": 0.6
+     },
+     "normalizedCount": 22,
+     "affinity": null,
+     "term": "spring nails",
+     "searchCount": 22,
+     "reverseRank": 36
+    },
+    {
+     "seasonality_score": 0.66315955,
+     "yoy_change": {
+      "index": 27,
+      "value": 0.2
+     },
+     "wow_change": {
+      "index": 36,
+      "value": 0.02
+     },
+     "mom_change": {
+      "index": 31,
+      "value": 0.02
+     },
+     "normalizedCount": 21,
+     "affinity": null,
+     "term": "makeup",
+     "searchCount": 21,
+     "reverseRank": 35
+    },
+    {
+     "seasonality_score": 0.9327849,
+     "yoy_change": {
+      "index": 19,
+      "value": 0
+     },
+     "wow_change": {
+      "index": 3,
+      "value": -0.2
+     },
+     "mom_change": {
+      "index": 2,
+      "value": -0.4
+     },
+     "normalizedCount": 20,
+     "affinity": null,
+     "term": "holiday nails",
+     "searchCount": 20,
+     "reverseRank": 34
+    },
+    {
+     "seasonality_score": 0.51211196,
+     "yoy_change": {
+      "index": 41,
+      "value": 0.7
+     },
+     "wow_change": {
+      "index": 18,
+      "value": -0.03
+     },
+     "mom_change": {
+      "index": 25,
+      "value": -0.01
+     },
+     "normalizedCount": 20,
+     "affinity": null,
+     "term": "flower",
+     "searchCount": 20,
+     "reverseRank": 33
+    },
+    {
+     "seasonality_score": 0.42627874,
+     "yoy_change": {
+      "index": 50,
+      "value": 100.01
+     },
+     "wow_change": {
+      "index": 13,
+      "value": -0.05
+     },
+     "mom_change": {
+      "index": 8,
+      "value": -0.3
+     },
+     "normalizedCount": 20,
+     "affinity": null,
+     "term": "nails inspo 2026",
+     "searchCount": 20,
+     "reverseRank": 32
+    },
+    {
+     "seasonality_score": 0.98850137,
+     "yoy_change": {
+      "index": 18,
+      "value": 0
+     },
+     "wow_change": {
+      "index": 2,
+      "value": -0.2
+     },
+     "mom_change": {
+      "index": 48,
+      "value": 2
+     },
+     "normalizedCount": 20,
+     "affinity": null,
+     "term": "autumn outfits",
+     "searchCount": 20,
+     "reverseRank": 31
+    },
+    {
+     "seasonality_score": 0.9871729,
+     "yoy_change": {
+      "index": 16,
+      "value": -0.02
+     },
+     "wow_change": {
+      "index": 50,
+      "value": 0.6
+     },
+     "mom_change": {
+      "index": 49,
+      "value": 3
+     },
+     "normalizedCount": 19,
+     "affinity": null,
+     "term": "pumpkin carving ideas",
+     "searchCount": 19,
+     "reverseRank": 30
+    },
+    {
+     "seasonality_score": 0.6851487,
+     "yoy_change": {
+      "index": 25,
+      "value": 0.1
+     },
+     "wow_change": {
+      "index": 25,
+      "value": 0
+     },
+     "mom_change": {
+      "index": 26,
+      "value": -0.01
+     },
+     "normalizedCount": 18,
+     "affinity": null,
+     "term": "hair",
+     "searchCount": 18,
+     "reverseRank": 29
+    },
+    {
+     "seasonality_score": 0.5094723,
+     "yoy_change": {
+      "index": 34,
+      "value": 0.4
+     },
+     "wow_change": {
+      "index": 35,
+      "value": 0.02
+     },
+     "mom_change": {
+      "index": 16,
+      "value": -0.08
+     },
+     "normalizedCount": 18,
+     "affinity": null,
+     "term": "outfit",
+     "searchCount": 18,
+     "reverseRank": 28
+    },
+    {
+     "seasonality_score": 0.60622245,
+     "yoy_change": {
+      "index": 21,
+      "value": 0.06
+     },
+     "wow_change": {
+      "index": 17,
+      "value": -0.04
+     },
+     "mom_change": {
+      "index": 34,
+      "value": 0.06
+     },
+     "normalizedCount": 17,
+     "affinity": null,
+     "term": "art",
+     "searchCount": 17,
+     "reverseRank": 27
+    },
+    {
+     "seasonality_score": 0.42800146,
+     "yoy_change": {
+      "index": 49,
+      "value": 100.01
+     },
+     "wow_change": {
+      "index": 1,
+      "value": -0.3
+     },
+     "mom_change": {
+      "index": 1,
+      "value": -0.8
+     },
+     "normalizedCount": 17,
+     "affinity": null,
+     "term": "summer nails 2026",
+     "searchCount": 17,
+     "reverseRank": 26
+    },
+    {
+     "seasonality_score": 0.47404364,
+     "yoy_change": {
+      "index": 35,
+      "value": 0.4
+     },
+     "wow_change": {
+      "index": 34,
+      "value": 0.02
+     },
+     "mom_change": {
+      "index": 30,
+      "value": 0.02
+     },
+     "normalizedCount": 16,
+     "affinity": null,
+     "term": "pose reference",
+     "searchCount": 16,
+     "reverseRank": 25
+    },
+    {
+     "seasonality_score": 0.73245966,
+     "yoy_change": {
+      "index": 23,
+      "value": 0.1
+     },
+     "wow_change": {
+      "index": 40,
+      "value": 0.05
+     },
+     "mom_change": {
+      "index": 22,
+      "value": -0.02
+     },
+     "normalizedCount": 16,
+     "affinity": null,
+     "term": "drawings",
+     "searchCount": 16,
+     "reverseRank": 24
+    },
+    {
+     "seasonality_score": 0.16867222,
+     "yoy_change": {
+      "index": 45,
+      "value": 1
+     },
+     "wow_change": {
+      "index": 7,
+      "value": -0.09
+     },
+     "mom_change": {
+      "index": 7,
+      "value": -0.3
+     },
+     "normalizedCount": 15,
+     "affinity": null,
+     "term": "polka dot nails",
+     "searchCount": 15,
+     "reverseRank": 23
+    },
+    {
+     "seasonality_score": 0.94928557,
+     "yoy_change": {
+      "index": 11,
+      "value": -0.04
+     },
+     "wow_change": {
+      "index": 12,
+      "value": -0.06
+     },
+     "mom_change": {
+      "index": 10,
+      "value": -0.3
+     },
+     "normalizedCount": 15,
+     "affinity": null,
+     "term": "almond nails",
+     "searchCount": 15,
+     "reverseRank": 22
+    },
+    {
+     "seasonality_score": 0.78368354,
+     "yoy_change": {
+      "index": 33,
+      "value": 0.4
+     },
+     "wow_change": {
+      "index": 44,
+      "value": 0.07
+     },
+     "mom_change": {
+      "index": 23,
+      "value": -0.02
+     },
+     "normalizedCount": 14,
+     "affinity": null,
+     "term": "funny",
+     "searchCount": 14,
+     "reverseRank": 21
+    },
+    {
+     "seasonality_score": 0.51176876,
+     "yoy_change": {
+      "index": 37,
+      "value": 0.4
+     },
+     "wow_change": {
+      "index": 38,
+      "value": 0.03
+     },
+     "mom_change": {
+      "index": 19,
+      "value": -0.05
+     },
+     "normalizedCount": 14,
+     "affinity": null,
+     "term": "outfit inspo",
+     "searchCount": 14,
+     "reverseRank": 20
+    },
+    {
+     "seasonality_score": 0.504212,
+     "yoy_change": {
+      "index": 40,
+      "value": 0.7
+     },
+     "wow_change": {
+      "index": 16,
+      "value": -0.04
+     },
+     "mom_change": {
+      "index": 38,
+      "value": 0.1
+     },
+     "normalizedCount": 14,
+     "affinity": null,
+     "term": "doodles",
+     "searchCount": 14,
+     "reverseRank": 19
+    },
+    {
+     "seasonality_score": 0.8765711,
+     "yoy_change": {
+      "index": 30,
+      "value": 0.2
+     },
+     "wow_change": {
+      "index": 39,
+      "value": 0.04
+     },
+     "mom_change": {
+      "index": 35,
+      "value": 0.07
+     },
+     "normalizedCount": 14,
+     "affinity": null,
+     "term": "pink wallpaper",
+     "searchCount": 14,
+     "reverseRank": 18
+    },
+    {
+     "seasonality_score": 0.7302525,
+     "yoy_change": {
+      "index": 44,
+      "value": 1
+     },
+     "wow_change": {
+      "index": 20,
+      "value": -0.03
+     },
+     "mom_change": {
+      "index": 14,
+      "value": -0.1
+     },
+     "normalizedCount": 14,
+     "affinity": null,
+     "term": "pottery painting ideas",
+     "searchCount": 14,
+     "reverseRank": 17
+    },
+    {
+     "seasonality_score": 0.7462489,
+     "yoy_change": {
+      "index": 14,
+      "value": -0.02
+     },
+     "wow_change": {
+      "index": 33,
+      "value": 0.02
+     },
+     "mom_change": {
+      "index": 28,
+      "value": 0
+     },
+     "normalizedCount": 14,
+     "affinity": null,
+     "term": "bedroom",
+     "searchCount": 14,
+     "reverseRank": 16
+    },
+    {
+     "seasonality_score": 0.72450197,
+     "yoy_change": {
+      "index": 29,
+      "value": 0.2
+     },
+     "wow_change": {
+      "index": 37,
+      "value": 0.02
+     },
+     "mom_change": {
+      "index": 13,
+      "value": -0.1
+     },
+     "normalizedCount": 13,
+     "affinity": null,
+     "term": "things to draw",
+     "searchCount": 13,
+     "reverseRank": 15
+    },
+    {
+     "seasonality_score": 0.88444746,
+     "yoy_change": {
+      "index": 4,
+      "value": -0.2
+     },
+     "wow_change": {
+      "index": 28,
+      "value": 0
+     },
+     "mom_change": {
+      "index": 18,
+      "value": -0.06
+     },
+     "normalizedCount": 13,
+     "affinity": null,
+     "term": "blonde hair",
+     "searchCount": 13,
+     "reverseRank": 14
+    },
+    {
+     "seasonality_score": 0.9751909,
+     "yoy_change": {
+      "index": 5,
+      "value": -0.1
+     },
+     "wow_change": {
+      "index": 10,
+      "value": -0.07
+     },
+     "mom_change": {
+      "index": 6,
+      "value": -0.3
+     },
+     "normalizedCount": 13,
+     "affinity": null,
+     "term": "pink nails",
+     "searchCount": 13,
+     "reverseRank": 13
+    },
+    {
+     "seasonality_score": 0.3973908,
+     "yoy_change": {
+      "index": 46,
+      "value": 2
+     },
+     "wow_change": {
+      "index": 19,
+      "value": -0.03
+     },
+     "mom_change": {
+      "index": 24,
+      "value": -0.01
+     },
+     "normalizedCount": 13,
+     "affinity": null,
+     "term": "reaction pictures",
+     "searchCount": 13,
+     "reverseRank": 12
+    },
+    {
+     "seasonality_score": 0.58483815,
+     "yoy_change": {
+      "index": 9,
+      "value": -0.05
+     },
+     "wow_change": {
+      "index": 14,
+      "value": -0.05
+     },
+     "mom_change": {
+      "index": 42,
+      "value": 0.3
+     },
+     "normalizedCount": 12,
+     "affinity": null,
+     "term": "hair styles",
+     "searchCount": 12,
+     "reverseRank": 11
+    },
+    {
+     "seasonality_score": 0.8350003,
+     "yoy_change": {
+      "index": 10,
+      "value": -0.04
+     },
+     "wow_change": {
+      "index": 48,
+      "value": 0.1
+     },
+     "mom_change": {
+      "index": 33,
+      "value": 0.04
+     },
+     "normalizedCount": 12,
+     "affinity": null,
+     "term": "iphone wallpaper",
+     "searchCount": 12,
+     "reverseRank": 10
+    },
+    {
+     "seasonality_score": 0.5148504,
+     "yoy_change": {
+      "index": 42,
+      "value": 0.8
+     },
+     "wow_change": {
+      "index": 6,
+      "value": -0.1
+     },
+     "mom_change": {
+      "index": 9,
+      "value": -0.3
+     },
+     "normalizedCount": 12,
+     "affinity": null,
+     "term": "nail art",
+     "searchCount": 12,
+     "reverseRank": 9
+    },
+    {
+     "seasonality_score": 0.77861696,
+     "yoy_change": {
+      "index": 24,
+      "value": 0.1
+     },
+     "wow_change": {
+      "index": 31,
+      "value": 0.01
+     },
+     "mom_change": {
+      "index": 21,
+      "value": -0.03
+     },
+     "normalizedCount": 12,
+     "affinity": null,
+     "term": "white",
+     "searchCount": 12,
+     "reverseRank": 8
+    },
+    {
+     "seasonality_score": 0.7457925,
+     "yoy_change": {
+      "index": 39,
+      "value": 0.5
+     },
+     "wow_change": {
+      "index": 47,
+      "value": 0.09
+     },
+     "mom_change": {
+      "index": 40,
+      "value": 0.2
+     },
+     "normalizedCount": 12,
+     "affinity": null,
+     "term": "posters",
+     "searchCount": 12,
+     "reverseRank": 7
+    },
+    {
+     "seasonality_score": 0.543209,
+     "yoy_change": {
+      "index": 47,
+      "value": 2
+     },
+     "wow_change": {
+      "index": 4,
+      "value": -0.1
+     },
+     "mom_change": {
+      "index": 15,
+      "value": -0.08
+     },
+     "normalizedCount": 12,
+     "affinity": null,
+     "term": "katseye",
+     "searchCount": 12,
+     "reverseRank": 6
+    },
+    {
+     "seasonality_score": 0.537559,
+     "yoy_change": {
+      "index": 8,
+      "value": -0.06
+     },
+     "wow_change": {
+      "index": 30,
+      "value": 0.01
+     },
+     "mom_change": {
+      "index": 4,
+      "value": -0.3
+     },
+     "normalizedCount": 12,
+     "affinity": null,
+     "term": "nail designs",
+     "searchCount": 12,
+     "reverseRank": 5
+    },
+    {
+     "seasonality_score": 0.73943263,
+     "yoy_change": {
+      "index": 2,
+      "value": -0.3
+     },
+     "wow_change": {
+      "index": 24,
+      "value": 0
+     },
+     "mom_change": {
+      "index": 32,
+      "value": 0.03
+     },
+     "normalizedCount": 12,
+     "affinity": null,
+     "term": "bathroom ideas",
+     "searchCount": 12,
+     "reverseRank": 4
+    },
+    {
+     "seasonality_score": 0.53800255,
+     "yoy_change": {
+      "index": 48,
+      "value": 3
+     },
+     "wow_change": {
+      "index": 11,
+      "value": -0.06
+     },
+     "mom_change": {
+      "index": 37,
+      "value": 0.1
+     },
+     "normalizedCount": 12,
+     "affinity": null,
+     "term": "stranger things",
+     "searchCount": 12,
+     "reverseRank": 3
+    },
+    {
+     "seasonality_score": 0.9693564,
+     "yoy_change": {
+      "index": 26,
+      "value": 0.2
+     },
+     "wow_change": {
+      "index": 32,
+      "value": 0.02
+     },
+     "mom_change": {
+      "index": 45,
+      "value": 0.8
+     },
+     "normalizedCount": 12,
+     "affinity": null,
+     "term": "fonts",
+     "searchCount": 12,
+     "reverseRank": 2
+    },
+    {
+     "seasonality_score": 0.40990916,
+     "yoy_change": {
+      "index": 1,
+      "value": -0.5
+     },
+     "wow_change": {
+      "index": 9,
+      "value": -0.07
+     },
+     "mom_change": {
+      "index": 41,
+      "value": 0.2
+     },
+     "normalizedCount": 11,
+     "affinity": null,
+     "term": "fashion",
+     "searchCount": 11,
+     "reverseRank": 1
+    }
+   ]
+  },
+  "trending_now": {
+   "preset_value": 3,
+   "country_param": "GB",
+   "end_date": "2026-09-22",
+   "values": [
+    {
+     "term": "absurd pose",
+     "mom_change": {
+      "index": 50,
+      "value": 100.01
+     },
+     "affinity": null,
+     "yoy_change": {
+      "index": 46,
+      "value": 100.01
+     },
+     "wow_change": {
+      "index": 45,
+      "value": 0.7
+     },
+     "normalizedCount": 0,
+     "seasonality_score": 0.3241851,
+     "searchCount": 0,
+     "reverseRank": 50
+    },
+    {
+     "term": "minimise",
+     "mom_change": {
+      "index": 49,
+      "value": 100
+     },
+     "affinity": null,
+     "yoy_change": {
+      "index": 42,
+      "value": 40
+     },
+     "wow_change": {
+      "index": 31,
+      "value": 0.2
+     },
+     "normalizedCount": 0,
+     "seasonality_score": 0.32306898,
+     "searchCount": 0,
+     "reverseRank": 49
+    },
+    {
+     "term": "fall nails 2026 trends",
+     "mom_change": {
+      "index": 48,
+      "value": 35
+     },
+     "affinity": null,
+     "yoy_change": {
+      "index": 49,
+      "value": 100.01
+     },
+     "wow_change": {
+      "index": 7,
+      "value": -0.03
+     },
+     "normalizedCount": 0,
+     "seasonality_score": 0.31757355,
+     "searchCount": 0,
+     "reverseRank": 48
+    },
+    {
+     "term": "autumn nails burgundy",
+     "mom_change": {
+      "index": 47,
+      "value": 25
+     },
+     "affinity": null,
+     "yoy_change": {
+      "index": 38,
+      "value": 0.9
+     },
+     "wow_change": {
+      "index": 48,
+      "value": 1
+     },
+     "normalizedCount": 0,
+     "seasonality_score": 0.7291099,
+     "searchCount": 0,
+     "reverseRank": 47
+    },
+    {
+     "term": "autumn french tip nails",
+     "mom_change": {
+      "index": 46,
+      "value": 25
+     },
+     "affinity": null,
+     "yoy_change": {
+      "index": 5,
+      "value": -0.4
+     },
+     "wow_change": {
+      "index": 26,
+      "value": 0.08
+     },
+     "normalizedCount": 0,
+     "seasonality_score": 0.9354202,
+     "searchCount": 0,
+     "reverseRank": 46
+    },
+    {
+     "term": "autumn nails 2026",
+     "mom_change": {
+      "index": 45,
+      "value": 20
+     },
+     "affinity": null,
+     "yoy_change": {
+      "index": 47,
+      "value": 100.01
+     },
+     "wow_change": {
+      "index": 16,
+      "value": 0.01
+     },
+     "normalizedCount": 15,
+     "seasonality_score": 0.31516746,
+     "searchCount": 15,
+     "reverseRank": 45
+    },
+    {
+     "term": "nails autumn 2026",
+     "mom_change": {
+      "index": 44,
+      "value": 20
+     },
+     "affinity": null,
+     "yoy_change": {
+      "index": 44,
+      "value": 100.01
+     },
+     "wow_change": {
+      "index": 38,
+      "value": 0.5
+     },
+     "normalizedCount": 0,
+     "seasonality_score": 0.31744432,
+     "searchCount": 0,
+     "reverseRank": 44
+    },
+    {
+     "term": "september nails 2026",
+     "mom_change": {
+      "index": 43,
+      "value": 20
+     },
+     "affinity": null,
+     "yoy_change": {
+      "index": 45,
+      "value": 100.01
+     },
+     "wow_change": {
+      "index": 3,
+      "value": -0.09
+     },
+     "normalizedCount": 0,
+     "seasonality_score": 0.3162505,
+     "searchCount": 0,
+     "reverseRank": 43
+    },
+    {
+     "term": "simple fall nails",
+     "mom_change": {
+      "index": 42,
+      "value": 15
+     },
+     "affinity": null,
+     "yoy_change": {
+      "index": 13,
+      "value": -0.2
+     },
+     "wow_change": {
+      "index": 35,
+      "value": 0.4
+     },
+     "normalizedCount": 0,
+     "seasonality_score": 0.73009986,
+     "searchCount": 0,
+     "reverseRank": 42
+    },
+    {
+     "term": "practical magic 2",
+     "mom_change": {
+      "index": 41,
+      "value": 15
+     },
+     "affinity": null,
+     "yoy_change": {
+      "index": 43,
+      "value": 55
+     },
+     "wow_change": {
+      "index": 50,
+      "value": 4
+     },
+     "normalizedCount": 0,
+     "seasonality_score": 0.32732338,
+     "searchCount": 0,
+     "reverseRank": 41
+    },
+    {
+     "term": "early autumn nails",
+     "mom_change": {
+      "index": 40,
+      "value": 15
+     },
+     "affinity": null,
+     "yoy_change": {
+      "index": 2,
+      "value": -0.5
+     },
+     "wow_change": {
+      "index": 14,
+      "value": 0.01
+     },
+     "normalizedCount": 0,
+     "seasonality_score": 0.6163711,
+     "searchCount": 0,
+     "reverseRank": 40
+    },
+    {
+     "term": "natural forms title page",
+     "mom_change": {
+      "index": 39,
+      "value": 15
+     },
+     "affinity": null,
+     "yoy_change": {
+      "index": 35,
+      "value": 0.7
+     },
+     "wow_change": {
+      "index": 2,
+      "value": -0.09
+     },
+     "normalizedCount": 0,
+     "seasonality_score": 0.8189105,
+     "searchCount": 0,
+     "reverseRank": 39
+    },
+    {
+     "term": "short autumn nails",
+     "mom_change": {
+      "index": 38,
+      "value": 15
+     },
+     "affinity": null,
+     "yoy_change": {
+      "index": 19,
+      "value": -0.08
+     },
+     "wow_change": {
+      "index": 11,
+      "value": -0.01
+     },
+     "normalizedCount": 1,
+     "seasonality_score": 0.9158277,
+     "searchCount": 1,
+     "reverseRank": 38
+    },
+    {
+     "term": "pink autumn nails",
+     "mom_change": {
+      "index": 37,
+      "value": 10
+     },
+     "affinity": null,
+     "yoy_change": {
+      "index": 20,
+      "value": -0.03
+     },
+     "wow_change": {
+      "index": 33,
+      "value": 0.3
+     },
+     "normalizedCount": 0,
+     "seasonality_score": 0.968984,
+     "searchCount": 0,
+     "reverseRank": 37
+    },
+    {
+     "term": "red autumn nails",
+     "mom_change": {
+      "index": 36,
+      "value": 10
+     },
+     "affinity": null,
+     "yoy_change": {
+      "index": 15,
+      "value": -0.2
+     },
+     "wow_change": {
+      "index": 29,
+      "value": 0.1
+     },
+     "normalizedCount": 0,
+     "seasonality_score": 0.9869629,
+     "searchCount": 0,
+     "reverseRank": 36
+    },
+    {
+     "term": "classy autumn nails",
+     "mom_change": {
+      "index": 35,
+      "value": 10
+     },
+     "affinity": null,
+     "yoy_change": {
+      "index": 1,
+      "value": -0.8
+     },
+     "wow_change": {
+      "index": 40,
+      "value": 0.6
+     },
+     "normalizedCount": 0,
+     "seasonality_score": 0.5201603,
+     "searchCount": 0,
+     "reverseRank": 35
+    },
+    {
+     "term": "autumn nails short",
+     "mom_change": {
+      "index": 34,
+      "value": 10
+     },
+     "affinity": null,
+     "yoy_change": {
+      "index": 16,
+      "value": -0.1
+     },
+     "wow_change": {
+      "index": 15,
+      "value": 0.01
+     },
+     "normalizedCount": 0,
+     "seasonality_score": 0.9579946,
+     "searchCount": 0,
+     "reverseRank": 34
+    },
+    {
+     "term": "autumn going out outfit",
+     "mom_change": {
+      "index": 33,
+      "value": 10
+     },
+     "affinity": null,
+     "yoy_change": {
+      "index": 14,
+      "value": -0.2
+     },
+     "wow_change": {
+      "index": 24,
+      "value": 0.07
+     },
+     "normalizedCount": 0,
+     "seasonality_score": 0.9467147,
+     "searchCount": 0,
+     "reverseRank": 33
+    },
+    {
+     "term": "autumn activities for toddlers",
+     "mom_change": {
+      "index": 32,
+      "value": 10
+     },
+     "affinity": null,
+     "yoy_change": {
+      "index": 27,
+      "value": 0.03
+     },
+     "wow_change": {
+      "index": 32,
+      "value": 0.3
+     },
+     "normalizedCount": 0,
+     "seasonality_score": 0.99657255,
+     "searchCount": 0,
+     "reverseRank": 32
+    },
+    {
+     "term": "simple autumn nails",
+     "mom_change": {
+      "index": 31,
+      "value": 10
+     },
+     "affinity": null,
+     "yoy_change": {
+      "index": 22,
+      "value": 0
+     },
+     "wow_change": {
+      "index": 9,
+      "value": -0.03
+     },
+     "normalizedCount": 1,
+     "seasonality_score": 0.9294525,
+     "searchCount": 1,
+     "reverseRank": 31
+    },
+    {
+     "term": "brown autumn nails",
+     "mom_change": {
+      "index": 30,
+      "value": 10
+     },
+     "affinity": null,
+     "yoy_change": {
+      "index": 18,
+      "value": -0.1
+     },
+     "wow_change": {
+      "index": 28,
+      "value": 0.1
+     },
+     "normalizedCount": 0,
+     "seasonality_score": 0.8772079,
+     "searchCount": 0,
+     "reverseRank": 30
+    },
+    {
+     "term": "nails inspo 2026 september",
+     "mom_change": {
+      "index": 29,
+      "value": 10
+     },
+     "affinity": null,
+     "yoy_change": {
+      "index": 48,
+      "value": 100.01
+     },
+     "wow_change": {
+      "index": 39,
+      "value": 0.5
+     },
+     "normalizedCount": 0,
+     "seasonality_score": 0.31439778,
+     "searchCount": 0,
+     "reverseRank": 29
+    },
+    {
+     "term": "autumn nails brown",
+     "mom_change": {
+      "index": 28,
+      "value": 10
+     },
+     "affinity": null,
+     "yoy_change": {
+      "index": 23,
+      "value": 0
+     },
+     "wow_change": {
+      "index": 18,
+      "value": 0.04
+     },
+     "normalizedCount": 0,
+     "seasonality_score": 0.8576667,
+     "searchCount": 0,
+     "reverseRank": 28
+    },
+    {
+     "term": "autumn short nails",
+     "mom_change": {
+      "index": 27,
+      "value": 10
+     },
+     "affinity": null,
+     "yoy_change": {
+      "index": 11,
+      "value": -0.2
+     },
+     "wow_change": {
+      "index": 5,
+      "value": -0.08
+     },
+     "normalizedCount": 0,
+     "seasonality_score": 0.9810784,
+     "searchCount": 0,
+     "reverseRank": 27
+    },
+    {
+     "term": "square autumn nails",
+     "mom_change": {
+      "index": 26,
+      "value": 10
+     },
+     "affinity": null,
+     "yoy_change": {
+      "index": 29,
+      "value": 0.1
+     },
+     "wow_change": {
+      "index": 22,
+      "value": 0.06
+     },
+     "normalizedCount": 0,
+     "seasonality_score": 0.91892034,
+     "searchCount": 0,
+     "reverseRank": 26
+    },
+    {
+     "term": "autumn nails square",
+     "mom_change": {
+      "index": 25,
+      "value": 9
+     },
+     "affinity": null,
+     "yoy_change": {
+      "index": 30,
+      "value": 0.2
+     },
+     "wow_change": {
+      "index": 25,
+      "value": 0.07
+     },
+     "normalizedCount": 1,
+     "seasonality_score": 0.88953227,
+     "searchCount": 1,
+     "reverseRank": 25
+    },
+    {
+     "term": "cute autumn nails",
+     "mom_change": {
+      "index": 24,
+      "value": 9
+     },
+     "affinity": null,
+     "yoy_change": {
+      "index": 31,
+      "value": 0.3
+     },
+     "wow_change": {
+      "index": 47,
+      "value": 1
+     },
+     "normalizedCount": 0,
+     "seasonality_score": 0.8764407,
+     "searchCount": 0,
+     "reverseRank": 24
+    },
+    {
+     "term": "autumn square nails",
+     "mom_change": {
+      "index": 23,
+      "value": 8
+     },
+     "affinity": null,
+     "yoy_change": {
+      "index": 26,
+      "value": 0.03
+     },
+     "wow_change": {
+      "index": 1,
+      "value": -0.1
+     },
+     "normalizedCount": 0,
+     "seasonality_score": 0.93726593,
+     "searchCount": 0,
+     "reverseRank": 23
+    },
+    {
+     "term": "autumn nails almond",
+     "mom_change": {
+      "index": 22,
+      "value": 8
+     },
+     "affinity": null,
+     "yoy_change": {
+      "index": 32,
+      "value": 0.4
+     },
+     "wow_change": {
+      "index": 37,
+      "value": 0.4
+     },
+     "normalizedCount": 0,
+     "seasonality_score": 0.906528,
+     "searchCount": 0,
+     "reverseRank": 22
+    },
+    {
+     "term": "autumn nails simple",
+     "mom_change": {
+      "index": 21,
+      "value": 8
+     },
+     "affinity": null,
+     "yoy_change": {
+      "index": 39,
+      "value": 1
+     },
+     "wow_change": {
+      "index": 6,
+      "value": -0.04
+     },
+     "normalizedCount": 0,
+     "seasonality_score": 0.78220165,
+     "searchCount": 0,
+     "reverseRank": 21
+    },
+    {
+     "term": "autumn gel nails",
+     "mom_change": {
+      "index": 20,
+      "value": 8
+     },
+     "affinity": null,
+     "yoy_change": {
+      "index": 4,
+      "value": -0.5
+     },
+     "wow_change": {
+      "index": 10,
+      "value": -0.02
+     },
+     "normalizedCount": 0,
+     "seasonality_score": 0.9573577,
+     "searchCount": 0,
+     "reverseRank": 20
+    },
+    {
+     "term": "autumn biab nails",
+     "mom_change": {
+      "index": 19,
+      "value": 8
+     },
+     "affinity": null,
+     "yoy_change": {
+      "index": 3,
+      "value": -0.5
+     },
+     "wow_change": {
+      "index": 23,
+      "value": 0.06
+     },
+     "normalizedCount": 0,
+     "seasonality_score": 0.95617324,
+     "searchCount": 0,
+     "reverseRank": 19
+    },
+    {
+     "term": "autumn nail art",
+     "mom_change": {
+      "index": 18,
+      "value": 8
+     },
+     "affinity": null,
+     "yoy_change": {
+      "index": 6,
+      "value": -0.4
+     },
+     "wow_change": {
+      "index": 49,
+      "value": 1
+     },
+     "normalizedCount": 0,
+     "seasonality_score": 0.9063262,
+     "searchCount": 0,
+     "reverseRank": 18
+    },
+    {
+     "term": "autumn outfits 2026 women",
+     "mom_change": {
+      "index": 17,
+      "value": 8
+     },
+     "affinity": null,
+     "yoy_change": {
+      "index": 50,
+      "value": 100.01
+     },
+     "wow_change": {
+      "index": 34,
+      "value": 0.3
+     },
+     "normalizedCount": 2,
+     "seasonality_score": 0.3163111,
+     "searchCount": 2,
+     "reverseRank": 17
+    },
+    {
+     "term": "simple halloween nails",
+     "mom_change": {
+      "index": 16,
+      "value": 8
+     },
+     "affinity": null,
+     "yoy_change": {
+      "index": 24,
+      "value": 0.01
+     },
+     "wow_change": {
+      "index": 44,
+      "value": 0.7
+     },
+     "normalizedCount": 0,
+     "seasonality_score": 0.9945175,
+     "searchCount": 0,
+     "reverseRank": 16
+    },
+    {
+     "term": "october nails",
+     "mom_change": {
+      "index": 15,
+      "value": 8
+     },
+     "affinity": null,
+     "yoy_change": {
+      "index": 28,
+      "value": 0.06
+     },
+     "wow_change": {
+      "index": 41,
+      "value": 0.6
+     },
+     "normalizedCount": 3,
+     "seasonality_score": 0.9515737,
+     "searchCount": 3,
+     "reverseRank": 15
+    },
+    {
+     "term": "autumnal nails",
+     "mom_change": {
+      "index": 14,
+      "value": 7
+     },
+     "affinity": null,
+     "yoy_change": {
+      "index": 9,
+      "value": -0.4
+     },
+     "wow_change": {
+      "index": 17,
+      "value": 0.02
+     },
+     "normalizedCount": 3,
+     "seasonality_score": 0.9725983,
+     "searchCount": 3,
+     "reverseRank": 14
+    },
+    {
+     "term": "autumn nails",
+     "mom_change": {
+      "index": 13,
+      "value": 7
+     },
+     "affinity": null,
+     "yoy_change": {
+      "index": 17,
+      "value": -0.1
+     },
+     "wow_change": {
+      "index": 21,
+      "value": 0.06
+     },
+     "normalizedCount": 100,
+     "seasonality_score": 0.9956958,
+     "searchCount": 100,
+     "reverseRank": 13
+    },
+    {
+     "term": "autumn nail colours",
+     "mom_change": {
+      "index": 12,
+      "value": 7
+     },
+     "affinity": null,
+     "yoy_change": {
+      "index": 21,
+      "value": -0.03
+     },
+     "wow_change": {
+      "index": 13,
+      "value": 0
+     },
+     "normalizedCount": 0,
+     "seasonality_score": 0.99079585,
+     "searchCount": 0,
+     "reverseRank": 12
+    },
+    {
+     "term": "autumn nails designs",
+     "mom_change": {
+      "index": 11,
+      "value": 7
+     },
+     "affinity": null,
+     "yoy_change": {
+      "index": 33,
+      "value": 0.5
+     },
+     "wow_change": {
+      "index": 19,
+      "value": 0.04
+     },
+     "normalizedCount": 0,
+     "seasonality_score": 0.74533254,
+     "searchCount": 0,
+     "reverseRank": 11
+    },
+    {
+     "term": "autumn almond nails",
+     "mom_change": {
+      "index": 10,
+      "value": 7
+     },
+     "affinity": null,
+     "yoy_change": {
+      "index": 8,
+      "value": -0.4
+     },
+     "wow_change": {
+      "index": 30,
+      "value": 0.1
+     },
+     "normalizedCount": 0,
+     "seasonality_score": 0.92660356,
+     "searchCount": 0,
+     "reverseRank": 10
+    },
+    {
+     "term": "cute autumn wallpaper",
+     "mom_change": {
+      "index": 9,
+      "value": 6
+     },
+     "affinity": null,
+     "yoy_change": {
+      "index": 25,
+      "value": 0.02
+     },
+     "wow_change": {
+      "index": 20,
+      "value": 0.05
+     },
+     "normalizedCount": 0,
+     "seasonality_score": 0.9518571,
+     "searchCount": 0,
+     "reverseRank": 9
+    },
+    {
+     "term": "pumpkin nails",
+     "mom_change": {
+      "index": 8,
+      "value": 6
+     },
+     "affinity": null,
+     "yoy_change": {
+      "index": 10,
+      "value": -0.3
+     },
+     "wow_change": {
+      "index": 27,
+      "value": 0.1
+     },
+     "normalizedCount": 1,
+     "seasonality_score": 0.98676574,
+     "searchCount": 1,
+     "reverseRank": 8
+    },
+    {
+     "term": "white lies t shirt ideas",
+     "mom_change": {
+      "index": 7,
+      "value": 6
+     },
+     "affinity": null,
+     "yoy_change": {
+      "index": 41,
+      "value": 6
+     },
+     "wow_change": {
+      "index": 42,
+      "value": 0.6
+     },
+     "normalizedCount": 0,
+     "seasonality_score": 0.6443398,
+     "searchCount": 0,
+     "reverseRank": 7
+    },
+    {
+     "term": "deer halloween costume",
+     "mom_change": {
+      "index": 6,
+      "value": 6
+     },
+     "affinity": null,
+     "yoy_change": {
+      "index": 36,
+      "value": 0.8
+     },
+     "wow_change": {
+      "index": 46,
+      "value": 1
+     },
+     "normalizedCount": 0,
+     "seasonality_score": 0.7779181,
+     "searchCount": 0,
+     "reverseRank": 6
+    },
+    {
+     "term": "halloween nails simple",
+     "mom_change": {
+      "index": 5,
+      "value": 6
+     },
+     "affinity": null,
+     "yoy_change": {
+      "index": 34,
+      "value": 0.5
+     },
+     "wow_change": {
+      "index": 36,
+      "value": 0.4
+     },
+     "normalizedCount": 0,
+     "seasonality_score": 0.97435147,
+     "searchCount": 0,
+     "reverseRank": 5
+    },
+    {
+     "term": "fall nail ideas",
+     "mom_change": {
+      "index": 4,
+      "value": 6
+     },
+     "affinity": null,
+     "yoy_change": {
+      "index": 37,
+      "value": 0.8
+     },
+     "wow_change": {
+      "index": 8,
+      "value": -0.03
+     },
+     "normalizedCount": 0,
+     "seasonality_score": 0.7646027,
+     "searchCount": 0,
+     "reverseRank": 4
+    },
+    {
+     "term": "angel halloween costume",
+     "mom_change": {
+      "index": 3,
+      "value": 6
+     },
+     "affinity": null,
+     "yoy_change": {
+      "index": 40,
+      "value": 2
+     },
+     "wow_change": {
+      "index": 43,
+      "value": 0.6
+     },
+     "normalizedCount": 0,
+     "seasonality_score": 0.90451705,
+     "searchCount": 0,
+     "reverseRank": 3
+    },
+    {
+     "term": "autumn iphone wallpaper",
+     "mom_change": {
+      "index": 2,
+      "value": 6
+     },
+     "affinity": null,
+     "yoy_change": {
+      "index": 12,
+      "value": -0.2
+     },
+     "wow_change": {
+      "index": 4,
+      "value": -0.08
+     },
+     "normalizedCount": 0,
+     "seasonality_score": 0.9122165,
+     "searchCount": 0,
+     "reverseRank": 2
+    },
+    {
+     "term": "ageless style",
+     "mom_change": {
+      "index": 1,
+      "value": 6
+     },
+     "affinity": null,
+     "yoy_change": {
+      "index": 7,
+      "value": -0.4
+     },
+     "wow_change": {
+      "index": 12,
+      "value": 0
+     },
+     "normalizedCount": 0,
+     "seasonality_score": 0.287981,
+     "searchCount": 0,
+     "reverseRank": 1
+    }
+   ]
+  },
+  "growing": {
+   "preset_value": 4,
+   "country_param": "GB",
+   "end_date": "2026-09-22",
+   "values": [
+    {
+     "mom_change": {
+      "index": 50,
+      "value": 50
+     },
+     "yoy_change": {
+      "index": 48,
+      "value": 0.6
+     },
+     "wow_change": {
+      "index": 23,
+      "value": 0.08
+     },
+     "seasonality_score": 0.88197803,
+     "affinity": null,
+     "term": "autumn pub outfit",
+     "normalizedCount": 9,
+     "searchCount": 9,
+     "reverseRank": 50
+    },
+    {
+     "mom_change": {
+      "index": 49,
+      "value": 25
+     },
+     "yoy_change": {
+      "index": 5,
+      "value": -0.4
+     },
+     "wow_change": {
+      "index": 25,
+      "value": 0.08
+     },
+     "seasonality_score": 0.9354202,
+     "affinity": null,
+     "term": "autumn french tip nails",
+     "normalizedCount": 45,
+     "searchCount": 45,
+     "reverseRank": 49
+    },
+    {
+     "mom_change": {
+      "index": 48,
+      "value": 20
+     },
+     "yoy_change": {
+      "index": 43,
+      "value": 0.1
+     },
+     "wow_change": {
+      "index": 22,
+      "value": 0.07
+     },
+     "seasonality_score": 0.8830734,
+     "affinity": null,
+     "term": "short square autumn nails",
+     "normalizedCount": 11,
+     "searchCount": 11,
+     "reverseRank": 48
+    },
+    {
+     "mom_change": {
+      "index": 47,
+      "value": 20
+     },
+     "yoy_change": {
+      "index": 44,
+      "value": 0.1
+     },
+     "wow_change": {
+      "index": 50,
+      "value": 0.7
+     },
+     "seasonality_score": 0.9014033,
+     "affinity": null,
+     "term": "unghii de toamnă",
+     "normalizedCount": 7,
+     "searchCount": 7,
+     "reverseRank": 47
+    },
+    {
+     "mom_change": {
+      "index": 46,
+      "value": 20
+     },
+     "yoy_change": {
+      "index": 45,
+      "value": 0.2
+     },
+     "wow_change": {
+      "index": 10,
+      "value": 0.02
+     },
+     "seasonality_score": 0.96541756,
+     "affinity": null,
+     "term": "school photo hairstyles",
+     "normalizedCount": 9,
+     "searchCount": 9,
+     "reverseRank": 46
+    },
+    {
+     "mom_change": {
+      "index": 45,
+      "value": 15
+     },
+     "yoy_change": {
+      "index": 23,
+      "value": -0.1
+     },
+     "wow_change": {
+      "index": 12,
+      "value": 0.03
+     },
+     "seasonality_score": 0.9349721,
+     "affinity": null,
+     "term": "autumn night out outfit",
+     "normalizedCount": 18,
+     "searchCount": 18,
+     "reverseRank": 45
+    },
+    {
+     "mom_change": {
+      "index": 44,
+      "value": 15
+     },
+     "yoy_change": {
+      "index": 49,
+      "value": 0.7
+     },
+     "wow_change": {
+      "index": 11,
+      "value": 0.02
+     },
+     "seasonality_score": 0.84652007,
+     "affinity": null,
+     "term": "autumn manicure",
+     "normalizedCount": 10,
+     "searchCount": 10,
+     "reverseRank": 44
+    },
+    {
+     "mom_change": {
+      "index": 43,
+      "value": 15
+     },
+     "yoy_change": {
+      "index": 16,
+      "value": -0.2
+     },
+     "wow_change": {
+      "index": 27,
+      "value": 0.09
+     },
+     "seasonality_score": 0.9255418,
+     "affinity": null,
+     "term": "simple autumn nails short",
+     "normalizedCount": 7,
+     "searchCount": 7,
+     "reverseRank": 43
+    },
+    {
+     "mom_change": {
+      "index": 42,
+      "value": 15
+     },
+     "yoy_change": {
+      "index": 15,
+      "value": -0.2
+     },
+     "wow_change": {
+      "index": 44,
+      "value": 0.4
+     },
+     "seasonality_score": 0.92260784,
+     "affinity": null,
+     "term": "autumn holiday nails",
+     "normalizedCount": 14,
+     "searchCount": 14,
+     "reverseRank": 42
+    },
+    {
+     "mom_change": {
+      "index": 41,
+      "value": 15
+     },
+     "yoy_change": {
+      "index": 31,
+      "value": -0.05
+     },
+     "wow_change": {
+      "index": 47,
+      "value": 0.4
+     },
+     "seasonality_score": 0.9276956,
+     "affinity": null,
+     "term": "autumn evening outfits",
+     "normalizedCount": 11,
+     "searchCount": 11,
+     "reverseRank": 41
+    },
+    {
+     "mom_change": {
+      "index": 40,
+      "value": 15
+     },
+     "yoy_change": {
+      "index": 9,
+      "value": -0.3
+     },
+     "wow_change": {
+      "index": 34,
+      "value": 0.2
+     },
+     "seasonality_score": 0.9644035,
+     "affinity": null,
+     "term": "autumn nails french tips",
+     "normalizedCount": 17,
+     "searchCount": 17,
+     "reverseRank": 40
+    },
+    {
+     "mom_change": {
+      "index": 39,
+      "value": 15
+     },
+     "yoy_change": {
+      "index": 17,
+      "value": -0.2
+     },
+     "wow_change": {
+      "index": 46,
+      "value": 0.4
+     },
+     "seasonality_score": 0.987933,
+     "affinity": null,
+     "term": "autumn chrome nails",
+     "normalizedCount": 12,
+     "searchCount": 12,
+     "reverseRank": 39
+    },
+    {
+     "mom_change": {
+      "index": 38,
+      "value": 15
+     },
+     "yoy_change": {
+      "index": 11,
+      "value": -0.2
+     },
+     "wow_change": {
+      "index": 42,
+      "value": 0.3
+     },
+     "seasonality_score": 0.9768643,
+     "affinity": null,
+     "term": "autumn activities for babies",
+     "normalizedCount": 7,
+     "searchCount": 7,
+     "reverseRank": 38
+    },
+    {
+     "mom_change": {
+      "index": 37,
+      "value": 15
+     },
+     "yoy_change": {
+      "index": 36,
+      "value": 0
+     },
+     "wow_change": {
+      "index": 18,
+      "value": 0.06
+     },
+     "seasonality_score": 0.9253644,
+     "affinity": null,
+     "term": "plain autumn nails",
+     "normalizedCount": 11,
+     "searchCount": 11,
+     "reverseRank": 37
+    },
+    {
+     "mom_change": {
+      "index": 36,
+      "value": 15
+     },
+     "yoy_change": {
+      "index": 13,
+      "value": -0.2
+     },
+     "wow_change": {
+      "index": 35,
+      "value": 0.2
+     },
+     "seasonality_score": 0.9851788,
+     "affinity": null,
+     "term": "green autumn nails",
+     "normalizedCount": 13,
+     "searchCount": 13,
+     "reverseRank": 36
+    },
+    {
+     "mom_change": {
+      "index": 35,
+      "value": 15
+     },
+     "yoy_change": {
+      "index": 29,
+      "value": -0.07
+     },
+     "wow_change": {
+      "index": 5,
+      "value": -0.01
+     },
+     "seasonality_score": 0.9158277,
+     "affinity": null,
+     "term": "short autumn nails",
+     "normalizedCount": 81,
+     "searchCount": 81,
+     "reverseRank": 35
+    },
+    {
+     "mom_change": {
+      "index": 34,
+      "value": 15
+     },
+     "yoy_change": {
+      "index": 24,
+      "value": -0.1
+     },
+     "wow_change": {
+      "index": 33,
+      "value": 0.2
+     },
+     "seasonality_score": 0.96527874,
+     "affinity": null,
+     "term": "easy autumn nails",
+     "normalizedCount": 9,
+     "searchCount": 9,
+     "reverseRank": 34
+    },
+    {
+     "mom_change": {
+      "index": 33,
+      "value": 15
+     },
+     "yoy_change": {
+      "index": 8,
+      "value": -0.3
+     },
+     "wow_change": {
+      "index": 20,
+      "value": 0.06
+     },
+     "seasonality_score": 0.9860157,
+     "affinity": null,
+     "term": "jesienne paznokcie",
+     "normalizedCount": 8,
+     "searchCount": 8,
+     "reverseRank": 33
+    },
+    {
+     "mom_change": {
+      "index": 32,
+      "value": 10
+     },
+     "yoy_change": {
+      "index": 47,
+      "value": 0.2
+     },
+     "wow_change": {
+      "index": 9,
+      "value": 0.02
+     },
+     "seasonality_score": 0.89826477,
+     "affinity": null,
+     "term": "autumn going out outfits",
+     "normalizedCount": 8,
+     "searchCount": 8,
+     "reverseRank": 32
+    },
+    {
+     "mom_change": {
+      "index": 31,
+      "value": 10
+     },
+     "yoy_change": {
+      "index": 35,
+      "value": 0
+     },
+     "wow_change": {
+      "index": 41,
+      "value": 0.3
+     },
+     "seasonality_score": 0.968984,
+     "affinity": null,
+     "term": "pink autumn nails",
+     "normalizedCount": 19,
+     "searchCount": 19,
+     "reverseRank": 31
+    },
+    {
+     "mom_change": {
+      "index": 30,
+      "value": 10
+     },
+     "yoy_change": {
+      "index": 1,
+      "value": -0.7
+     },
+     "wow_change": {
+      "index": 17,
+      "value": 0.06
+     },
+     "seasonality_score": 0.9249514,
+     "affinity": null,
+     "term": "fall nail colors",
+     "normalizedCount": 8,
+     "searchCount": 8,
+     "reverseRank": 30
+    },
+    {
+     "mom_change": {
+      "index": 29,
+      "value": 10
+     },
+     "yoy_change": {
+      "index": 19,
+      "value": -0.2
+     },
+     "wow_change": {
+      "index": 31,
+      "value": 0.1
+     },
+     "seasonality_score": 0.9869629,
+     "affinity": null,
+     "term": "red autumn nails",
+     "normalizedCount": 19,
+     "searchCount": 19,
+     "reverseRank": 29
+    },
+    {
+     "mom_change": {
+      "index": 28,
+      "value": 10
+     },
+     "yoy_change": {
+      "index": 25,
+      "value": -0.1
+     },
+     "wow_change": {
+      "index": 8,
+      "value": 0.01
+     },
+     "seasonality_score": 0.9579946,
+     "affinity": null,
+     "term": "autumn nails short",
+     "normalizedCount": 46,
+     "searchCount": 46,
+     "reverseRank": 28
+    },
+    {
+     "mom_change": {
+      "index": 27,
+      "value": 10
+     },
+     "yoy_change": {
+      "index": 6,
+      "value": -0.4
+     },
+     "wow_change": {
+      "index": 36,
+      "value": 0.2
+     },
+     "seasonality_score": 0.94775426,
+     "affinity": null,
+     "term": "autumn date night outfit",
+     "normalizedCount": 12,
+     "searchCount": 12,
+     "reverseRank": 27
+    },
+    {
+     "mom_change": {
+      "index": 26,
+      "value": 10
+     },
+     "yoy_change": {
+      "index": 12,
+      "value": -0.2
+     },
+     "wow_change": {
+      "index": 16,
+      "value": 0.05
+     },
+     "seasonality_score": 0.98654336,
+     "affinity": null,
+     "term": "autumn brunch outfit",
+     "normalizedCount": 7,
+     "searchCount": 7,
+     "reverseRank": 26
+    },
+    {
+     "mom_change": {
+      "index": 25,
+      "value": 10
+     },
+     "yoy_change": {
+      "index": 26,
+      "value": -0.1
+     },
+     "wow_change": {
+      "index": 43,
+      "value": 0.3
+     },
+     "seasonality_score": 0.98781604,
+     "affinity": null,
+     "term": "autumn nails green",
+     "normalizedCount": 9,
+     "searchCount": 9,
+     "reverseRank": 25
+    },
+    {
+     "mom_change": {
+      "index": 24,
+      "value": 10
+     },
+     "yoy_change": {
+      "index": 46,
+      "value": 0.2
+     },
+     "wow_change": {
+      "index": 7,
+      "value": 0
+     },
+     "seasonality_score": 0.9720987,
+     "affinity": null,
+     "term": "autumn toe nails",
+     "normalizedCount": 18,
+     "searchCount": 18,
+     "reverseRank": 24
+    },
+    {
+     "mom_change": {
+      "index": 23,
+      "value": 10
+     },
+     "yoy_change": {
+      "index": 33,
+      "value": 0
+     },
+     "wow_change": {
+      "index": 26,
+      "value": 0.09
+     },
+     "seasonality_score": 0.912188,
+     "affinity": null,
+     "term": "autumn brown nails",
+     "normalizedCount": 10,
+     "searchCount": 10,
+     "reverseRank": 23
+    },
+    {
+     "mom_change": {
+      "index": 22,
+      "value": 10
+     },
+     "yoy_change": {
+      "index": 7,
+      "value": -0.4
+     },
+     "wow_change": {
+      "index": 13,
+      "value": 0.03
+     },
+     "seasonality_score": 0.93423957,
+     "affinity": null,
+     "term": "autumn nails biab",
+     "normalizedCount": 10,
+     "searchCount": 10,
+     "reverseRank": 22
+    },
+    {
+     "mom_change": {
+      "index": 21,
+      "value": 10
+     },
+     "yoy_change": {
+      "index": 22,
+      "value": -0.1
+     },
+     "wow_change": {
+      "index": 32,
+      "value": 0.1
+     },
+     "seasonality_score": 0.96862113,
+     "affinity": null,
+     "term": "natural forms mind map",
+     "normalizedCount": 12,
+     "searchCount": 12,
+     "reverseRank": 21
+    },
+    {
+     "mom_change": {
+      "index": 20,
+      "value": 10
+     },
+     "yoy_change": {
+      "index": 32,
+      "value": -0.01
+     },
+     "wow_change": {
+      "index": 24,
+      "value": 0.08
+     },
+     "seasonality_score": 0.95623094,
+     "affinity": null,
+     "term": "blue autumn nails",
+     "normalizedCount": 8,
+     "searchCount": 8,
+     "reverseRank": 20
+    },
+    {
+     "mom_change": {
+      "index": 19,
+      "value": 10
+     },
+     "yoy_change": {
+      "index": 18,
+      "value": -0.2
+     },
+     "wow_change": {
+      "index": 21,
+      "value": 0.07
+     },
+     "seasonality_score": 0.9467147,
+     "affinity": null,
+     "term": "autumn going out outfit",
+     "normalizedCount": 20,
+     "searchCount": 20,
+     "reverseRank": 19
+    },
+    {
+     "mom_change": {
+      "index": 18,
+      "value": 10
+     },
+     "yoy_change": {
+      "index": 3,
+      "value": -0.5
+     },
+     "wow_change": {
+      "index": 45,
+      "value": 0.4
+     },
+     "seasonality_score": 0.95513374,
+     "affinity": null,
+     "term": "autumn tuff tray",
+     "normalizedCount": 13,
+     "searchCount": 13,
+     "reverseRank": 18
+    },
+    {
+     "mom_change": {
+      "index": 17,
+      "value": 10
+     },
+     "yoy_change": {
+      "index": 40,
+      "value": 0.09
+     },
+     "wow_change": {
+      "index": 39,
+      "value": 0.3
+     },
+     "seasonality_score": 0.99657255,
+     "affinity": null,
+     "term": "autumn activities for toddlers",
+     "normalizedCount": 21,
+     "searchCount": 21,
+     "reverseRank": 17
+    },
+    {
+     "mom_change": {
+      "index": 16,
+      "value": 10
+     },
+     "yoy_change": {
+      "index": 28,
+      "value": -0.07
+     },
+     "wow_change": {
+      "index": 2,
+      "value": -0.08
+     },
+     "seasonality_score": 0.93983907,
+     "affinity": null,
+     "term": "autumn dinner outfit",
+     "normalizedCount": 11,
+     "searchCount": 11,
+     "reverseRank": 16
+    },
+    {
+     "mom_change": {
+      "index": 15,
+      "value": 10
+     },
+     "yoy_change": {
+      "index": 50,
+      "value": 0.9
+     },
+     "wow_change": {
+      "index": 37,
+      "value": 0.3
+     },
+     "seasonality_score": 0.9099166,
+     "affinity": null,
+     "term": "short nail designs autumn",
+     "normalizedCount": 17,
+     "searchCount": 17,
+     "reverseRank": 15
+    },
+    {
+     "mom_change": {
+      "index": 14,
+      "value": 10
+     },
+     "yoy_change": {
+      "index": 37,
+      "value": 0.01
+     },
+     "wow_change": {
+      "index": 3,
+      "value": -0.03
+     },
+     "seasonality_score": 0.9294525,
+     "affinity": null,
+     "term": "simple autumn nails",
+     "normalizedCount": 100,
+     "searchCount": 100,
+     "reverseRank": 14
+    },
+    {
+     "mom_change": {
+      "index": 13,
+      "value": 10
+     },
+     "yoy_change": {
+      "index": 30,
+      "value": -0.06
+     },
+     "wow_change": {
+      "index": 38,
+      "value": 0.3
+     },
+     "seasonality_score": 0.9656457,
+     "affinity": null,
+     "term": "leading lines photography",
+     "normalizedCount": 7,
+     "searchCount": 7,
+     "reverseRank": 13
+    },
+    {
+     "mom_change": {
+      "index": 12,
+      "value": 10
+     },
+     "yoy_change": {
+      "index": 2,
+      "value": -0.6
+     },
+     "wow_change": {
+      "index": 48,
+      "value": 0.5
+     },
+     "seasonality_score": 0.8528206,
+     "affinity": null,
+     "term": "brown fall nails",
+     "normalizedCount": 9,
+     "searchCount": 9,
+     "reverseRank": 12
+    },
+    {
+     "mom_change": {
+      "index": 11,
+      "value": 10
+     },
+     "yoy_change": {
+      "index": 27,
+      "value": -0.1
+     },
+     "wow_change": {
+      "index": 29,
+      "value": 0.1
+     },
+     "seasonality_score": 0.8772079,
+     "affinity": null,
+     "term": "brown autumn nails",
+     "normalizedCount": 39,
+     "searchCount": 39,
+     "reverseRank": 11
+    },
+    {
+     "mom_change": {
+      "index": 10,
+      "value": 10
+     },
+     "yoy_change": {
+      "index": 39,
+      "value": 0.06
+     },
+     "wow_change": {
+      "index": 6,
+      "value": 0
+     },
+     "seasonality_score": 0.95661086,
+     "affinity": null,
+     "term": "autumn nails red",
+     "normalizedCount": 17,
+     "searchCount": 17,
+     "reverseRank": 10
+    },
+    {
+     "mom_change": {
+      "index": 9,
+      "value": 10
+     },
+     "yoy_change": {
+      "index": 21,
+      "value": -0.1
+     },
+     "wow_change": {
+      "index": 15,
+      "value": 0.04
+     },
+     "seasonality_score": 0.92018074,
+     "affinity": null,
+     "term": "fabric christmas cards",
+     "normalizedCount": 6,
+     "searchCount": 6,
+     "reverseRank": 9
+    },
+    {
+     "mom_change": {
+      "index": 8,
+      "value": 10
+     },
+     "yoy_change": {
+      "index": 20,
+      "value": -0.2
+     },
+     "wow_change": {
+      "index": 4,
+      "value": -0.02
+     },
+     "seasonality_score": 0.98738956,
+     "affinity": null,
+     "term": "orange autumn nails",
+     "normalizedCount": 8,
+     "searchCount": 8,
+     "reverseRank": 8
+    },
+    {
+     "mom_change": {
+      "index": 7,
+      "value": 10
+     },
+     "yoy_change": {
+      "index": 34,
+      "value": 0
+     },
+     "wow_change": {
+      "index": 14,
+      "value": 0.04
+     },
+     "seasonality_score": 0.8576667,
+     "affinity": null,
+     "term": "autumn nails brown",
+     "normalizedCount": 21,
+     "searchCount": 21,
+     "reverseRank": 7
+    },
+    {
+     "mom_change": {
+      "index": 6,
+      "value": 10
+     },
+     "yoy_change": {
+      "index": 41,
+      "value": 0.09
+     },
+     "wow_change": {
+      "index": 49,
+      "value": 0.7
+     },
+     "seasonality_score": 0.9917836,
+     "affinity": null,
+     "term": "subtle halloween nails",
+     "normalizedCount": 10,
+     "searchCount": 10,
+     "reverseRank": 6
+    },
+    {
+     "mom_change": {
+      "index": 5,
+      "value": 10
+     },
+     "yoy_change": {
+      "index": 38,
+      "value": 0.05
+     },
+     "wow_change": {
+      "index": 40,
+      "value": 0.3
+     },
+     "seasonality_score": 0.9587764,
+     "affinity": null,
+     "term": "rule of thirds photography",
+     "normalizedCount": 7,
+     "searchCount": 7,
+     "reverseRank": 5
+    },
+    {
+     "mom_change": {
+      "index": 4,
+      "value": 10
+     },
+     "yoy_change": {
+      "index": 14,
+      "value": -0.2
+     },
+     "wow_change": {
+      "index": 1,
+      "value": -0.08
+     },
+     "seasonality_score": 0.9810784,
+     "affinity": null,
+     "term": "autumn short nails",
+     "normalizedCount": 19,
+     "searchCount": 19,
+     "reverseRank": 4
+    },
+    {
+     "mom_change": {
+      "index": 3,
+      "value": 10
+     },
+     "yoy_change": {
+      "index": 4,
+      "value": -0.5
+     },
+     "wow_change": {
+      "index": 30,
+      "value": 0.1
+     },
+     "seasonality_score": 0.9588855,
+     "affinity": null,
+     "term": "autumn biab",
+     "normalizedCount": 7,
+     "searchCount": 7,
+     "reverseRank": 3
+    },
+    {
+     "mom_change": {
+      "index": 2,
+      "value": 10
+     },
+     "yoy_change": {
+      "index": 10,
+      "value": -0.3
+     },
+     "wow_change": {
+      "index": 28,
+      "value": 0.1
+     },
+     "seasonality_score": 0.9852584,
+     "affinity": null,
+     "term": "autumn red nails",
+     "normalizedCount": 8,
+     "searchCount": 8,
+     "reverseRank": 2
+    },
+    {
+     "mom_change": {
+      "index": 1,
+      "value": 10
+     },
+     "yoy_change": {
+      "index": 42,
+      "value": 0.1
+     },
+     "wow_change": {
+      "index": 19,
+      "value": 0.06
+     },
+     "seasonality_score": 0.91892034,
+     "affinity": null,
+     "term": "square autumn nails",
+     "normalizedCount": 22,
+     "searchCount": 22,
+     "reverseRank": 1
+    }
+   ]
+  }
+ }
+}

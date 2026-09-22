@@ -1,0 +1,8 @@
+{
+  "_comment": "Blank template. Copy to specs/<name>.json and fill in. image_path may be absolute or relative to pinterest-rig/. Pinterest limits: JPG/PNG up to 20MB, canvas 1000x1500 (2:3).",
+  "image_path": "/home/ubuntu/pinterest-rig/factory/samples/",
+  "title": "",
+  "description": "",
+  "link": null,
+  "board_name": ""
+}
